@@ -1,0 +1,85 @@
+﻿!trail file version No. 1450
+!Pro/ENGINEER  TM  Wildfire 5.0  (c) 1988-2002 by Wisdom Systems  All Rights Reserved.
+< 0 0.884148 1126 0 0 746 1280 0 0 800 13
+!mem_use INCREASE Blocks 208246, AppSize 24990520, SysSize 34379080
+< 0 0.754963 918 0 0 637 1280 0 0 800 13
+< 0 0.754963 826 0 0 637 1280 0 0 800 13
+!%CI欢迎使用 Pro/ENGINEER Wildfire 5.0。
+< 0 0.754963 812 0 0 637 1280 0 0 800 13
+< 0 0.754963 840 0 0 637 1280 0 0 800 13
+~ Command `ProCmdModelOpen` 
+< 2 0.118519 178 0 0 100 1280 0 0 800 13
+~ Activate `file_open` `Current Dir`
+~ Activate `file_open` `SAB_..|`
+~ Select `file_open` `Ph_list.Filelist` \
+1  `FR-B2-B`
+~ Activate `file_open` `Ph_list.Filelist` \
+1  `FR-B2-B`
+~ Activate `file_open` `Open`
+!Command ProCmdModelOpenExe was pushed from the software.
+!06-Aug-19 18:37:23  Start D:\design\FR-B2-B\brace-8inch.prt.5
+!06-Aug-19 18:37:23  End   D:\design\FR-B2-B\brace-8inch.prt.5
+< 0 0.801185 840 0 0 676 1280 0 0 800 13
+< 0 0.798000 798 0 0 676 1280 0 0 800 13
+~ Command `ProCmdModelSaveAs` 
+~ Open `file_saveas` `type_option`
+~ Close `file_saveas` `type_option`
+~ Select `file_saveas` `type_option` \
+1  `db_539`
+~ Activate `file_saveas` `OK`
+~ Activate `intf_export` `OkPushBtn`
+!%CI模型BRACE-8INCH的百分之10已经被处理。
+!%CI模型BRACE-8INCH的百分之20已经被处理。
+!%CI模型BRACE-8INCH的百分之30已经被处理。
+!%CI模型BRACE-8INCH的百分之40已经被处理。
+!%CI模型BRACE-8INCH的百分之50已经被处理。
+!%CI模型BRACE-8INCH的百分之60已经被处理。
+!%CI模型BRACE-8INCH的百分之70已经被处理。
+!%CI模型BRACE-8INCH的百分之80已经被处理。
+!%CI模型BRACE-8INCH的百分之90已经被处理。
+!%CI模型BRACE-8INCH的百分之100已经被处理。
+!%CI已经创建STEP文件brace-8inch.stp。
+~ Command `ProCmdModelOpen` 
+< 2 0.118519 178 0 0 100 1280 0 0 800 13
+~ Select `file_open` `Ph_list.Filelist` \
+1  `brace-board.prt`
+~ Activate `file_open` `Open`
+!Command ProCmdModelOpenExe was pushed from the software.
+< 2 0.616000 616 0 0 616 1280 0 0 800 13
+< 2 0.828444 944 0 0 699 1280 0 0 800 13
+< 2 0.754963 812 0 0 637 1280 0 0 800 13
+!06-Aug-19 18:37:53  Start D:\design\FR-B2-B\brace-board.prt.3
+!06-Aug-19 18:37:53  End   D:\design\FR-B2-B\brace-board.prt.3
+< 2 0.754963 826 0 0 637 1280 0 0 800 13
+< 2 0.754963 770 0 0 637 1280 0 0 800 13
+< 2 0.754963 798 0 0 637 1280 0 0 800 13
+~ Command `ProCmdModelSaveAs` 
+~ Open `file_saveas` `type_option`
+~ Close `file_saveas` `type_option`
+~ Select `file_saveas` `type_option` \
+1  `db_539`
+~ Activate `file_saveas` `OK`
+~ Activate `intf_export` `OkPushBtn`
+!%CI模型BRACE-BOARD的百分之10已经被处理。
+!%CI模型BRACE-BOARD的百分之20已经被处理。
+!%CI模型BRACE-BOARD的百分之30已经被处理。
+!%CI模型BRACE-BOARD的百分之40已经被处理。
+!%CI模型BRACE-BOARD的百分之50已经被处理。
+!%CI模型BRACE-BOARD的百分之60已经被处理。
+!%CI模型BRACE-BOARD的百分之70已经被处理。
+!%CI模型BRACE-BOARD的百分之80已经被处理。
+!%CI模型BRACE-BOARD的百分之90已经被处理。
+!%CI模型BRACE-BOARD的百分之100已经被处理。
+!%CI已经创建STEP文件brace-board.stp。
+~ Close `main_dlg_cur` `main_dlg_cur`
+!Command ProCmdWinOSCloseAsyn was pushed from the software.
+!Command ProCmdWinClose was pushed from the software.
+~ Activate `main_dlg_cur` `main_dlg_cur`
+~ Close `main_dlg_cur` `main_dlg_cur`
+!Command ProCmdOSExit was pushed from the software.
+! Message Dialog: Warning
+!               : Pro/ENGINEER 将终止，并且所有未保存的工作将会丢失。
+!               : 您确实要退出吗?
+~ FocusIn `UI Message Dialog` `yes`
+~ Activate `UI Message Dialog` `yes`
+!End of Trail File

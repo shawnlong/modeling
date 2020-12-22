@@ -1,0 +1,874 @@
+﻿!trail file version No. 1450
+!Pro/ENGINEER  TM  Wildfire 5.0  (c) 1988-2002 by Wisdom Systems  All Rights Reserved.
+< 0 0.884148 1126 0 0 746 1280 0 0 800 13
+!mem_use INCREASE Blocks 208268, AppSize 24991472, SysSize 34379080
+< 0 0.754963 918 0 0 637 1280 0 0 800 13
+< 0 0.754963 826 0 0 637 1280 0 0 800 13
+!%CI欢迎使用 Pro/ENGINEER Wildfire 5.0。
+< 0 0.754963 812 0 0 637 1280 0 0 800 13
+< 0 0.754963 840 0 0 637 1280 0 0 800 13
+< 0 0.773926 994 0 0 653 1280 0 0 800 13
+~ Resize `main_dlg_cur` `main_dlg_cur` \
+4 -0.280350 -0.280350 44.856070 25.827284 
+~ Move `main_dlg_cur` `main_dlg_cur` \
+2 -0.280350 -0.280350 
+~ Activate `main_dlg_cur` `main_dlg_cur`
+~ Activate `main_dlg_cur` `main_dlg_cur`
+~ Command `ProCmdModelOpen` 
+< 2 0.118519 178 0 0 100 1280 0 0 800 13
+~ Activate `file_open` `Current Dir`
+~ Activate `file_open` `SAB_..|`
+~ Select `file_open` `Ph_list.Filelist` \
+1  `LB-ARMSERVER`
+~ Activate `file_open` `Ph_list.Filelist` \
+1  `LB-ARMSERVER`
+~ Open `file_open` `Type`
+~ Close `file_open` `Type`
+~ Select `file_open` `Type` \
+1  `db_-1`
+~ Select `file_open` `Ph_list.Filelist` \
+1  `brace-fan.stp`
+~ Activate `file_open` `Open`
+!Command ProCmdModelImpCreateExe was pushed from the software.
+~ Activate `impt_new_model` `PushButton3`
+@ ok
+!Undo: added rec_id -1 type 5304 
+!
+!%CI读取STEP数据。
+!%CI正在读取brace-fan.stp。步骤1:已完成的百分比为100。
+!%CI正在读取brace-fan.stp。步骤2:已完成的百分比为100。
+!%CI正在读取brace-fan.stp。步骤3:已完成的百分比为100。
+!%CI正在读取brace-fan.stp。步骤4:已完成的百分比为100。
+!%CI正在读取brace-fan.stp。步骤5:已完成的百分比为100。
+!%CI正在读取brace-fan.stp。步骤6:已完成的百分比为100。
+!%CI正在读取brace-fan.stp。步骤7:已完成的百分比为100。
+!%CI正在读取brace-fan.stp。步骤8:已完成的百分比为100。
+!%CI正在读取brace-fan.stp。步骤9:已完成的百分比为100。
+!%CI正在读取brace-fan.stp。步骤10:已完成的百分比为100。
+!%CI正在读取brace-fan.stp。步骤11:已完成的百分比为100。
+!%CI正在读取brace-fan.stp。步骤12:已完成的百分比为100。
+!%CI正在读取brace-fan.stp。步骤13:已完成的百分比为100。
+!%CI正在读取brace-fan.stp。步骤14:已完成的百分比为100。
+!%CI正在读取brace-fan.stp。步骤15:已完成的百分比为100。
+!%CI正在读取brace-fan.stp。步骤16:已完成的百分比为100。
+!%CI正在读取brace-fan.stp。步骤17:已完成的百分比为100。
+!%CI正在读取brace-fan.stp。步骤18:已完成的百分比为100。
+!%CI正在读取brace-fan.stp。步骤19:已完成的百分比为100。
+!%CI正在读取brace-fan.stp。步骤20:已完成的百分比为100。
+!%CI正在读取brace-fan.stp。步骤21:已完成的百分比为100。
+!%CI正在读取brace-fan.stp。步骤22:已完成的百分比为100。
+!%CI正在读取brace-fan.stp。步骤23:已完成的百分比为100。
+!%CI正在读取brace-fan.stp。步骤24:已完成的百分比为100。
+!%CI正在读取brace-fan.stp。步骤25:已完成的百分比为100。
+!%CI正在读取brace-fan.stp。步骤26:已完成的百分比为100。
+!%CI正在读取brace-fan.stp。步骤27:已完成的百分比为100。
+!%CI正在读取brace-fan.stp。步骤28:已完成的百分比为100。
+!%CI正在读取brace-fan.stp。步骤29:已完成的百分比为100。
+!%CI正在读取brace-fan.stp。步骤30:已完成的百分比为100。
+!%CI正在读取brace-fan.stp。步骤31:已完成的百分比为100。
+!%CI正在读取brace-fan.stp。步骤32:已完成的百分比为100。
+!%CI正在读取brace-fan.stp。步骤33:已完成的百分比为100。
+!%CI正在读取brace-fan.stp。步骤34:已完成的百分比为100。
+!%CI正在读取brace-fan.stp。步骤35:已完成的百分比为100。
+!%CI正在读取brace-fan.stp。步骤36:已完成的百分比为100。
+!%CI正在读取brace-fan.stp。步骤37:已完成的百分比为100。
+!%CI正在读取brace-fan.stp。步骤38:已完成的百分比为100。
+!%CI正在读取brace-fan.stp。步骤39:已完成的百分比为100。
+!%CI正在读取brace-fan.stp。步骤40:已完成的百分比为100。
+!%CI正在读取brace-fan.stp。步骤41:已完成的百分比为100。
+!%CI正在读取brace-fan.stp。步骤42:已完成的百分比为100。
+!%CI正在读取brace-fan.stp。步骤43:已完成的百分比为100。
+!%CI正在读取brace-fan.stp。步骤44:已完成的百分比为100。
+!%CI正在读取brace-fan.stp。步骤45:已完成的百分比为100。
+!%CI正在读取brace-fan.stp。步骤46:已完成的百分比为100。
+!%CI正在读取brace-fan.stp。步骤47:已完成的百分比为100。
+!%CI正在读取brace-fan.stp。步骤48:已完成的百分比为100。
+!%CI正在读取brace-fan.stp。步骤49:已完成的百分比为100。
+!%CI处理界面数据。
+!%CI正在处理brace-fan.stp。步骤1:已完成的百分比为100。
+!%CI正在处理brace-fan.stp。步骤2:已完成的百分比为100。
+!%CI正在处理brace-fan.stp。步骤4:已完成的百分比为100。
+!%CI正在处理brace-fan.stp。步骤5:已完成的百分比为100。
+!%CI正在处理brace-fan.stp。步骤6:已完成的百分比为100。
+!%CI正在处理brace-fan.stp。步骤7:已完成的百分比为100。
+!%CI正在处理brace-fan.stp。步骤8:已完成的百分比为100。
+!%CI正在处理brace-fan.stp。步骤9:已完成的百分比为100。
+!%CI正在处理brace-fan.stp。步骤10:已完成的百分比为100。
+!%CI正在处理brace-fan.stp。步骤11:已完成的百分比为100。
+!%CI正在处理brace-fan.stp。步骤12:已完成的百分比为100。
+!%CI正在处理brace-fan.stp。步骤13:已完成的百分比为100。
+!%CI正在处理brace-fan.stp。步骤14:已完成的百分比为100。
+!%CI正在处理brace-fan.stp。步骤15:已完成的百分比为100。
+!%CI正在处理brace-fan.stp。步骤16:已完成的百分比为100。
+!%CI正在处理brace-fan.stp。步骤17:已完成的百分比为100。
+!%CI正在处理brace-fan.stp。步骤18:已完成的百分比为100。
+!%CI正在处理brace-fan.stp。步骤19:已完成的百分比为100。
+!%CI正在处理brace-fan.stp。步骤20:已完成的百分比为100。
+!%CI正在处理brace-fan.stp。步骤21:已完成的百分比为100。
+!%CI正在处理brace-fan.stp。步骤22:已完成的百分比为100。
+!%CI正在处理brace-fan.stp。步骤23:已完成的百分比为100。
+!%CI正在处理brace-fan.stp。步骤24:已完成的百分比为100。
+!%CI正在处理brace-fan.stp。步骤25:已完成的百分比为100。
+!%CI正在处理brace-fan.stp。步骤26:已完成的百分比为100。
+!%CI正在处理brace-fan.stp。步骤27:已完成的百分比为100。
+!%CI正在处理brace-fan.stp。步骤28:已完成的百分比为100。
+!%CI正在处理brace-fan.stp。步骤29:已完成的百分比为100。
+!%CI正在处理brace-fan.stp。步骤30:已完成的百分比为100。
+!%CI正在处理brace-fan.stp。步骤31:已完成的百分比为100。
+!%CI正在处理brace-fan.stp。步骤32:已完成的百分比为100。
+!%CI正在处理brace-fan.stp。步骤33:已完成的百分比为100。
+!%CI正在处理brace-fan.stp。步骤34:已完成的百分比为100。
+!%CI正在处理brace-fan.stp。步骤35:已完成的百分比为100。
+!%CI正在处理brace-fan.stp。步骤36:已完成的百分比为100。
+!%CI正在处理brace-fan.stp。步骤37:已完成的百分比为100。
+!%CI正在处理brace-fan.stp。步骤38:已完成的百分比为100。
+!%CI正在处理brace-fan.stp。步骤39:已完成的百分比为100。
+!%CI正在处理brace-fan.stp。步骤40:已完成的百分比为100。
+!%CI正在处理brace-fan.stp。步骤41:已完成的百分比为100。
+!%CI正在处理brace-fan.stp。步骤42:已完成的百分比为100。
+!%CI正在处理brace-fan.stp。步骤43:已完成的百分比为100。
+!%CI正在处理brace-fan.stp。步骤44:已完成的百分比为100。
+!%CI正在处理brace-fan.stp。步骤45:已完成的百分比为100。
+!%CI正在处理brace-fan.stp。步骤46:已完成的百分比为100。
+!%CI正在处理brace-fan.stp。步骤47:已完成的百分比为100。
+!%CI正在处理brace-fan.stp。步骤48:已完成的百分比为100。
+!%CI正在处理brace-fan.stp。步骤49:已完成的百分比为100。
+!%CI正在处理brace-fan.stp。步骤50:已完成的百分比为100。
+!%CI正在处理brace-fan.stp。步骤51:已完成的百分比为100。
+!%CI正在处理brace-fan.stp。步骤52:已完成的百分比为100。
+!%CI正在处理brace-fan.stp。步骤53:已完成的百分比为100。
+!%CI正在处理brace-fan.stp。步骤54:已完成的百分比为100。
+!%CI正在处理brace-fan.stp。步骤55:已完成的百分比为100。
+!%CI正在处理brace-fan.stp。步骤56:已完成的百分比为100。
+!%CI正在处理brace-fan.stp。步骤57:已完成的百分比为100。
+!%CI正在处理brace-fan.stp。步骤58:已完成的百分比为100。
+!%CI正在处理brace-fan.stp。步骤59:已完成的百分比为100。
+!%CI正在处理brace-fan.stp。步骤60:已完成的百分比为100。
+!%CI正在处理brace-fan.stp。步骤61:已完成的百分比为100。
+!%CW警告:根据STEP数据设置长度单位为MM。
+@ trail error  : Creating feature 4 in model _BRACE-FAN - error 0
+ 0 
+!Undo: added rec_id 9 type 5304 
+!
+!Undo: added rec_id -1 type 5304 
+!
+!Undo: added rec_id -1 type 5304 
+!
+!%CI处理界面数据。
+!%CI正在处理。步骤62:已完成的百分比为100。
+!%CI正在处理。步骤63:已完成的百分比为100。
+!%CI正在处理。步骤65:已完成的百分比为100。
+!%CI正在处理。步骤66:已完成的百分比为100。
+!%CI正在处理。步骤67:已完成的百分比为100。
+!%CI正在处理。步骤68:已完成的百分比为100。
+!%CI正在处理。步骤69:已完成的百分比为100。
+!%CI正在处理。步骤70:已完成的百分比为100。
+!%CI正在处理。步骤71:已完成的百分比为100。
+!%CI正在处理。步骤72:已完成的百分比为100。
+!%CI正在处理。步骤73:已完成的百分比为100。
+!%CI正在处理。步骤75:已完成的百分比为100。
+!%CI正在处理。步骤76:已完成的百分比为100。
+!%CI正在处理。步骤77:已完成的百分比为100。
+!%CI正在处理。步骤78:已完成的百分比为100。
+!%CI正在处理。步骤79:已完成的百分比为100。
+!%CI正在处理。步骤80:已完成的百分比为100。
+!%CI正在处理。步骤81:已完成的百分比为100。
+!%CI正在处理。步骤82:已完成的百分比为100。
+!%CI正在处理。步骤83:已完成的百分比为100。
+!%CI正在处理。步骤84:已完成的百分比为100。
+!%CI正在处理。步骤85:已完成的百分比为100。
+!%CI正在处理。步骤86:已完成的百分比为100。
+!%CI正在处理。步骤87:已完成的百分比为100。
+!%CI正在处理。步骤88:已完成的百分比为100。
+!%CI正在处理。步骤89:已完成的百分比为100。
+!%CI正在处理。步骤90:已完成的百分比为100。
+!%CI正在处理。步骤91:已完成的百分比为100。
+!%CI正在处理。步骤92:已完成的百分比为100。
+!%CI正在处理。步骤93:已完成的百分比为100。
+!%CI正在处理。步骤94:已完成的百分比为100。
+!%CI正在处理。步骤95:已完成的百分比为100。
+!%CI正在处理。步骤96:已完成的百分比为100。
+!%CI正在处理。步骤97:已完成的百分比为100。
+!%CI正在处理。步骤98:已完成的百分比为100。
+!%CI正在处理。步骤99:已完成的百分比为100。
+!%CI正在处理。步骤100:已完成的百分比为100。
+!%CI正在处理。步骤101:已完成的百分比为100。
+!%CI正在处理。步骤102:已完成的百分比为100。
+!%CI正在处理。步骤103:已完成的百分比为100。
+!%CI正在处理。步骤104:已完成的百分比为100。
+!%CI正在处理。步骤105:已完成的百分比为100。
+!%CI正在处理。步骤106:已完成的百分比为100。
+!%CI正在处理。步骤107:已完成的百分比为100。
+!%CI正在处理。步骤108:已完成的百分比为100。
+!%CI正在处理。步骤109:已完成的百分比为100。
+!%CI正在处理。步骤110:已完成的百分比为100。
+!%CI正在处理。步骤111:已完成的百分比为100。
+!%CI正在处理。步骤112:已完成的百分比为100。
+!%CI正在处理。步骤113:已完成的百分比为100。
+!%CI正在处理。步骤114:已完成的百分比为100。
+!%CI正在处理。步骤115:已完成的百分比为100。
+!%CI正在处理。步骤116:已完成的百分比为100。
+!%CI正在处理。步骤117:已完成的百分比为100。
+!%CI正在处理。步骤118:已完成的百分比为100。
+!%CI正在处理。步骤119:已完成的百分比为100。
+!%CI正在处理。步骤120:已完成的百分比为100。
+!%CI正在处理。步骤121:已完成的百分比为100。
+!%CI正在处理。步骤122:已完成的百分比为100。
+!%CW警告:根据STEP数据设置长度单位为MM。
+@ trail error  : Creating feature 4 in model 00-0001_23 - error 0
+ 0 
+!Undo: added rec_id 9 type 5304 
+!
+!Undo: added rec_id -1 type 5304 
+!
+!%CI处理界面数据。
+!%CI正在处理00_5。步骤1:已完成的百分比为100。
+!%CI正在处理00_5。步骤2:已完成的百分比为100。
+!%CI正在处理00_5。步骤3:已完成的百分比为100。
+!%CI正在处理00_5。步骤4:已完成的百分比为100。
+!%CI正在处理00_5。步骤5:已完成的百分比为100。
+!%CI正在处理00_5。步骤6:已完成的百分比为100。
+!%CI正在处理00_5。步骤7:已完成的百分比为100。
+!%CI正在处理00_5。步骤8:已完成的百分比为100。
+!%CI正在处理00_5。步骤9:已完成的百分比为100。
+!%CI正在处理00_5。步骤10:已完成的百分比为100。
+!%CI正在处理00_5。步骤11:已完成的百分比为100。
+!%CI正在处理00_5。步骤13:已完成的百分比为100。
+!%CI正在处理00_5。步骤14:已完成的百分比为100。
+!%CI正在处理00_5。步骤15:已完成的百分比为100。
+!%CI正在处理00_5。步骤16:已完成的百分比为100。
+!%CI正在处理00_5。步骤17:已完成的百分比为100。
+!%CI正在处理00_5。步骤18:已完成的百分比为100。
+!%CI正在处理00_5。步骤19:已完成的百分比为100。
+!%CI正在处理00_5。步骤20:已完成的百分比为100。
+!%CI正在处理00_5。步骤21:已完成的百分比为100。
+!%CI正在处理00_5。步骤22:已完成的百分比为100。
+!%CI正在处理00_5。步骤23:已完成的百分比为100。
+!%CI正在处理00_5。步骤24:已完成的百分比为100。
+!%CI正在处理00_5。步骤25:已完成的百分比为100。
+!%CI正在处理00_5。步骤26:已完成的百分比为100。
+!%CI正在处理00_5。步骤27:已完成的百分比为100。
+!%CI正在处理00_5。步骤28:已完成的百分比为100。
+!%CI正在处理00_5。步骤29:已完成的百分比为100。
+!%CI正在处理00_5。步骤30:已完成的百分比为100。
+!%CI正在处理00_5。步骤31:已完成的百分比为100。
+!%CI正在处理00_5。步骤32:已完成的百分比为100。
+!%CI正在处理00_5。步骤33:已完成的百分比为100。
+!%CI正在处理00_5。步骤34:已完成的百分比为100。
+!%CI正在处理00_5。步骤35:已完成的百分比为100。
+!%CI正在处理00_5。步骤36:已完成的百分比为100。
+!%CI正在处理00_5。步骤37:已完成的百分比为100。
+!%CI正在处理00_5。步骤38:已完成的百分比为100。
+!%CI正在处理00_5。步骤39:已完成的百分比为100。
+!%CI正在处理00_5。步骤40:已完成的百分比为100。
+!%CI正在处理00_5。步骤41:已完成的百分比为100。
+!%CI正在处理00_5。步骤42:已完成的百分比为100。
+!%CI正在处理00_5。步骤43:已完成的百分比为100。
+!%CI正在处理00_5。步骤44:已完成的百分比为100。
+!%CI正在处理00_5。步骤45:已完成的百分比为100。
+!%CI正在处理00_5。步骤46:已完成的百分比为100。
+!%CI正在处理00_5。步骤47:已完成的百分比为100。
+!%CI正在处理00_5。步骤48:已完成的百分比为100。
+!%CI正在处理00_5。步骤49:已完成的百分比为100。
+!%CI正在处理00_5。步骤50:已完成的百分比为100。
+!%CI正在处理00_5。步骤51:已完成的百分比为100。
+!%CI正在处理00_5。步骤52:已完成的百分比为100。
+!%CI正在处理00_5。步骤53:已完成的百分比为100。
+!%CI正在处理00_5。步骤54:已完成的百分比为100。
+!%CI正在处理00_5。步骤55:已完成的百分比为100。
+!%CI正在处理00_5。步骤56:已完成的百分比为100。
+!%CI正在处理00_5。步骤57:已完成的百分比为100。
+!%CW警告:根据STEP数据设置长度单位为MM。
+@ trail error  : Creating feature 4 in model 00_5 - error 0
+ 0 
+!Undo: added rec_id 9 type 5304 
+!
+!Undo: added rec_id -1 type 5304 
+!
+!%CI处理界面数据。
+!%CI正在处理000_3。步骤1:已完成的百分比为40。
+!%CI正在处理000_3。步骤1:已完成的百分比为100。
+!%CI正在处理000_3。步骤2:已完成的百分比为100。
+!%CI正在处理000_3。步骤3:已完成的百分比为100。
+!%CI正在处理000_3。步骤4:已完成的百分比为100。
+!%CI正在处理000_3。步骤5:已完成的百分比为100。
+!%CI正在处理000_3。步骤6:已完成的百分比为100。
+!%CI正在处理000_3。步骤7:已完成的百分比为100。
+!%CI正在处理000_3。步骤8:已完成的百分比为100。
+!%CI正在处理000_3。步骤9:已完成的百分比为100。
+!%CI正在处理000_3。步骤10:已完成的百分比为100。
+!%CI正在处理000_3。步骤11:已完成的百分比为100。
+!%CI正在处理000_3。步骤13:已完成的百分比为100。
+!%CI正在处理000_3。步骤14:已完成的百分比为100。
+!%CI正在处理000_3。步骤15:已完成的百分比为100。
+!%CI正在处理000_3。步骤16:已完成的百分比为100。
+!%CI正在处理000_3。步骤17:已完成的百分比为100。
+!%CI正在处理000_3。步骤18:已完成的百分比为100。
+!%CI正在处理000_3。步骤19:已完成的百分比为100。
+!%CI正在处理000_3。步骤20:已完成的百分比为100。
+!%CI正在处理000_3。步骤21:已完成的百分比为100。
+!%CI正在处理000_3。步骤22:已完成的百分比为100。
+!%CI正在处理000_3。步骤23:已完成的百分比为100。
+!%CI正在处理000_3。步骤24:已完成的百分比为100。
+!%CI正在处理000_3。步骤25:已完成的百分比为100。
+!%CI正在处理000_3。步骤26:已完成的百分比为100。
+!%CI正在处理000_3。步骤27:已完成的百分比为100。
+!%CI正在处理000_3。步骤28:已完成的百分比为100。
+!%CI正在处理000_3。步骤29:已完成的百分比为100。
+!%CI正在处理000_3。步骤30:已完成的百分比为100。
+!%CI正在处理000_3。步骤31:已完成的百分比为100。
+!%CI正在处理000_3。步骤32:已完成的百分比为100。
+!%CI正在处理000_3。步骤33:已完成的百分比为100。
+!%CI正在处理000_3。步骤34:已完成的百分比为100。
+!%CI正在处理000_3。步骤35:已完成的百分比为100。
+!%CI正在处理000_3。步骤36:已完成的百分比为100。
+!%CI正在处理000_3。步骤37:已完成的百分比为100。
+!%CI正在处理000_3。步骤38:已完成的百分比为100。
+!%CI正在处理000_3。步骤39:已完成的百分比为100。
+!%CI正在处理000_3。步骤40:已完成的百分比为100。
+!%CI正在处理000_3。步骤41:已完成的百分比为100。
+!%CI正在处理000_3。步骤42:已完成的百分比为100。
+!%CI正在处理000_3。步骤43:已完成的百分比为100。
+!%CI正在处理000_3。步骤44:已完成的百分比为100。
+!%CI正在处理000_3。步骤45:已完成的百分比为100。
+!%CI正在处理000_3。步骤46:已完成的百分比为100。
+!%CI正在处理000_3。步骤47:已完成的百分比为100。
+!%CI正在处理000_3。步骤48:已完成的百分比为100。
+!%CI正在处理000_3。步骤49:已完成的百分比为100。
+!%CI正在处理000_3。步骤50:已完成的百分比为100。
+!%CI正在处理000_3。步骤51:已完成的百分比为100。
+!%CI正在处理000_3。步骤52:已完成的百分比为100。
+!%CI正在处理000_3。步骤53:已完成的百分比为100。
+!%CI正在处理000_3。步骤54:已完成的百分比为100。
+!%CI正在处理000_3。步骤55:已完成的百分比为100。
+!%CI正在处理000_3。步骤56:已完成的百分比为100。
+!%CI正在处理000_3。步骤57:已完成的百分比为100。
+!%CI正在处理000_3。步骤58:已完成的百分比为100。
+!%CW警告:根据STEP数据设置长度单位为MM。
+@ trail error  : Creating feature 4 in model 000_3 - error 0
+ 0 
+!Undo: added rec_id 9 type 5304 
+!
+!Undo: added rec_id -1 type 5304 
+!
+!%CI处理界面数据。
+!%CI正在处理10001_27。步骤1:已完成的百分比为5。
+!%CI正在处理10001_27。步骤1:已完成的百分比为100。
+!%CI正在处理10001_27。步骤2:已完成的百分比为100。
+!%CI正在处理10001_27。步骤3:已完成的百分比为100。
+!%CI正在处理10001_27。步骤4:已完成的百分比为100。
+!%CI正在处理10001_27。步骤5:已完成的百分比为100。
+!%CI正在处理10001_27。步骤6:已完成的百分比为100。
+!%CI正在处理10001_27。步骤7:已完成的百分比为100。
+!%CI正在处理10001_27。步骤8:已完成的百分比为100。
+!%CI正在处理10001_27。步骤9:已完成的百分比为100。
+!%CI正在处理10001_27。步骤10:已完成的百分比为100。
+!%CI正在处理10001_27。步骤11:已完成的百分比为100。
+!%CI正在处理10001_27。步骤13:已完成的百分比为100。
+!%CI正在处理10001_27。步骤14:已完成的百分比为100。
+!%CI正在处理10001_27。步骤15:已完成的百分比为100。
+!%CI正在处理10001_27。步骤16:已完成的百分比为100。
+!%CI正在处理10001_27。步骤17:已完成的百分比为100。
+!%CI正在处理10001_27。步骤18:已完成的百分比为100。
+!%CI正在处理10001_27。步骤19:已完成的百分比为100。
+!%CI正在处理10001_27。步骤20:已完成的百分比为100。
+!%CI正在处理10001_27。步骤21:已完成的百分比为100。
+!%CI正在处理10001_27。步骤22:已完成的百分比为100。
+!%CI正在处理10001_27。步骤23:已完成的百分比为100。
+!%CI正在处理10001_27。步骤24:已完成的百分比为100。
+!%CI正在处理10001_27。步骤25:已完成的百分比为100。
+!%CI正在处理10001_27。步骤26:已完成的百分比为100。
+!%CI正在处理10001_27。步骤27:已完成的百分比为100。
+!%CI正在处理10001_27。步骤28:已完成的百分比为100。
+!%CI正在处理10001_27。步骤29:已完成的百分比为100。
+!%CI正在处理10001_27。步骤30:已完成的百分比为100。
+!%CI正在处理10001_27。步骤31:已完成的百分比为100。
+!%CI正在处理10001_27。步骤32:已完成的百分比为100。
+!%CI正在处理10001_27。步骤33:已完成的百分比为100。
+!%CI正在处理10001_27。步骤34:已完成的百分比为100。
+!%CI正在处理10001_27。步骤35:已完成的百分比为100。
+!%CI正在处理10001_27。步骤36:已完成的百分比为100。
+!%CI正在处理10001_27。步骤37:已完成的百分比为100。
+!%CI正在处理10001_27。步骤38:已完成的百分比为100。
+!%CI正在处理10001_27。步骤39:已完成的百分比为100。
+!%CI正在处理10001_27。步骤40:已完成的百分比为100。
+!%CI正在处理10001_27。步骤41:已完成的百分比为100。
+!%CI正在处理10001_27。步骤42:已完成的百分比为100。
+!%CI正在处理10001_27。步骤43:已完成的百分比为100。
+!%CI正在处理10001_27。步骤44:已完成的百分比为100。
+!%CI正在处理10001_27。步骤45:已完成的百分比为100。
+!%CI正在处理10001_27。步骤46:已完成的百分比为100。
+!%CI正在处理10001_27。步骤47:已完成的百分比为100。
+!%CI正在处理10001_27。步骤48:已完成的百分比为100。
+!%CI正在处理10001_27。步骤49:已完成的百分比为100。
+!%CI正在处理10001_27。步骤50:已完成的百分比为100。
+!%CI正在处理10001_27。步骤51:已完成的百分比为100。
+!%CI正在处理10001_27。步骤52:已完成的百分比为100。
+!%CI正在处理10001_27。步骤53:已完成的百分比为100。
+!%CI正在处理10001_27。步骤54:已完成的百分比为100。
+!%CI正在处理10001_27。步骤55:已完成的百分比为100。
+!%CI正在处理10001_27。步骤56:已完成的百分比为100。
+!%CI正在处理10001_27。步骤57:已完成的百分比为100。
+!%CW警告:根据STEP数据设置长度单位为MM。
+@ trail error  : Creating feature 4 in model 10001_27 - error 0
+ 0 
+!Undo: added rec_id 9 type 5304 
+!
+!Undo: added rec_id -1 type 5304 
+!
+!%CI处理界面数据。
+!%CI正在处理20001_34。步骤1:已完成的百分比为5。
+!%CI正在处理20001_34。步骤1:已完成的百分比为100。
+!%CI正在处理20001_34。步骤2:已完成的百分比为100。
+!%CI正在处理20001_34。步骤3:已完成的百分比为100。
+!%CI正在处理20001_34。步骤4:已完成的百分比为100。
+!%CI正在处理20001_34。步骤5:已完成的百分比为100。
+!%CI正在处理20001_34。步骤6:已完成的百分比为100。
+!%CI正在处理20001_34。步骤7:已完成的百分比为100。
+!%CI正在处理20001_34。步骤8:已完成的百分比为100。
+!%CI正在处理20001_34。步骤9:已完成的百分比为100。
+!%CI正在处理20001_34。步骤10:已完成的百分比为100。
+!%CI正在处理20001_34。步骤11:已完成的百分比为100。
+!%CI正在处理20001_34。步骤13:已完成的百分比为100。
+!%CI正在处理20001_34。步骤14:已完成的百分比为100。
+!%CI正在处理20001_34。步骤15:已完成的百分比为100。
+!%CI正在处理20001_34。步骤16:已完成的百分比为100。
+!%CI正在处理20001_34。步骤17:已完成的百分比为100。
+!%CI正在处理20001_34。步骤18:已完成的百分比为100。
+!%CI正在处理20001_34。步骤19:已完成的百分比为100。
+!%CI正在处理20001_34。步骤20:已完成的百分比为100。
+!%CI正在处理20001_34。步骤21:已完成的百分比为100。
+!%CI正在处理20001_34。步骤22:已完成的百分比为100。
+!%CI正在处理20001_34。步骤23:已完成的百分比为100。
+!%CI正在处理20001_34。步骤24:已完成的百分比为100。
+!%CI正在处理20001_34。步骤25:已完成的百分比为100。
+!%CI正在处理20001_34。步骤26:已完成的百分比为100。
+!%CI正在处理20001_34。步骤27:已完成的百分比为100。
+!%CI正在处理20001_34。步骤28:已完成的百分比为100。
+!%CI正在处理20001_34。步骤29:已完成的百分比为100。
+!%CI正在处理20001_34。步骤30:已完成的百分比为100。
+!%CI正在处理20001_34。步骤31:已完成的百分比为100。
+!%CI正在处理20001_34。步骤32:已完成的百分比为100。
+!%CI正在处理20001_34。步骤33:已完成的百分比为100。
+!%CI正在处理20001_34。步骤34:已完成的百分比为100。
+!%CI正在处理20001_34。步骤35:已完成的百分比为100。
+!%CI正在处理20001_34。步骤36:已完成的百分比为75。
+!%CI正在处理20001_34。步骤36:已完成的百分比为100。
+!%CI正在处理20001_34。步骤37:已完成的百分比为100。
+!%CI正在处理20001_34。步骤38:已完成的百分比为100。
+!%CI正在处理20001_34。步骤39:已完成的百分比为100。
+!%CI正在处理20001_34。步骤40:已完成的百分比为100。
+!%CI正在处理20001_34。步骤41:已完成的百分比为100。
+!%CI正在处理20001_34。步骤42:已完成的百分比为100。
+!%CI正在处理20001_34。步骤43:已完成的百分比为100。
+!%CI正在处理20001_34。步骤44:已完成的百分比为100。
+!%CI正在处理20001_34。步骤45:已完成的百分比为100。
+!%CI正在处理20001_34。步骤46:已完成的百分比为100。
+!%CI正在处理20001_34。步骤47:已完成的百分比为100。
+!%CI正在处理20001_34。步骤48:已完成的百分比为100。
+!%CI正在处理20001_34。步骤49:已完成的百分比为100。
+!%CI正在处理20001_34。步骤50:已完成的百分比为100。
+!%CI正在处理20001_34。步骤51:已完成的百分比为100。
+!%CI正在处理20001_34。步骤52:已完成的百分比为100。
+!%CI正在处理20001_34。步骤53:已完成的百分比为100。
+!%CI正在处理20001_34。步骤54:已完成的百分比为100。
+!%CI正在处理20001_34。步骤55:已完成的百分比为100。
+!%CI正在处理20001_34。步骤56:已完成的百分比为100。
+!%CI正在处理20001_34。步骤57:已完成的百分比为100。
+!%CW警告:根据STEP数据设置长度单位为MM。
+@ trail error  : Creating feature 4 in model 20001_34 - error 0
+ 0 
+!Undo: added rec_id 9 type 5304 
+!
+!Undo: added rec_id -1 type 5304 
+!
+!%CI处理界面数据。
+!%CI正在处理00_4。步骤1:已完成的百分比为6。
+!%CI正在处理00_4。步骤1:已完成的百分比为100。
+!%CI正在处理00_4。步骤2:已完成的百分比为100。
+!%CI正在处理00_4。步骤3:已完成的百分比为100。
+!%CI正在处理00_4。步骤4:已完成的百分比为100。
+!%CI正在处理00_4。步骤5:已完成的百分比为100。
+!%CI正在处理00_4。步骤6:已完成的百分比为100。
+!%CI正在处理00_4。步骤7:已完成的百分比为100。
+!%CI正在处理00_4。步骤8:已完成的百分比为100。
+!%CI正在处理00_4。步骤9:已完成的百分比为100。
+!%CI正在处理00_4。步骤10:已完成的百分比为100。
+!%CI正在处理00_4。步骤11:已完成的百分比为100。
+!%CI正在处理00_4。步骤13:已完成的百分比为100。
+!%CI正在处理00_4。步骤14:已完成的百分比为100。
+!%CI正在处理00_4。步骤15:已完成的百分比为100。
+!%CI正在处理00_4。步骤16:已完成的百分比为100。
+!%CI正在处理00_4。步骤17:已完成的百分比为100。
+!%CI正在处理00_4。步骤18:已完成的百分比为100。
+!%CI正在处理00_4。步骤19:已完成的百分比为100。
+!%CI正在处理00_4。步骤20:已完成的百分比为100。
+!%CI正在处理00_4。步骤21:已完成的百分比为100。
+!%CI正在处理00_4。步骤22:已完成的百分比为100。
+!%CI正在处理00_4。步骤23:已完成的百分比为100。
+!%CI正在处理00_4。步骤24:已完成的百分比为100。
+!%CI正在处理00_4。步骤25:已完成的百分比为100。
+!%CI正在处理00_4。步骤26:已完成的百分比为100。
+!%CI正在处理00_4。步骤27:已完成的百分比为100。
+!%CI正在处理00_4。步骤28:已完成的百分比为100。
+!%CI正在处理00_4。步骤29:已完成的百分比为100。
+!%CI正在处理00_4。步骤30:已完成的百分比为100。
+!%CI正在处理00_4。步骤31:已完成的百分比为100。
+!%CI正在处理00_4。步骤32:已完成的百分比为100。
+!%CI正在处理00_4。步骤33:已完成的百分比为100。
+!%CI正在处理00_4。步骤34:已完成的百分比为100。
+!%CI正在处理00_4。步骤35:已完成的百分比为100。
+!%CI正在处理00_4。步骤36:已完成的百分比为100。
+!%CI正在处理00_4。步骤37:已完成的百分比为100。
+!%CI正在处理00_4。步骤38:已完成的百分比为100。
+!%CI正在处理00_4。步骤39:已完成的百分比为100。
+!%CI正在处理00_4。步骤40:已完成的百分比为100。
+!%CI正在处理00_4。步骤41:已完成的百分比为100。
+!%CI正在处理00_4。步骤42:已完成的百分比为100。
+!%CI正在处理00_4。步骤43:已完成的百分比为100。
+!%CI正在处理00_4。步骤44:已完成的百分比为100。
+!%CI正在处理00_4。步骤45:已完成的百分比为100。
+!%CI正在处理00_4。步骤46:已完成的百分比为100。
+!%CI正在处理00_4。步骤47:已完成的百分比为100。
+!%CI正在处理00_4。步骤48:已完成的百分比为100。
+!%CI正在处理00_4。步骤49:已完成的百分比为100。
+!%CI正在处理00_4。步骤50:已完成的百分比为100。
+!%CI正在处理00_4。步骤51:已完成的百分比为100。
+!%CI正在处理00_4。步骤52:已完成的百分比为100。
+!%CI正在处理00_4。步骤53:已完成的百分比为100。
+!%CI正在处理00_4。步骤54:已完成的百分比为100。
+!%CI正在处理00_4。步骤55:已完成的百分比为100。
+!%CI正在处理00_4。步骤56:已完成的百分比为100。
+!%CI正在处理00_4。步骤57:已完成的百分比为100。
+!%CW警告:根据STEP数据设置长度单位为MM。
+@ trail error  : Creating feature 4 in model 00_4 - error 0
+ 0 
+!Undo: added rec_id 9 type 5304 
+!
+!Undo: added rec_id -1 type 5304 
+!
+!%CI处理界面数据。
+!%CI正在处理00_7。步骤1:已完成的百分比为5。
+!%CI正在处理00_7。步骤1:已完成的百分比为100。
+!%CI正在处理00_7。步骤2:已完成的百分比为100。
+!%CI正在处理00_7。步骤3:已完成的百分比为100。
+!%CI正在处理00_7。步骤4:已完成的百分比为100。
+!%CI正在处理00_7。步骤5:已完成的百分比为100。
+!%CI正在处理00_7。步骤6:已完成的百分比为100。
+!%CI正在处理00_7。步骤7:已完成的百分比为100。
+!%CI正在处理00_7。步骤8:已完成的百分比为100。
+!%CI正在处理00_7。步骤9:已完成的百分比为100。
+!%CI正在处理00_7。步骤10:已完成的百分比为100。
+!%CI正在处理00_7。步骤11:已完成的百分比为100。
+!%CI正在处理00_7。步骤13:已完成的百分比为100。
+!%CI正在处理00_7。步骤14:已完成的百分比为100。
+!%CI正在处理00_7。步骤15:已完成的百分比为100。
+!%CI正在处理00_7。步骤16:已完成的百分比为100。
+!%CI正在处理00_7。步骤17:已完成的百分比为100。
+!%CI正在处理00_7。步骤18:已完成的百分比为100。
+!%CI正在处理00_7。步骤19:已完成的百分比为100。
+!%CI正在处理00_7。步骤20:已完成的百分比为100。
+!%CI正在处理00_7。步骤21:已完成的百分比为100。
+!%CI正在处理00_7。步骤22:已完成的百分比为100。
+!%CI正在处理00_7。步骤23:已完成的百分比为100。
+!%CI正在处理00_7。步骤24:已完成的百分比为100。
+!%CI正在处理00_7。步骤25:已完成的百分比为100。
+!%CI正在处理00_7。步骤26:已完成的百分比为100。
+!%CI正在处理00_7。步骤27:已完成的百分比为100。
+!%CI正在处理00_7。步骤28:已完成的百分比为100。
+!%CI正在处理00_7。步骤29:已完成的百分比为100。
+!%CI正在处理00_7。步骤30:已完成的百分比为100。
+!%CI正在处理00_7。步骤31:已完成的百分比为100。
+!%CI正在处理00_7。步骤32:已完成的百分比为100。
+!%CI正在处理00_7。步骤33:已完成的百分比为100。
+!%CI正在处理00_7。步骤34:已完成的百分比为100。
+!%CI正在处理00_7。步骤35:已完成的百分比为100。
+!%CI正在处理00_7。步骤36:已完成的百分比为100。
+!%CI正在处理00_7。步骤37:已完成的百分比为100。
+!%CI正在处理00_7。步骤38:已完成的百分比为100。
+!%CI正在处理00_7。步骤39:已完成的百分比为100。
+!%CI正在处理00_7。步骤40:已完成的百分比为100。
+!%CI正在处理00_7。步骤41:已完成的百分比为100。
+!%CI正在处理00_7。步骤42:已完成的百分比为100。
+!%CI正在处理00_7。步骤43:已完成的百分比为100。
+!%CI正在处理00_7。步骤44:已完成的百分比为100。
+!%CI正在处理00_7。步骤45:已完成的百分比为100。
+!%CI正在处理00_7。步骤46:已完成的百分比为100。
+!%CI正在处理00_7。步骤47:已完成的百分比为100。
+!%CI正在处理00_7。步骤48:已完成的百分比为100。
+!%CI正在处理00_7。步骤49:已完成的百分比为100。
+!%CI正在处理00_7。步骤50:已完成的百分比为100。
+!%CI正在处理00_7。步骤51:已完成的百分比为100。
+!%CI正在处理00_7。步骤52:已完成的百分比为100。
+!%CI正在处理00_7。步骤53:已完成的百分比为100。
+!%CI正在处理00_7。步骤54:已完成的百分比为100。
+!%CI正在处理00_7。步骤55:已完成的百分比为100。
+!%CI正在处理00_7。步骤56:已完成的百分比为100。
+!%CI正在处理00_7。步骤57:已完成的百分比为100。
+!%CW警告:根据STEP数据设置长度单位为MM。
+@ trail error  : Creating feature 4 in model 00_7 - error 0
+ 0 
+!Undo: added rec_id 9 type 5304 
+!
+!%CP在brace-fan.log查看处理结果。
+!ProgressBarDlg: Regen Started
+!ProgressBarDlg: Regen Completed
+< 0 0.801185 994 0 0 676 1280 0 0 800 13
+!mem_use INCREASE Blocks 315774, AppSize 45224992, SysSize 65053320
+< 0 0.801185 966 0 0 676 1280 0 0 800 13
+~ Activate `main_dlg_cur` `main_dlg_cur`
+~ Activate `main_dlg_cur` `main_dlg_cur`
+~ LButtonArm `main_dlg_cur` `proe_win` \
+9 351 197 0 1 966 676 1280 800 246187 
+~ LButtonDisarm `main_dlg_cur` `proe_win` \
+9 351 197 0 0 966 676 1280 800 246269 
+@ sel view 0
+ 7.788525 -2.579445 -2.046921 0.000000 5.256356 -6.623840
+ 3.292935 6.100961 4.841424 499.441563 411.306813 -1817.399351 1.000000 0.000000 0
+@ stack idx 0
+@SELECTION 2 2 4 10 69 -1 -1
+~ Expand `main_dlg_cur` `PHTLeft.AssyTree` \
+ `node1`
+!Expanded 00-0001_23.ASM
+~ Select `main_dlg_cur` `PHTLeft.AssyTree` \
+1  `node14`
+!00_5.PRT
+~ RButtonArm `main_dlg_cur` `PHTLeft.AssyTree` \
+ `node14`
+~ Command `ProCmdModelSaveAs` 
+~ Open `file_saveas` `type_option`
+~ Close `file_saveas` `type_option`
+~ Select `file_saveas` `type_option` \
+1  `db_539`
+~ Update `file_saveas` `Inputname` \
+ `s`
+~ FocusIn `texttool` `textPH.TextArea`
+~ Activate `texttool` `texttool`
+~ Update `file_saveas` `Inputname` \
+ `nail-fan`
+~ Activate `file_saveas` `Inputname`
+~ Activate `intf_export` `OkPushBtn`
+!%CI模型00_5的百分之100已经被处理。
+!%CI模型000_3的百分之100已经被处理。
+!%CI模型10001_27的百分之100已经被处理。
+!%CI模型20001_34的百分之100已经被处理。
+!%CI模型00_4的百分之100已经被处理。
+!%CI模型00_7的百分之100已经被处理。
+!%CI已经创建STEP文件nail-fan.stp。
+~ RButtonArm `main_dlg_cur` `PHTLeft.AssyTree` \
+ `node14`
+~ PopupOver `main_dlg_cur` `ActionMenu` \
+1  `PHTLeft.AssyTree`
+~ Open `main_dlg_cur` `ActionMenu`
+~ Close `main_dlg_cur` `ActionMenu`
+~ Activate `main_dlg_cur` `main_dlg_cur`
+~ Activate `main_dlg_cur` `main_dlg_cur`
+~ RButtonArm `main_dlg_cur` `PHTLeft.AssyTree` \
+ `node14`
+~ PopupOver `main_dlg_cur` `ActionMenu` \
+1  `PHTLeft.AssyTree`
+~ Open `main_dlg_cur` `ActionMenu`
+~ Close `main_dlg_cur` `ActionMenu`
+~ Activate `main_dlg_cur` `Delete`
+~ FocusIn `del_sup_msg` `ok`
+~ Activate `del_sup_msg` `ok`
+!ProgressBarDlg: Regen Started
+!ProgressBarDlg: Regen Completed
+!Undo: added rec_id 28 type 5303 
+!
+~ Select `main_dlg_cur` `PHTLeft.AssyTree` \
+1  `node13`
+!000_3.PRT
+~ Select `main_dlg_cur` `PHTLeft.AssyTree` \
+1  `node12`
+!000_3.PRT
+~ Select `main_dlg_cur` `PHTLeft.AssyTree` \
+1  `node5`
+!10001_27.PRT
+~ RButtonArm `main_dlg_cur` `PHTLeft.AssyTree` \
+ `node5`
+~ PopupOver `main_dlg_cur` `ActionMenu` \
+1  `PHTLeft.AssyTree`
+~ Open `main_dlg_cur` `ActionMenu`
+~ Close `main_dlg_cur` `ActionMenu`
+~ Activate `main_dlg_cur` `Delete`
+~ FocusIn `del_sup_msg` `ok`
+~ Activate `del_sup_msg` `ok`
+!ProgressBarDlg: Regen Started
+!ProgressBarDlg: Regen Completed
+!Undo: added rec_id 29 type 5303 
+!
+~ Select `main_dlg_cur` `PHTLeft.AssyTree` \
+1  `node4`
+!20001_34.PRT
+~ RButtonArm `main_dlg_cur` `PHTLeft.AssyTree` \
+ `node4`
+~ PopupOver `main_dlg_cur` `ActionMenu` \
+1  `PHTLeft.AssyTree`
+~ Open `main_dlg_cur` `ActionMenu`
+~ Select `main_dlg_cur` `SimpRepOper`
+~ Close `main_dlg_cur` `ActionMenu`
+~ Activate `main_dlg_cur` `Delete`
+~ FocusIn `del_sup_msg` `ok`
+~ Activate `del_sup_msg` `ok`
+!ProgressBarDlg: Regen Started
+!ProgressBarDlg: Regen Completed
+!Undo: added rec_id 30 type 5303 
+!
+~ Select `main_dlg_cur` `PHTLeft.AssyTree` \
+1  `node3`
+!00_4.PRT
+~ RButtonArm `main_dlg_cur` `PHTLeft.AssyTree` \
+ `node3`
+~ PopupOver `main_dlg_cur` `ActionMenu` \
+1  `PHTLeft.AssyTree`
+~ Open `main_dlg_cur` `ActionMenu`
+~ Close `main_dlg_cur` `ActionMenu`
+~ Activate `main_dlg_cur` `Delete`
+~ FocusIn `del_sup_msg` `ok`
+~ Activate `del_sup_msg` `ok`
+!ProgressBarDlg: Regen Started
+!ProgressBarDlg: Regen Completed
+!Undo: added rec_id 31 type 5303 
+!
+~ Select `main_dlg_cur` `PHTLeft.AssyTree` \
+1  `node2`
+!00_7.PRT
+~ RButtonArm `main_dlg_cur` `PHTLeft.AssyTree` \
+ `node2`
+~ PopupOver `main_dlg_cur` `ActionMenu` \
+1  `PHTLeft.AssyTree`
+~ Open `main_dlg_cur` `ActionMenu`
+~ Close `main_dlg_cur` `ActionMenu`
+~ Activate `main_dlg_cur` `Delete`
+~ FocusIn `del_sup_msg` `ok`
+~ Activate `del_sup_msg` `ok`
+!Undo: added rec_id 32 type 5303 
+!
+~ Select `main_dlg_cur` `PHTLeft.AssyTree` \
+1  `node12`
+!000_3.PRT
+~ RButtonArm `main_dlg_cur` `PHTLeft.AssyTree` \
+ `node12`
+~ PopupOver `main_dlg_cur` `ActionMenu` \
+1  `PHTLeft.AssyTree`
+~ Open `main_dlg_cur` `ActionMenu`
+~ Close `main_dlg_cur` `ActionMenu`
+~ Activate `main_dlg_cur` `Delete`
+~ FocusIn `del_sup_msg` `ok`
+~ Activate `del_sup_msg` `ok`
+!ProgressBarDlg: Regen Started
+!ProgressBarDlg: Regen Completed
+!Undo: added rec_id 33 type 5303 
+!
+~ Select `main_dlg_cur` `PHTLeft.AssyTree` \
+1  `node7`
+!000_3.PRT
+~ RButtonArm `main_dlg_cur` `PHTLeft.AssyTree` \
+ `node7`
+~ PopupOver `main_dlg_cur` `ActionMenu` \
+1  `PHTLeft.AssyTree`
+~ Open `main_dlg_cur` `ActionMenu`
+~ Close `main_dlg_cur` `ActionMenu`
+~ Activate `main_dlg_cur` `Delete`
+~ FocusIn `del_sup_msg` `ok`
+~ Activate `del_sup_msg` `ok`
+!ProgressBarDlg: Regen Started
+!ProgressBarDlg: Regen Completed
+!Undo: added rec_id 34 type 5303 
+!
+~ Select `main_dlg_cur` `PHTLeft.AssyTree` \
+1  `node6`
+!000_3.PRT
+~ Command `ProCmdEditDelete` 
+! Executed sub-command ProCmdEditDeleteFeat.
+~ FocusIn `del_sup_msg` `ok`
+~ Activate `del_sup_msg` `ok`
+!ProgressBarDlg: Regen Started
+!ProgressBarDlg: Regen Completed
+!Undo: added rec_id 35 type 5303 
+!
+~ Select `main_dlg_cur` `PHTLeft.AssyTree` \
+1  `node5`
+!000_3.PRT
+~ Command `ProCmdEditDelete` 
+! Executed sub-command ProCmdEditDeleteFeat.
+~ FocusIn `del_sup_msg` `ok`
+~ Activate `del_sup_msg` `ok`
+!ProgressBarDlg: Regen Started
+!ProgressBarDlg: Regen Completed
+!Undo: added rec_id 36 type 5303 
+!
+~ Select `main_dlg_cur` `PHTLeft.AssyTree` \
+1  `node4`
+!000_3.PRT
+~ Command `ProCmdEditDelete` 
+! Executed sub-command ProCmdEditDeleteFeat.
+~ FocusIn `del_sup_msg` `ok`
+~ Activate `del_sup_msg` `ok`
+!ProgressBarDlg: Regen Started
+!ProgressBarDlg: Regen Completed
+!Undo: added rec_id 37 type 5303 
+!
+~ Select `main_dlg_cur` `PHTLeft.AssyTree` \
+1  `node3`
+!000_3.PRT
+~ Command `ProCmdEditDelete` 
+! Executed sub-command ProCmdEditDeleteFeat.
+~ FocusIn `del_sup_msg` `ok`
+~ Activate `del_sup_msg` `ok`
+!ProgressBarDlg: Regen Started
+!ProgressBarDlg: Regen Completed
+!Undo: added rec_id 38 type 5303 
+!
+~ Select `main_dlg_cur` `PHTLeft.AssyTree` \
+1  `node2`
+!000_3.PRT
+~ Command `ProCmdEditDelete` 
+! Executed sub-command ProCmdEditDeleteFeat.
+~ FocusIn `del_sup_msg` `ok`
+~ Activate `del_sup_msg` `ok`
+!Undo: added rec_id 39 type 5303 
+!
+~ LButtonArm `main_dlg_cur` `proe_win` \
+9 471 257 0 1 966 676 1280 800 507072 
+~ LButtonDisarm `main_dlg_cur` `proe_win` \
+9 471 257 0 0 966 676 1280 800 507167 
+@ sel view 0
+ 7.788525 -2.579445 -2.046921 0.000000 5.256356 -6.623840
+ 3.292935 6.100961 4.841424 271.811625 653.635079 -271.761535 1.000000 0.000000 0
+~ Command `ProCmdModelSave` 
+~ Activate `file_saveas` `Cancel`
+!%CE没有对象被复制。
+~ Command `ProCmdModelBackup` 
+~ Activate `file_saveas` `Cancel`
+~ Command `ProCmdModelSaveAs` 
+~ Open `file_saveas` `type_option`
+~ Close `file_saveas` `type_option`
+~ Select `file_saveas` `type_option` \
+1  `db_539`
+~ Select `file_saveas` `ph_list.Filelist` \
+1  `nail-fan.stp`
+~ Activate `file_saveas` `OK`
+! Message Dialog: Warning
+!               : 文件D:\design\LB-ARMSERVER\nail-fan.stp已存在，还要继续吗?
+~ Activate `UI Message Dialog` `ok`
+~ Activate `intf_export` `OkPushBtn`
+!%CI模型000_3的百分之100已经被处理。
+!%CI已经创建STEP文件nail-fan.stp。
+~ Command `PMechCmdAsmDrag` 
+!Mechanism Design Command Script File
+!	Version: 	L_03_18:spg
+!	Platform:	i486_nt
+!	Created: 	2019/8/12 at 12:32:21
+!%CE应用程序MANIKIN不可用或此平台不支持。
+~ Activate `newdrag` `CloseButton`
+~ Activate `main_dlg_cur` `main_dlg_cur`
+~ Close `main_dlg_cur` `main_dlg_cur`
+!Command ProCmdOSExit was pushed from the software.
+! Message Dialog: Warning
+!               : Pro/ENGINEER 将终止，并且所有未保存的工作将会丢失。
+!               : 您确实要退出吗?
+~ FocusIn `UI Message Dialog` `yes`
+~ Activate `UI Message Dialog` `yes`
+!End of Trail File

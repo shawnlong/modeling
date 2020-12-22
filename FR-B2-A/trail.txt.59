@@ -1,0 +1,1198 @@
+﻿!trail file version No. 1450
+!Pro/ENGINEER  TM  Wildfire 5.0  (c) 1988-2002 by Wisdom Systems  All Rights Reserved.
+< 0 0.884148 1126 0 0 746 1280 0 0 800 13
+!mem_use INCREASE Blocks 208277, AppSize 24991840, SysSize 34379080
+< 0 0.754963 918 0 0 637 1280 0 0 800 13
+< 0 0.754963 826 0 0 637 1280 0 0 800 13
+!%CI欢迎使用 Pro/ENGINEER Wildfire 5.0。
+< 0 0.754963 812 0 0 637 1280 0 0 800 13
+< 0 0.754963 840 0 0 637 1280 0 0 800 13
+~ Command `ProCmdModelOpen` 
+< 2 0.118519 178 0 0 100 1280 0 0 800 13
+~ Activate `file_open` `Current Dir`
+~ Activate `file_open` `SAB_..|`
+~ Select `file_open` `Ph_list.Filelist` \
+1  `FR-B2-B`
+~ Activate `file_open` `Ph_list.Filelist` \
+1  `FR-B2-B`
+~ Select `file_open` `Ph_list.Filelist` \
+1  `brace-8inch.prt`
+~ Activate `file_open` `Ph_list.Filelist` \
+1  `brace-8inch.prt`
+!Command ProCmdModelOpenExe was pushed from the software.
+!15-Aug-19 19:33:53  Start D:\design\FR-B2-B\brace-8inch.prt.6
+!15-Aug-19 19:33:53  End   D:\design\FR-B2-B\brace-8inch.prt.6
+< 0 0.801185 840 0 0 676 1280 0 0 800 13
+< 0 0.798000 798 0 0 676 1280 0 0 800 13
+~ Command `ProCmdEnvAnnotElemDisp` 0 
+!%CI将不显示注释。
+~ Move `main_dlg_cur` `proe_win` \
+9 212 337 0 1537 798 676 1280 800 31834 
+~ Move `main_dlg_cur` `proe_win` \
+9 185 185 0 1537 798 676 1280 800 33706 
+~ Select `main_dlg_cur` `MenuBar1` \
+1  `File`
+~ Close `main_dlg_cur` `MenuBar1`
+~ Select `main_dlg_cur` `MenuBar1` \
+1  `File`
+~ Close `main_dlg_cur` `MenuBar1`
+~ Select `main_dlg_cur` `PHTLeft.AssyTree` \
+1  `node0`
+~ RButtonArm `main_dlg_cur` `PHTLeft.AssyTree` \
+ `node0`
+!BRACE-8INCH.PRT
+~ Move `main_dlg_cur` `proe_win` \
+9 150 97 0 1537 798 676 1280 800 35758 
+~ Command `ProCmdModelNew` 
+~ Select `new` `Type` \
+1  `Assembly`
+~ Activate `new` `OK`
+!Command ProCmdModelNewExe was pushed from the software.
+!15-Aug-19 19:34:22  Start C:\Program Files\proeWildfire 5.0\templates\inlbs_asm_design.asm
+!15-Aug-19 19:34:22  End   C:\Program Files\proeWildfire 5.0\templates\inlbs_asm_design.asm
+!15-Aug-19 19:34:22  Start D:\design\FR-B2-A\asm0001.asm.1
+!15-Aug-19 19:34:22  End   D:\design\FR-B2-A\asm0001.asm.1
+!%CI用缺省模板C:\Program Files\proeWildfire 5.0\templates\inlbs_asm_design.asm作为模板。
+< 2 0.616000 616 0 0 616 1280 0 0 800 13
+< 2 0.828444 944 0 0 699 1280 0 0 800 13
+< 2 0.754963 812 0 0 637 1280 0 0 800 13
+< 2 0.754963 826 0 0 637 1280 0 0 800 13
+< 2 0.754963 784 0 0 637 1280 0 0 800 13
+< 2 0.754963 812 0 0 637 1280 0 0 800 13
+~ Select `main_dlg_cur` `PHTLeft.AssyTree` \
+1  `node0`
+!ASM0001.ASM
+~ RButtonArm `main_dlg_cur` `PHTLeft.AssyTree` \
+ `node0`
+~ Command `ProCmdCompAssem` 
+< 3 0.118519 178 0 0 100 1280 0 0 800 13
+~ Select `file_open` `Ph_list.Filelist` \
+1  `brace-8inch.prt`
+~ Activate `file_open` `Open`
+!ODUI session starting: Okit widgets are on, Undo/Redo on, Dashboard style on, Tab style off. Feature title : 元件
+!ODUI session started.
+!%CP选取自动类型约束的任意参照。
+< 2 0.693333 812 0 0 585 1280 0 0 800 13
+< 2 0.693333 770 0 0 585 1280 0 0 800 13
+~ Move `main_dlg_cur` `proe_win` \
+9 303 138 0 1537 770 585 1280 800 67133 
+~ LButtonArm `main_dlg_cur` `proe_win` \
+9 303 138 0 1 770 585 1280 800 67308 
+~ LButtonDisarm `main_dlg_cur` `proe_win` \
+9 303 138 0 0 770 585 1280 800 67401 
+@ sel view 0
+ 58.964893 -19.528306 -15.496710 0.000000 39.794504 -50.147371
+ 24.929957 46.188788 36.653166 122.147941 288.940464 -1739.566336 1.000000 0.000000 0
+~ Select `main_dlg_cur` `MenuBar1` \
+1  `Insert`
+~ Close `main_dlg_cur` `MenuBar1`
+~ Select `main_dlg_cur` `PHTLeft.AssyTree` \
+1  `node0`
+!ASM0001.ASM
+~ Move `main_dlg_cur` `proe_win` \
+9 227 88 0 1537 770 585 1280 800 70485 
+~ Move `main_dlg_cur` `proe_win` \
+9 227 88 0 1 770 585 1280 800 70490 
+~ LButtonArm `main_dlg_cur` `proe_win` \
+9 526 123 0 1 770 585 1280 800 71380 
+~ LButtonDisarm `main_dlg_cur` `proe_win` \
+9 526 123 0 0 770 585 1280 800 71481 
+@ sel view 0
+ 58.964893 -19.528306 -15.496710 0.000000 39.794504 -50.147371
+ 24.929957 46.188788 36.653166 122.147941 288.940464 -1739.566336 1.000000 0.000000 0
+~ Select `main_dlg_cur` `MenuBar1` \
+1  `Insert`
+~ Close `main_dlg_cur` `MenuBar1`
+~ Activate `main_dlg_cur` `dashInst0.stdbtn_1`
+!%CW要保留此元件为包装元件。
+!ODUI session finished.
+@ trail error  : Creating feature 39 in model ASM0001 - error 0
+ 0 
+!Undo: added rec_id 5 type 5304 
+!
+~ Command `ProCmdCompAssem` 
+< 3 0.118519 178 0 0 100 1280 0 0 800 13
+~ Select `file_open` `Ph_list.Filelist` \
+1  `glass-8inch.prt`
+~ Activate `file_open` `Open`
+!15-Aug-19 19:34:59  Start D:\design\FR-B2-B\glass-8inch.prt.4
+!15-Aug-19 19:34:59  End   D:\design\FR-B2-B\glass-8inch.prt.4
+!ODUI session starting: Okit widgets are on, Undo/Redo on, Dashboard style on, Tab style off. Feature title : 元件
+!ODUI session started.
+!%CP选取自动类型约束的任意参照。
+~ LButtonArm `main_dlg_cur` `proe_win` \
+9 206 272 0 1 770 585 1280 800 91140 
+~ Move `main_dlg_cur` `proe_win` \
+9 207 270 0 1537 770 585 1280 800 91306 
+~ Move `main_dlg_cur` `proe_win` \
+9 207 260 0 1025 770 585 1280 800 91314 
+~ Move `main_dlg_cur` `proe_win` \
+9 209 258 0 1537 770 585 1280 800 91322 
+~ Move `main_dlg_cur` `proe_win` \
+9 213 251 0 1537 770 585 1280 800 91330 
+~ Move `main_dlg_cur` `proe_win` \
+9 216 243 0 1537 770 585 1280 800 91338 
+~ Move `main_dlg_cur` `proe_win` \
+9 222 239 0 1537 770 585 1280 800 91346 
+~ Move `main_dlg_cur` `proe_win` \
+9 224 236 0 1537 770 585 1280 800 91354 
+~ Move `main_dlg_cur` `proe_win` \
+9 233 231 0 1537 770 585 1280 800 91362 
+~ Move `main_dlg_cur` `proe_win` \
+9 235 229 0 1537 770 585 1280 800 91370 
+~ Move `main_dlg_cur` `proe_win` \
+9 237 227 0 1537 770 585 1280 800 91378 
+~ Move `main_dlg_cur` `proe_win` \
+9 241 226 0 1537 770 585 1280 800 91385 
+~ Move `main_dlg_cur` `proe_win` \
+9 242 225 0 1537 770 585 1280 800 91393 
+~ Move `main_dlg_cur` `proe_win` \
+9 244 224 0 1537 770 585 1280 800 91401 
+~ Move `main_dlg_cur` `proe_win` \
+9 245 223 0 1537 770 585 1280 800 91409 
+~ Move `main_dlg_cur` `proe_win` \
+9 246 221 0 1537 770 585 1280 800 91417 
+~ Move `main_dlg_cur` `proe_win` \
+9 246 220 0 1025 770 585 1280 800 91425 
+~ Move `main_dlg_cur` `proe_win` \
+9 248 220 0 513 770 585 1280 800 91441 
+~ Move `main_dlg_cur` `proe_win` \
+9 251 219 0 1537 770 585 1280 800 91449 
+~ Move `main_dlg_cur` `proe_win` \
+9 252 217 0 1537 770 585 1280 800 91465 
+~ Move `main_dlg_cur` `proe_win` \
+9 253 216 0 1537 770 585 1280 800 91474 
+~ Move `main_dlg_cur` `proe_win` \
+9 255 214 0 1537 770 585 1280 800 91481 
+~ Move `main_dlg_cur` `proe_win` \
+9 256 213 0 1537 770 585 1280 800 91497 
+~ Move `main_dlg_cur` `proe_win` \
+9 258 212 0 1537 770 585 1280 800 91505 
+~ Move `main_dlg_cur` `proe_win` \
+9 258 211 0 1025 770 585 1280 800 91522 
+~ Move `main_dlg_cur` `proe_win` \
+9 258 210 0 1025 770 585 1280 800 91529 
+~ Move `main_dlg_cur` `proe_win` \
+9 259 210 0 513 770 585 1280 800 91537 
+~ Move `main_dlg_cur` `proe_win` \
+9 260 209 0 1537 770 585 1280 800 91545 
+~ Move `main_dlg_cur` `proe_win` \
+9 261 208 0 1537 770 585 1280 800 91577 
+~ LButtonDisarm `main_dlg_cur` `proe_win` \
+9 261 208 0 0 770 585 1280 800 91867 
+~ LButtonArm `main_dlg_cur` `proe_win` \
+9 547 146 0 1 770 585 1280 800 92780 
+~ LButtonDisarm `main_dlg_cur` `proe_win` \
+9 547 146 0 0 770 585 1280 800 92857 
+@ sel view 0
+ 30.080162 -9.962108 -7.905442 0.000000 20.300641 -25.582020
+ 12.717689 23.562600 18.698129 114.265021 354.060202 -1785.695259 1.000000 0.000000 0
+~ Activate `main_dlg_cur` `dashInst0.stdbtn_1`
+!%CW要保留此元件为包装元件。
+!ODUI session finished.
+@ trail error  : Creating feature 40 in model ASM0001 - error 0
+ 0 
+!Undo: added rec_id 7 type 5304 
+!
+~ LButtonArm `main_dlg_cur` `proe_win` \
+9 326 258 0 513 770 585 1280 800 98778 
+~ LButtonDisarm `main_dlg_cur` `proe_win` \
+9 326 258 0 0 770 585 1280 800 98913 
+@ sel view 0
+ 30.080162 -9.962108 -7.905442 0.000000 20.300641 -25.582020
+ 12.717689 23.562600 18.698129 114.265021 354.060202 -1785.695259 1.000000 0.000000 0
+@ stack idx 0
+@SELECTION 0 0 52 3 4
+~ Command `ProCmdEnvAnnotElemDisp` 1 
+!%CI将显示注释。
+~ Command `ProCmdEnvAnnotElemDisp` 0 
+!%CI将不显示注释。
+~ Command `ProCmdEnvCsysDisp` 0 
+!%CI不显示坐标系。
+~ Command `ProCmdEnvPntsDisp` 0 
+!%CI将不显示基准点。
+~ Command `ProCmdEnvAxisDisp` 0 
+!%CI将不显示轴。
+~ MButtonArm `main_dlg_cur` `proe_win` \
+9 403 173 0 2 770 585 1280 800 106396 
+~ MButtonDisarm `main_dlg_cur` `proe_win` \
+9 403 173 0 0 770 585 1280 800 106945 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 403 173 458752 0 770 585 1280 800 107129 
+~ MButtonArm `main_dlg_cur` `proe_win` \
+9 410 201 0 2 770 585 1280 800 108036 
+~ Move `main_dlg_cur` `proe_win` \
+9 410 209 0 1026 770 585 1280 800 108346 
+~ Move `main_dlg_cur` `proe_win` \
+9 420 224 0 1538 770 585 1280 800 108365 
+~ Move `main_dlg_cur` `proe_win` \
+9 422 231 0 1538 770 585 1280 800 108370 
+~ Move `main_dlg_cur` `proe_win` \
+9 423 237 0 1538 770 585 1280 800 108377 
+~ Move `main_dlg_cur` `proe_win` \
+9 423 240 0 1026 770 585 1280 800 108385 
+~ Move `main_dlg_cur` `proe_win` \
+9 423 242 0 1026 770 585 1280 800 108393 
+~ Move `main_dlg_cur` `proe_win` \
+9 423 245 0 1026 770 585 1280 800 108401 
+~ Move `main_dlg_cur` `proe_win` \
+9 425 247 0 1538 770 585 1280 800 108409 
+~ Move `main_dlg_cur` `proe_win` \
+9 425 248 0 1026 770 585 1280 800 108417 
+~ Move `main_dlg_cur` `proe_win` \
+9 425 254 0 1026 770 585 1280 800 108617 
+~ Move `main_dlg_cur` `proe_win` \
+9 425 260 0 1026 770 585 1280 800 108625 
+~ Move `main_dlg_cur` `proe_win` \
+9 425 267 0 1026 770 585 1280 800 108633 
+~ Move `main_dlg_cur` `proe_win` \
+9 425 272 0 1026 770 585 1280 800 108640 
+~ Move `main_dlg_cur` `proe_win` \
+9 425 277 0 1026 770 585 1280 800 108648 
+~ Move `main_dlg_cur` `proe_win` \
+9 425 283 0 1026 770 585 1280 800 108656 
+~ Move `main_dlg_cur` `proe_win` \
+9 425 288 0 1026 770 585 1280 800 108664 
+~ Move `main_dlg_cur` `proe_win` \
+9 425 294 0 1026 770 585 1280 800 108672 
+~ Move `main_dlg_cur` `proe_win` \
+9 425 297 0 1026 770 585 1280 800 108681 
+~ Move `main_dlg_cur` `proe_win` \
+9 425 300 0 1026 770 585 1280 800 108688 
+~ Move `main_dlg_cur` `proe_win` \
+9 425 302 0 1026 770 585 1280 800 108697 
+~ Move `main_dlg_cur` `proe_win` \
+9 424 302 0 514 770 585 1280 800 108874 
+~ Move `main_dlg_cur` `proe_win` \
+9 424 302 0 2 770 585 1280 800 108886 
+~ Move `main_dlg_cur` `proe_win` \
+9 419 295 0 1538 770 585 1280 800 108897 
+~ Move `main_dlg_cur` `proe_win` \
+9 415 291 0 1538 770 585 1280 800 108906 
+~ Move `main_dlg_cur` `proe_win` \
+9 415 290 0 1026 770 585 1280 800 108913 
+~ Move `main_dlg_cur` `proe_win` \
+9 415 289 0 1026 770 585 1280 800 108921 
+~ Move `main_dlg_cur` `proe_win` \
+9 414 286 0 1538 770 585 1280 800 108929 
+~ Move `main_dlg_cur` `proe_win` \
+9 413 285 0 1538 770 585 1280 800 108937 
+~ Move `main_dlg_cur` `proe_win` \
+9 413 285 0 2 770 585 1280 800 108953 
+~ Move `main_dlg_cur` `proe_win` \
+9 413 283 0 1026 770 585 1280 800 108960 
+~ Move `main_dlg_cur` `proe_win` \
+9 413 282 0 1026 770 585 1280 800 108984 
+~ Move `main_dlg_cur` `proe_win` \
+9 413 281 0 1026 770 585 1280 800 109000 
+~ Move `main_dlg_cur` `proe_win` \
+9 413 280 0 1026 770 585 1280 800 109017 
+~ Move `main_dlg_cur` `proe_win` \
+9 413 278 0 1026 770 585 1280 800 109024 
+~ Move `main_dlg_cur` `proe_win` \
+9 413 277 0 1026 770 585 1280 800 109032 
+~ Move `main_dlg_cur` `proe_win` \
+9 413 276 0 1026 770 585 1280 800 109040 
+~ Move `main_dlg_cur` `proe_win` \
+9 413 275 0 1026 770 585 1280 800 109056 
+~ Move `main_dlg_cur` `proe_win` \
+9 413 273 0 1026 770 585 1280 800 109073 
+~ Move `main_dlg_cur` `proe_win` \
+9 413 272 0 1026 770 585 1280 800 109081 
+~ Move `main_dlg_cur` `proe_win` \
+9 414 271 0 1538 770 585 1280 800 109114 
+~ Move `main_dlg_cur` `proe_win` \
+9 414 271 0 2 770 585 1280 800 109434 
+~ Move `main_dlg_cur` `proe_win` \
+9 414 269 0 1026 770 585 1280 800 109444 
+~ Move `main_dlg_cur` `proe_win` \
+9 414 268 0 1026 770 585 1280 800 109452 
+~ Move `main_dlg_cur` `proe_win` \
+9 415 266 0 1538 770 585 1280 800 109463 
+~ Move `main_dlg_cur` `proe_win` \
+9 416 265 0 1538 770 585 1280 800 109505 
+~ Move `main_dlg_cur` `proe_win` \
+9 416 264 0 1026 770 585 1280 800 109585 
+~ Move `main_dlg_cur` `proe_win` \
+9 417 263 0 1538 770 585 1280 800 109601 
+~ Move `main_dlg_cur` `proe_win` \
+9 418 262 0 1538 770 585 1280 800 109609 
+~ Move `main_dlg_cur` `proe_win` \
+9 419 261 0 1538 770 585 1280 800 109705 
+~ Move `main_dlg_cur` `proe_win` \
+9 420 260 0 1538 770 585 1280 800 109738 
+~ Move `main_dlg_cur` `proe_win` \
+9 421 260 0 514 770 585 1280 800 109801 
+~ Move `main_dlg_cur` `proe_win` \
+9 424 260 0 514 770 585 1280 800 110073 
+~ Move `main_dlg_cur` `proe_win` \
+9 425 260 0 514 770 585 1280 800 110081 
+~ Move `main_dlg_cur` `proe_win` \
+9 428 257 0 1538 770 585 1280 800 110089 
+~ Move `main_dlg_cur` `proe_win` \
+9 429 256 0 1538 770 585 1280 800 110097 
+~ Move `main_dlg_cur` `proe_win` \
+9 430 256 0 514 770 585 1280 800 110105 
+~ Move `main_dlg_cur` `proe_win` \
+9 434 255 0 1538 770 585 1280 800 110113 
+~ Move `main_dlg_cur` `proe_win` \
+9 436 253 0 1538 770 585 1280 800 110121 
+~ Move `main_dlg_cur` `proe_win` \
+9 437 252 0 1538 770 585 1280 800 110610 
+~ Move `main_dlg_cur` `proe_win` \
+9 437 251 0 1026 770 585 1280 800 110626 
+~ Move `main_dlg_cur` `proe_win` \
+9 437 248 0 1026 770 585 1280 800 110635 
+~ Move `main_dlg_cur` `proe_win` \
+9 437 247 0 1026 770 585 1280 800 110645 
+~ Move `main_dlg_cur` `proe_win` \
+9 437 246 0 1026 770 585 1280 800 110658 
+~ Move `main_dlg_cur` `proe_win` \
+9 437 244 0 1026 770 585 1280 800 110961 
+~ Move `main_dlg_cur` `proe_win` \
+9 436 243 0 1538 770 585 1280 800 111057 
+~ Move `main_dlg_cur` `proe_win` \
+9 436 243 0 2 770 585 1280 800 111073 
+~ Move `main_dlg_cur` `proe_win` \
+9 435 243 0 514 770 585 1280 800 111090 
+~ Move `main_dlg_cur` `proe_win` \
+9 434 243 0 514 770 585 1280 800 111097 
+~ Move `main_dlg_cur` `proe_win` \
+9 432 244 0 1538 770 585 1280 800 111104 
+~ Move `main_dlg_cur` `proe_win` \
+9 431 244 0 514 770 585 1280 800 111121 
+~ Move `main_dlg_cur` `proe_win` \
+9 429 245 0 1538 770 585 1280 800 111129 
+~ Move `main_dlg_cur` `proe_win` \
+9 428 246 0 1538 770 585 1280 800 111785 
+~ Move `main_dlg_cur` `proe_win` \
+9 428 247 0 1026 770 585 1280 800 111793 
+~ Move `main_dlg_cur` `proe_win` \
+9 428 249 0 1026 770 585 1280 800 111801 
+~ Move `main_dlg_cur` `proe_win` \
+9 430 251 0 1538 770 585 1280 800 111809 
+~ Move `main_dlg_cur` `proe_win` \
+9 433 256 0 1538 770 585 1280 800 111817 
+~ Move `main_dlg_cur` `proe_win` \
+9 433 258 0 1026 770 585 1280 800 112058 
+~ Move `main_dlg_cur` `proe_win` \
+9 433 259 0 1026 770 585 1280 800 112073 
+~ Move `main_dlg_cur` `proe_win` \
+9 431 261 0 1538 770 585 1280 800 112105 
+~ Move `main_dlg_cur` `proe_win` \
+9 430 261 0 514 770 585 1280 800 112129 
+~ Move `main_dlg_cur` `proe_win` \
+9 429 261 0 514 770 585 1280 800 112145 
+~ MButtonDisarm `main_dlg_cur` `proe_win` \
+9 429 261 0 0 770 585 1280 800 112737 
+~ LButtonArm `main_dlg_cur` `proe_win` \
+9 462 173 0 1 770 585 1280 800 113525 
+~ LButtonDisarm `main_dlg_cur` `proe_win` \
+9 462 173 0 0 770 585 1280 800 113617 
+@ sel view 0
+ 32.384748 -1.543605 -3.924428 -4.101959 -4.477307 -32.088680
+ 0.978664 32.312950 -4.633704 91.570522 399.848365 -1698.531511 1.250000 0.000000 0
+~ LButtonArm `main_dlg_cur` `proe_win` \
+9 540 213 0 1 770 585 1280 800 137460 
+~ LButtonDisarm `main_dlg_cur` `proe_win` \
+9 540 213 0 0 770 585 1280 800 137601 
+@ sel view 0
+ 32.384748 -1.543605 -3.924428 -4.101959 -4.477307 -32.088680
+ 0.978664 32.312950 -4.633704 91.570522 399.848365 -1698.531511 1.250000 0.000000 0
+~ Select `main_dlg_cur` `PHTLeft.AssyTree` \
+1  `node2`
+!GLASS-8INCH.PRT
+~ RButtonArm `main_dlg_cur` `PHTLeft.AssyTree` \
+ `node2`
+~ Move `main_dlg_cur` `proe_win` \
+9 354 468 0 1537 770 585 1280 800 148409 
+~ Move `main_dlg_cur` `proe_win` \
+9 354 468 0 1 770 585 1280 800 148422 
+~ PopupOver `main_dlg_cur` `ActionMenu` \
+1  `PHTLeft.AssyTree`
+~ Open `main_dlg_cur` `ActionMenu`
+~ Close `main_dlg_cur` `ActionMenu`
+~ RButtonArm `main_dlg_cur` `PHTLeft.AssyTree` \
+ `node2`
+~ Move `main_dlg_cur` `proe_win` \
+9 110 65 0 1537 770 585 1280 800 152537 
+~ Move `main_dlg_cur` `proe_win` \
+9 110 65 0 1 770 585 1280 800 152545 
+~ Command `ProCmdEditUndo` 
+!Command ProCmdEditUndoAssemDism was pushed from the software.
+! Executed sub-command ProCmdEditUndoAssem.
+!%CI从上次再生起零件'BRACE-8INCH'未被改变。
+!%CI从上次再生起零件'ASM0001'未被改变。
+~ LButtonArm `main_dlg_cur` `proe_win` \
+9 243 90 0 1 770 585 1280 800 161853 
+~ LButtonDisarm `main_dlg_cur` `proe_win` \
+9 243 90 0 0 770 585 1280 800 161961 
+@ sel view 0
+ 63.482478 -3.025864 -7.692893 -8.040899 -8.776680 -62.902108
+ 1.918434 63.341735 -9.083258 -300.627359 378.697101 -1728.640551 1.250000 0.000000 0
+~ LButtonArm `main_dlg_cur` `proe_win` \
+9 227 182 0 1 770 585 1280 800 162743 
+~ LButtonDisarm `main_dlg_cur` `proe_win` \
+9 227 182 0 0 770 585 1280 800 162841 
+@ sel view 0
+ 63.482478 -3.025864 -7.692893 -8.040899 -8.776680 -62.902108
+ 1.918434 63.341735 -9.083258 -300.627359 378.697101 -1728.640551 1.250000 0.000000 0
+@ stack idx 0
+@SELECTION 1 1 39 69 -1 -1
+~ Command `ProCmdCompAssem` 
+< 3 0.118519 178 0 0 100 1280 0 0 800 13
+~ Select `file_open` `Ph_list.Filelist` \
+1  `glass-8inch.prt`
+~ Activate `file_open` `Open`
+!ODUI session starting: Okit widgets are on, Undo/Redo on, Dashboard style on, Tab style off. Feature title : 元件
+!ODUI session started.
+!%CW参照是对包装元件而言。
+!%CP选取自动类型约束的任意参照。
+~ LButtonArm `main_dlg_cur` `proe_win` \
+9 453 207 0 1 770 585 1280 800 178556 
+~ LButtonDisarm `main_dlg_cur` `proe_win` \
+9 453 207 0 0 770 585 1280 800 178666 
+@ sel view 0
+ 32.384748 -1.543605 -3.924428 -4.101959 -4.477307 -32.088680
+ 0.978664 32.312950 -4.633704 91.570522 399.848365 -1698.531511 1.250000 0.000000 0
+~ Activate `main_dlg_cur` `main_dlg_cur`
+~ LButtonArm `main_dlg_cur` `proe_win` \
+9 565 297 0 1 770 585 1280 800 235987 
+~ LButtonDisarm `main_dlg_cur` `proe_win` \
+9 565 297 0 0 770 585 1280 800 236089 
+@ sel view 0
+ 32.384748 -1.543605 -3.924428 -4.101959 -4.477307 -32.088680
+ 0.978664 32.312950 -4.633704 91.570522 399.848365 -1698.531511 1.250000 0.000000 0
+~ Activate `main_dlg_cur` `maindashInst0.Coincident` \
+0 
+!%CP选取自动类型约束的任意参照。
+~ Activate `main_dlg_cur` `maindashInst0.constr_alignment_tb` \
+ `maindashInst0.Offset`
+~ Activate `main_dlg_cur` `maindashInst0.Offset` \
+1 
+!%CP选取自动类型约束的任意参照。
+~ Activate `main_dlg_cur` `maindashInst0.Offset` \
+0 
+!%CP选取自动类型约束的任意参照。
+~ Activate `main_dlg_cur` `maindashInst0.constr_alignment_tb` \
+ `maindashInst0.Coincident`
+~ Activate `main_dlg_cur` `maindashInst0.Coincident` \
+1 
+!%CP选取自动类型约束的任意参照。
+~ Activate `main_dlg_cur` `maindashInst0.constr_alignment_tb` \
+ `maindashInst0.Offset`
+~ Activate `main_dlg_cur` `maindashInst0.Offset` \
+1 
+!%CP选取自动类型约束的任意参照。
+~ Activate `main_dlg_cur` `dashInst0.stdbtn_1`
+!%CW要保留此元件为包装元件。
+!ODUI session finished.
+@ trail error  : Creating feature 41 in model ASM0001 - error 0
+ 0 
+!Undo: added rec_id 12 type 5304 
+!
+~ Command `ProCmdEditUndo` 
+!Command ProCmdEditUndoAssemDism was pushed from the software.
+! Executed sub-command ProCmdEditUndoAssem.
+!%CI从上次再生起零件'BRACE-8INCH'未被改变。
+!%CI从上次再生起零件'ASM0001'未被改变。
+~ Wheel `main_dlg_cur` `proe_win` \
+9 261 102 458752 0 770 585 1280 800 256634 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 261 102 458752 0 770 585 1280 800 256690 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 261 102 458752 0 770 585 1280 800 256755 
+~ Wheel `main_dlg_cur` `proe_win` \
+!mem_use INCREASE Blocks 313322, AppSize 44503615, SysSize 60614576
+9 261 102 393216 0 770 585 1280 800 257033 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 261 102 393216 0 770 585 1280 800 257058 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 261 102 393216 0 770 585 1280 800 257074 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 261 102 393216 0 770 585 1280 800 257097 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 261 102 393216 0 770 585 1280 800 257117 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 261 102 393216 0 770 585 1280 800 257161 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 261 102 393216 0 770 585 1280 800 257354 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 261 102 393216 0 770 585 1280 800 257370 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 261 102 393216 0 770 585 1280 800 257394 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 261 102 393216 0 770 585 1280 800 257417 
+~ LButtonArm `main_dlg_cur` `proe_win` \
+9 120 64 0 1 770 585 1280 800 258218 
+~ LButtonDisarm `main_dlg_cur` `proe_win` \
+9 120 64 0 0 770 585 1280 800 258313 
+@ sel view 0
+ 63.482478 -3.025864 -7.692893 -8.040899 -8.776680 -62.902108
+ 1.918434 63.341735 -9.083258 -300.627359 378.697101 -1728.640551 0.262144 0.000000 0
+~ Command `ProCmdCompAssem` 
+< 3 0.118519 178 0 0 100 1280 0 0 800 13
+~ Select `file_open` `Ph_list.Filelist` \
+1  `glass-8inch.prt`
+~ Activate `file_open` `Open`
+!ODUI session starting: Okit widgets are on, Undo/Redo on, Dashboard style on, Tab style off. Feature title : 元件
+!ODUI session started.
+!%CP选取自动类型约束的任意参照。
+~ Wheel `main_dlg_cur` `proe_win` \
+9 261 165 393216 1024 770 585 1280 800 268665 
+!%CP使用(鼠标中键)定向视图。退出定向模式以终止。
+~ Wheel `main_dlg_cur` `proe_win` \
+9 254 153 393216 1536 770 585 1280 800 268705 
+!%CP使用(鼠标中键)定向视图。退出定向模式以终止。
+~ Wheel `main_dlg_cur` `proe_win` \
+9 249 144 393216 0 770 585 1280 800 268745 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 249 144 393216 0 770 585 1280 800 268810 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 240 128 458752 0 770 585 1280 800 269084 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 239 127 458752 0 770 585 1280 800 269122 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 235 127 458752 0 770 585 1280 800 269153 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 232 128 458752 1536 770 585 1280 800 269185 
+!%CP使用(鼠标中键)定向视图。退出定向模式以终止。
+~ Wheel `main_dlg_cur` `proe_win` \
+9 230 131 458752 1024 770 585 1280 800 269209 
+!%CP使用(鼠标中键)定向视图。退出定向模式以终止。
+~ Wheel `main_dlg_cur` `proe_win` \
+9 220 132 458752 0 770 585 1280 800 269274 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 210 132 458752 0 770 585 1280 800 269508 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 210 132 458752 0 770 585 1280 800 269522 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 210 132 458752 0 770 585 1280 800 269538 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 210 132 458752 0 770 585 1280 800 269569 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 209 135 458752 0 770 585 1280 800 269617 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 492 301 393216 1024 770 585 1280 800 269985 
+!%CP使用(鼠标中键)定向视图。退出定向模式以终止。
+~ Wheel `main_dlg_cur` `proe_win` \
+9 492 301 393216 0 770 585 1280 800 270025 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 492 301 393216 0 770 585 1280 800 270065 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 492 301 393216 0 770 585 1280 800 270121 
+~ Open `main_dlg_cur` `maindashInst0.constr_type_menu`
+~ Close `main_dlg_cur` `maindashInst0.constr_type_menu`
+~ Select `main_dlg_cur` `maindashInst0.constr_type_menu` \
+1  `plin Mate`
+!%CP在一个零件上选取匹配的曲面或基准平面。
+~ Open `main_dlg_cur` `maindashInst0.constr_type_menu`
+~ Close `main_dlg_cur` `maindashInst0.constr_type_menu`
+~ Select `main_dlg_cur` `maindashInst0.constr_type_menu` \
+1  `plin Align`
+!%CP在一个零件上选取对齐的曲面、轴、基准平面、点、顶点、曲线端点或边。
+~ Activate `main_dlg_cur` `maindashInst0.constr_alignment_tb` \
+ `maindashInst0.Offset`
+~ Activate `main_dlg_cur` `maindashInst0.Offset` \
+1 
+!%CP在一个零件上选取对齐的曲面、轴、基准平面、点、顶点、曲线端点或边。
+~ Activate `main_dlg_cur` `maindashInst0.constr_alignment_tb` \
+ `maindashInst0.Coincident`
+~ Activate `main_dlg_cur` `maindashInst0.Coincident` \
+1 
+!%CP在一个零件上选取对齐的曲面、轴、基准平面、点、顶点、曲线端点或边。
+~ Activate `main_dlg_cur` `maindashInst0.constr_alignment_tb` \
+ `maindashInst0.Coincident`
+~ Activate `main_dlg_cur` `maindashInst0.Coincident` \
+0 
+!%CP在一个零件上选取对齐的曲面、轴、基准平面、点、顶点、曲线端点或边。
+~ Activate `main_dlg_cur` `dashInst0.stdbtn_1`
+!%CW要保留此元件为包装元件。
+!ODUI session finished.
+@ trail error  : Creating feature 42 in model ASM0001 - error 0
+ 0 
+!Undo: added rec_id 17 type 5304 
+!
+~ Close `main_dlg_cur` `main_dlg_cur`
+!Command ProCmdWinOSCloseAsyn was pushed from the software.
+!Command ProCmdWinClose was pushed from the software.
+~ Move `main_dlg_cur` `proe_win` \
+9 171 211 0 1537 798 676 1280 800 296493 
+~ Select `main_dlg_cur` `MenuBar1` \
+1  `Insert`
+~ Close `main_dlg_cur` `MenuBar1`
+~ Activate `main_dlg_cur` `main_dlg_cur`
+< 0 0.773926 953 0 0 653 1280 0 0 800 13
+~ Resize `main_dlg_cur` `main_dlg_cur` \
+4 -0.280350 -0.280350 44.856070 25.827284 
+~ Move `main_dlg_cur` `main_dlg_cur` \
+2 -0.280350 -0.280350 
+< 0 0.798000 798 0 0 676 1280 0 0 800 13
+~ Resize `main_dlg_cur` `main_dlg_cur` \
+4 0.000000 0.000000 39.424280 26.633292 
+~ Move `main_dlg_cur` `main_dlg_cur` \
+2 0.000000 0.000000 
+~ Move `main_dlg_cur` `main_dlg_cur` \
+2 4.906133 0.175219 
+~ Activate `main_dlg_cur` `main_dlg_cur`
+~ Command `ProCmdNaMeasureDistance` 
+!ODUI external UI session start for device : na_distance 
+!%CP选取用于距离分析的第一图元。
+~ Wheel `main_dlg_cur` `proe_win` \
+9 355 210 393216 0 798 676 1280 800 475330 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 355 210 393216 0 798 676 1280 800 475401 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 355 210 458752 0 798 676 1280 800 475665 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 355 210 458752 0 798 676 1280 800 475698 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 355 210 458752 0 798 676 1280 800 475730 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 355 210 458752 0 798 676 1280 800 475778 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 355 210 458752 0 798 676 1280 800 476019 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 355 210 458752 0 798 676 1280 800 476037 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 355 210 458752 0 798 676 1280 800 476065 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 355 210 458752 0 798 676 1280 800 476099 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 355 210 458752 0 798 676 1280 800 476133 
+~ LButtonArm `main_dlg_cur` `proe_win` \
+9 285 237 0 1 798 676 1280 800 477291 
+~ LButtonDisarm `main_dlg_cur` `proe_win` \
+9 285 237 0 0 798 676 1280 800 477409 
+@ sel view 0
+ 0.000000 0.000000 2.215163 2.215163 0.000000 0.000000
+ 0.000000 2.215163 0.000000 500.000000 87.968268 -1480.162999 4.768372 0.000000 0
+@ stack idx 0
+@SELECTION 0 0 3 227 -1
+!%CP选取用于距离分析的第二图元。
+~ LButtonArm `main_dlg_cur` `proe_win` \
+9 287 325 0 1 798 676 1280 800 478713 
+~ LButtonDisarm `main_dlg_cur` `proe_win` \
+9 287 325 0 0 798 676 1280 800 478835 
+@ sel view 0
+ 0.000000 0.000000 2.215163 2.215163 0.000000 0.000000
+ 0.000000 2.215163 0.000000 500.000000 87.968268 -1480.162999 4.768372 0.000000 0
+@ stack idx 0
+@SELECTION 0 0 3 166 -1
+!%CI距离 = 20.0000
+~ Activate `main_dlg_cur` `main_dlg_cur`
+~ Wheel `main_dlg_cur` `proe_win` \
+9 284 415 458752 0 798 676 1280 800 504289 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 284 415 458752 0 798 676 1280 800 504305 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 284 415 458752 0 798 676 1280 800 504321 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 284 415 458752 0 798 676 1280 800 504347 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 284 415 393216 0 798 676 1280 800 504682 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 284 415 393216 0 798 676 1280 800 504697 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 284 415 393216 0 798 676 1280 800 504713 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 284 415 393216 0 798 676 1280 800 504722 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 284 415 393216 0 798 676 1280 800 504739 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 284 415 393216 0 798 676 1280 800 504762 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 284 415 393216 0 798 676 1280 800 504945 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 284 415 393216 0 798 676 1280 800 504969 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 284 415 393216 0 798 676 1280 800 504985 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 284 415 393216 0 798 676 1280 800 505000 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 284 415 393216 0 798 676 1280 800 505018 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 284 415 393216 0 798 676 1280 800 505048 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 284 415 393216 0 798 676 1280 800 505249 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 284 415 393216 0 798 676 1280 800 505265 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 284 415 393216 0 798 676 1280 800 505281 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 284 415 393216 0 798 676 1280 800 505313 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 252 557 458752 0 798 676 1280 800 505838 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 252 557 458752 0 798 676 1280 800 505865 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 252 557 458752 0 798 676 1280 800 505889 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 252 557 458752 0 798 676 1280 800 505913 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 323 518 458752 0 798 676 1280 800 506187 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 323 518 458752 0 798 676 1280 800 506210 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 323 518 458752 0 798 676 1280 800 506226 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 324 518 458752 1024 798 676 1280 800 506248 
+!%CP使用(鼠标中键)定向视图。退出定向模式以终止。
+~ Wheel `main_dlg_cur` `proe_win` \
+9 396 489 458752 1024 798 676 1280 800 506907 
+!%CP使用(鼠标中键)定向视图。退出定向模式以终止。
+~ Wheel `main_dlg_cur` `proe_win` \
+9 396 489 458752 1024 798 676 1280 800 507336 
+!%CP使用(鼠标中键)定向视图。退出定向模式以终止。
+~ Wheel `main_dlg_cur` `proe_win` \
+9 176 480 393216 1024 798 676 1280 800 509315 
+!%CP使用(鼠标中键)定向视图。退出定向模式以终止。
+~ Command `ProCmdNaMeasureDistance` 
+!ODUI external UI session stop. 
+!ODUI external UI session start for device : na_distance 
+!%CP选取用于距离分析的第一图元。
+~ LButtonArm `main_dlg_cur` `proe_win` \
+9 261 342 0 1 798 676 1280 800 523153 
+~ Move `main_dlg_cur` `proe_win` \
+9 261 342 0 1 798 676 1280 800 523165 
+~ LButtonDisarm `main_dlg_cur` `proe_win` \
+9 261 342 0 0 798 676 1280 800 523224 
+@ sel view 0
+ 0.000000 0.000000 2.215163 2.215163 0.000000 0.000000
+ 0.000000 2.215163 0.000000 500.000000 87.968268 -1480.162999 2.441406 0.000000 0
+@ stack idx 0
+@SELECTION 0 0 3 164 -1
+!%CP选取用于距离分析的第二图元。
+~ LButtonArm `main_dlg_cur` `proe_win` \
+9 265 441 0 1 798 676 1280 800 524619 
+~ Move `main_dlg_cur` `proe_win` \
+9 265 441 0 1 798 676 1280 800 524682 
+~ LButtonDisarm `main_dlg_cur` `proe_win` \
+9 265 441 0 0 798 676 1280 800 524737 
+@ sel view 0
+ 0.000000 0.000000 2.215163 2.215163 0.000000 0.000000
+ 0.000000 2.215163 0.000000 500.000000 87.968268 -1480.162999 2.441406 0.000000 0
+@ stack idx 0
+@SELECTION 0 0 3 77 -1
+!%CI距离 = 24.4000
+~ Activate `main_dlg_cur` `main_dlg_cur`
+~ Wheel `main_dlg_cur` `proe_win` \
+9 477 262 393216 512 798 676 1280 800 728314 
+!%CP使用(鼠标中键)定向视图。退出定向模式以终止。
+~ Wheel `main_dlg_cur` `proe_win` \
+9 477 262 393216 0 798 676 1280 800 728339 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 477 262 393216 0 798 676 1280 800 728360 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 477 262 393216 0 798 676 1280 800 728384 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 477 262 393216 0 798 676 1280 800 728448 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 477 262 458752 0 798 676 1280 800 728691 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 477 262 458752 0 798 676 1280 800 728714 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 477 262 458752 0 798 676 1280 800 728737 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 477 262 458752 0 798 676 1280 800 728754 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 477 262 458752 0 798 676 1280 800 728776 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 477 262 458752 0 798 676 1280 800 728809 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 477 262 393216 512 798 676 1280 800 729259 
+!%CP使用(鼠标中键)定向视图。退出定向模式以终止。
+~ Wheel `main_dlg_cur` `proe_win` \
+9 477 262 393216 0 798 676 1280 800 729279 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 477 262 393216 0 798 676 1280 800 729305 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 477 262 393216 0 798 676 1280 800 729316 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 477 262 393216 0 798 676 1280 800 729337 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 477 262 393216 512 798 676 1280 800 729682 
+!%CP使用(鼠标中键)定向视图。退出定向模式以终止。
+~ Wheel `main_dlg_cur` `proe_win` \
+9 477 262 393216 0 798 676 1280 800 729699 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 477 262 393216 0 798 676 1280 800 729713 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 477 262 393216 0 798 676 1280 800 729728 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 477 262 393216 0 798 676 1280 800 729744 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 477 262 393216 0 798 676 1280 800 729786 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 513 137 458752 1024 798 676 1280 800 730148 
+!%CP使用(鼠标中键)定向视图。退出定向模式以终止。
+~ Wheel `main_dlg_cur` `proe_win` \
+9 513 137 458752 0 798 676 1280 800 730170 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 513 137 458752 0 798 676 1280 800 730192 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 513 137 458752 0 798 676 1280 800 730216 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 501 166 458752 1536 798 676 1280 800 730526 
+!%CP使用(鼠标中键)定向视图。退出定向模式以终止。
+~ Wheel `main_dlg_cur` `proe_win` \
+9 498 180 458752 1536 798 676 1280 800 730545 
+!%CP使用(鼠标中键)定向视图。退出定向模式以终止。
+~ Wheel `main_dlg_cur` `proe_win` \
+9 497 188 458752 0 798 676 1280 800 730585 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 395 355 393216 0 798 676 1280 800 731217 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 395 355 393216 0 798 676 1280 800 731249 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 395 355 393216 0 798 676 1280 800 731304 
+~ LButtonArm `main_dlg_cur` `proe_win` \
+9 330 339 0 1 798 676 1280 800 732747 
+~ LButtonDisarm `main_dlg_cur` `proe_win` \
+9 330 339 0 0 798 676 1280 800 732809 
+@ sel view 0
+ 0.000000 0.000000 2.215163 2.215163 0.000000 0.000000
+ 0.000000 2.215163 0.000000 500.000000 87.968268 -1480.162999 0.640000 0.000000 0
+@ stack idx 0
+@SELECTION 0 0 3 1608 -1
+!%CI距离 = 191.262
+~ LButtonArm `main_dlg_cur` `proe_win` \
+9 330 339 0 129 798 676 1280 800 732913 
+** 0.413534 0.497030 0 64 64
+0.439317 0.551400 E 0 0.798000000 0
+@ sel view 0
+ 0.000000 0.000000 2.215163 2.215163 0.000000 0.000000
+ 0.000000 2.215163 0.000000 500.000000 87.968268 -1480.162999 0.640000 0.000000 0
+@ stack idx 0
+@SELECTION 0 0 3 1474 -1
+!%CI距离 = 191.262
+~ LButtonDisarm `main_dlg_cur` `proe_win` \
+9 330 339 0 0 798 676 1280 800 732985 
+~ MButtonArm `main_dlg_cur` `proe_win` \
+9 578 272 0 2 798 676 1280 800 734780 
+~ MButtonDisarm `main_dlg_cur` `proe_win` \
+9 578 272 0 0 798 676 1280 800 734928 
+~ Activate `na_distance` `ok_btn`
+!ODUI external UI session stop. 
+~ LButtonArm `main_dlg_cur` `proe_win` \
+9 498 432 0 1 798 676 1280 800 735422 
+~ LButtonDisarm `main_dlg_cur` `proe_win` \
+9 498 432 0 0 798 676 1280 800 735490 
+@ sel view 0
+ 0.000000 0.000000 2.215163 2.215163 0.000000 0.000000
+ 0.000000 2.215163 0.000000 500.000000 87.968268 -1480.162999 0.640000 0.000000 0
+~ LButtonArm `main_dlg_cur` `proe_win` \
+9 411 343 0 1 798 676 1280 800 736405 
+~ LButtonDisarm `main_dlg_cur` `proe_win` \
+9 411 343 0 0 798 676 1280 800 736472 
+@ sel view 0
+ 0.000000 0.000000 2.215163 2.215163 0.000000 0.000000
+ 0.000000 2.215163 0.000000 500.000000 87.968268 -1480.162999 0.640000 0.000000 0
+@ stack idx 0
+@SELECTION 0 0 52 138 166
+~ LButtonArm `main_dlg_cur` `proe_win` \
+9 411 343 0 129 798 676 1280 800 736570 
+!Command ProCmdEditShowDim was pushed from the software.
+!%CP选取项目以进行编辑，例如尺寸、剖面、轨迹、公差、表面光洁度或其它特征
+!sket_eps        5.56867678
+~ Move `main_dlg_cur` `proe_win` \
+9 411 343 0 1 798 676 1280 800 736655 
+~ LButtonDisarm `main_dlg_cur` `proe_win` \
+9 411 343 0 0 798 676 1280 800 736664 
+~ Move `main_dlg_cur` `main_dlg_cur` \
+2 13.071339 0.630788 
+~ Activate `main_dlg_cur` `main_dlg_cur`
+~ Activate `main_dlg_cur` `main_dlg_cur`
+~ Activate `main_dlg_cur` `main_dlg_cur`
+~ LButtonArm `main_dlg_cur` `proe_win` \
+9 528 329 0 1 798 676 1280 800 1766000 
+~ LButtonDisarm `main_dlg_cur` `proe_win` \
+9 528 329 0 0 798 676 1280 800 1766112 
+@ sel view 0
+ 0.000000 0.000000 2.215163 2.215163 0.000000 0.000000
+ 0.000000 2.215163 0.000000 500.000000 87.968268 -1480.162999 0.640000 0.000000 0
+@ sel stop
+@ sel stop
+@ sel stop
+!Command ProCmdDummyExitCmd was pushed from the software.
+!Command ProCmdViewRepaint was pushed from the software.
+~ Command `ProCmdNaMeasureDistance` 
+!ODUI external UI session start for device : na_distance 
+!%CP选取用于距离分析的第一图元。
+~ Wheel `main_dlg_cur` `proe_win` \
+9 259 282 393216 1024 798 676 1280 800 1771098 
+!%CP使用(鼠标中键)定向视图。退出定向模式以终止。
+~ Wheel `main_dlg_cur` `proe_win` \
+9 259 282 393216 0 798 676 1280 800 1771176 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 259 282 458752 1024 798 676 1280 800 1771458 
+!%CP使用(鼠标中键)定向视图。退出定向模式以终止。
+~ Wheel `main_dlg_cur` `proe_win` \
+9 259 282 458752 0 798 676 1280 800 1771488 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 259 282 458752 0 798 676 1280 800 1771528 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 259 282 458752 0 798 676 1280 800 1771641 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 259 282 393216 1024 798 676 1280 800 1772433 
+!%CP使用(鼠标中键)定向视图。退出定向模式以终止。
+~ Wheel `main_dlg_cur` `proe_win` \
+9 259 282 393216 0 798 676 1280 800 1772513 
+< 0 0.773926 953 0 0 653 1280 0 0 800 13
+~ Resize `main_dlg_cur` `main_dlg_cur` \
+4 -0.280350 -0.280350 44.856070 25.827284 
+~ Move `main_dlg_cur` `main_dlg_cur` \
+2 -0.280350 -0.280350 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 516 272 458752 512 953 653 1280 800 1774696 
+!%CP使用(鼠标中键)定向视图。退出定向模式以终止。
+~ Wheel `main_dlg_cur` `proe_win` \
+9 516 272 458752 0 953 653 1280 800 1774719 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 516 272 458752 0 953 653 1280 800 1774751 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 384 325 458752 512 953 653 1280 800 1775296 
+!%CP使用(鼠标中键)定向视图。退出定向模式以终止。
+~ Wheel `main_dlg_cur` `proe_win` \
+9 383 326 458752 1024 953 653 1280 800 1775392 
+!%CP使用(鼠标中键)定向视图。退出定向模式以终止。
+~ Wheel `main_dlg_cur` `proe_win` \
+9 362 334 458752 0 953 653 1280 800 1775624 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 349 340 458752 0 953 653 1280 800 1775696 
+~ LButtonArm `main_dlg_cur` `proe_win` \
+9 184 405 0 1 953 653 1280 800 1776887 
+~ LButtonDisarm `main_dlg_cur` `proe_win` \
+9 184 405 0 0 953 653 1280 800 1777000 
+@ sel view 0
+ 0.000000 0.000000 2.215163 2.215163 0.000000 0.000000
+ 0.000000 2.215163 0.000000 500.000000 87.968268 -1480.162999 3.051758 0.000000 0
+@ stack idx 0
+@SELECTION 0 0 3 227 -1
+!%CP选取用于距离分析的第二图元。
+~ Wheel `main_dlg_cur` `proe_win` \
+9 256 438 458752 0 953 653 1280 800 1777866 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 256 438 458752 0 953 653 1280 800 1777889 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 256 438 458752 0 953 653 1280 800 1777903 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 256 438 458752 0 953 653 1280 800 1777935 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 256 438 458752 0 953 653 1280 800 1778007 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 256 438 393216 0 953 653 1280 800 1778223 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 256 438 393216 0 953 653 1280 800 1778247 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 256 438 393216 0 953 653 1280 800 1778272 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 256 438 393216 0 953 653 1280 800 1778288 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 256 438 393216 0 953 653 1280 800 1778303 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 256 438 393216 0 953 653 1280 800 1778343 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 256 438 393216 0 953 653 1280 800 1778536 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 256 438 393216 0 953 653 1280 800 1778555 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 256 438 393216 0 953 653 1280 800 1778567 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 256 438 393216 0 953 653 1280 800 1778583 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 256 438 393216 0 953 653 1280 800 1778607 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 256 438 393216 0 953 653 1280 800 1778801 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 256 438 393216 0 953 653 1280 800 1778824 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 256 438 393216 0 953 653 1280 800 1778840 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 256 438 393216 0 953 653 1280 800 1778856 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 256 438 393216 0 953 653 1280 800 1778879 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 256 438 393216 0 953 653 1280 800 1778927 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 252 571 458752 512 953 653 1280 800 1779385 
+!%CP使用(鼠标中键)定向视图。退出定向模式以终止。
+~ Wheel `main_dlg_cur` `proe_win` \
+9 252 571 458752 0 953 653 1280 800 1779409 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 252 571 458752 0 953 653 1280 800 1779431 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 252 571 458752 0 953 653 1280 800 1779457 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 252 566 458752 1536 953 653 1280 800 1779480 
+!%CP使用(鼠标中键)定向视图。退出定向模式以终止。
+~ Wheel `main_dlg_cur` `proe_win` \
+9 253 537 458752 1536 953 653 1280 800 1779763 
+!%CP使用(鼠标中键)定向视图。退出定向模式以终止。
+~ Wheel `main_dlg_cur` `proe_win` \
+9 253 537 458752 0 953 653 1280 800 1779782 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 253 537 458752 0 953 653 1280 800 1779802 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 253 534 458752 1024 953 653 1280 800 1779824 
+!%CP使用(鼠标中键)定向视图。退出定向模式以终止。
+~ LButtonArm `main_dlg_cur` `proe_win` \
+9 251 204 0 1 953 653 1280 800 1781376 
+~ Move `main_dlg_cur` `proe_win` \
+9 251 204 0 1 953 653 1280 800 1781394 
+~ LButtonDisarm `main_dlg_cur` `proe_win` \
+9 251 204 0 0 953 653 1280 800 1781456 
+@ sel view 0
+ 0.000000 0.000000 2.215163 2.215163 0.000000 0.000000
+ 0.000000 2.215163 0.000000 500.000000 87.968268 -1480.162999 1.562500 0.000000 0
+@ stack idx 0
+@SELECTION 0 0 3 77 -1
+!%CI距离 = 229.400
+~ Wheel `main_dlg_cur` `proe_win` \
+9 471 289 393216 0 953 653 1280 800 1782242 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 471 289 393216 0 953 653 1280 800 1782272 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 471 289 393216 0 953 653 1280 800 1782319 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 542 127 393216 0 953 653 1280 800 1787376 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 542 127 393216 0 953 653 1280 800 1787560 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 556 53 458752 0 953 653 1280 800 1788712 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 556 53 458752 0 953 653 1280 800 1789032 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 552 41 393216 1536 953 653 1280 800 1789618 
+!%CP使用(鼠标中键)定向视图。退出定向模式以终止。
+~ Wheel `main_dlg_cur` `proe_win` \
+9 552 35 393216 1024 953 653 1280 800 1789720 
+!%CP使用(鼠标中键)定向视图。退出定向模式以终止。
+~ Wheel `main_dlg_cur` `proe_win` \
+9 552 35 393216 0 953 653 1280 800 1789809 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 551 7 393216 1536 953 653 1280 800 1790186 
+!%CP使用(鼠标中键)定向视图。退出定向模式以终止。
+~ Wheel `main_dlg_cur` `proe_win` \
+9 550 7 393216 1024 953 653 1280 800 1790295 
+!%CP使用(鼠标中键)定向视图。退出定向模式以终止。
+~ Wheel `main_dlg_cur` `proe_win` \
+9 546 6 393216 1024 953 653 1280 800 1790666 
+!%CP使用(鼠标中键)定向视图。退出定向模式以终止。
+~ Wheel `main_dlg_cur` `proe_win` \
+9 546 6 458752 1024 953 653 1280 800 1791064 
+!%CP使用(鼠标中键)定向视图。退出定向模式以终止。
+~ Wheel `main_dlg_cur` `proe_win` \
+9 546 6 458752 0 953 653 1280 800 1791103 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 546 6 458752 0 953 653 1280 800 1791249 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 546 6 458752 1024 953 653 1280 800 1791378 
+!%CP使用(鼠标中键)定向视图。退出定向模式以终止。
+~ Wheel `main_dlg_cur` `proe_win` \
+9 546 6 458752 0 953 653 1280 800 1791723 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 546 6 458752 0 953 653 1280 800 1791759 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 533 7 458752 1536 953 653 1280 800 1792118 
+!%CP使用(鼠标中键)定向视图。退出定向模式以终止。
+~ Wheel `main_dlg_cur` `proe_win` \
+9 532 8 458752 1536 953 653 1280 800 1792140 
+!%CP使用(鼠标中键)定向视图。退出定向模式以终止。
+~ Wheel `main_dlg_cur` `proe_win` \
+9 472 19 393216 512 953 653 1280 800 1793217 
+!%CP使用(鼠标中键)定向视图。退出定向模式以终止。
+~ Wheel `main_dlg_cur` `proe_win` \
+9 472 19 393216 0 953 653 1280 800 1793243 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 472 19 393216 0 953 653 1280 800 1793263 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 472 19 393216 0 953 653 1280 800 1793279 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 472 19 393216 0 953 653 1280 800 1793311 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 502 14 393216 1536 953 653 1280 800 1793529 
+!%CP使用(鼠标中键)定向视图。退出定向模式以终止。
+~ Wheel `main_dlg_cur` `proe_win` \
+9 506 11 393216 0 953 653 1280 800 1793554 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 506 11 393216 0 953 653 1280 800 1793568 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 506 11 393216 0 953 653 1280 800 1793591 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 506 11 393216 0 953 653 1280 800 1793615 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 506 11 393216 0 953 653 1280 800 1793833 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 506 11 393216 0 953 653 1280 800 1793855 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 506 11 393216 0 953 653 1280 800 1793872 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 506 11 393216 0 953 653 1280 800 1793895 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 506 11 393216 0 953 653 1280 800 1793919 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 527 0 458752 0 953 653 1280 800 1794405 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 527 0 458752 0 953 653 1280 800 1794425 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 527 0 458752 0 953 653 1280 800 1794439 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 527 0 458752 0 953 653 1280 800 1794462 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 527 0 458752 0 953 653 1280 800 1794687 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 527 0 458752 0 953 653 1280 800 1794705 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 527 0 458752 0 953 653 1280 800 1794728 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 769 29 458752 1536 953 653 1280 800 1794754 
+!%CP使用(鼠标中键)定向视图。退出定向模式以终止。
+~ Wheel `main_dlg_cur` `proe_win` \
+9 475 59 458752 1536 953 653 1280 800 1795000 
+!%CP使用(鼠标中键)定向视图。退出定向模式以终止。
+~ Wheel `main_dlg_cur` `proe_win` \
+9 188 29 458752 512 953 653 1280 800 1795615 
+!%CP使用(鼠标中键)定向视图。退出定向模式以终止。
+~ Wheel `main_dlg_cur` `proe_win` \
+9 188 29 458752 1024 953 653 1280 800 1795639 
+!%CP使用(鼠标中键)定向视图。退出定向模式以终止。
+~ Wheel `main_dlg_cur` `proe_win` \
+9 188 29 458752 0 953 653 1280 800 1795671 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 188 29 458752 0 953 653 1280 800 1795719 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 184 67 458752 0 953 653 1280 800 1796134 
+~ Activate `main_dlg_cur` `main_dlg_cur`
+~ Activate `main_dlg_cur` `main_dlg_cur`
+~ Activate `main_dlg_cur` `main_dlg_cur`
+~ Activate `main_dlg_cur` `main_dlg_cur`
+~ Activate `main_dlg_cur` `main_dlg_cur`
+~ Wheel `main_dlg_cur` `proe_win` \
+9 324 246 393216 512 953 653 1280 800 2097383 
+!%CP使用(鼠标中键)定向视图。退出定向模式以终止。
+~ Wheel `main_dlg_cur` `proe_win` \
+9 324 246 393216 0 953 653 1280 800 2097463 
+~ LButtonArm `main_dlg_cur` `proe_win` \
+9 542 303 0 1 953 653 1280 800 2100313 
+~ LButtonDisarm `main_dlg_cur` `proe_win` \
+9 542 303 0 0 953 653 1280 800 2100422 
+@ sel view 0
+ 0.000000 0.000000 2.215163 2.215163 0.000000 0.000000
+ 0.000000 2.215163 0.000000 500.000000 87.968268 -1480.162999 0.640000 0.000000 0
+~ LButtonArm `main_dlg_cur` `proe_win` \
+9 557 385 0 1 953 653 1280 800 2104571 
+~ LButtonDisarm `main_dlg_cur` `proe_win` \
+9 557 385 0 0 953 653 1280 800 2104711 
+@ sel view 0
+ 0.000000 0.000000 2.215163 2.215163 0.000000 0.000000
+ 0.000000 2.215163 0.000000 500.000000 87.968268 -1480.162999 0.640000 0.000000 0
+~ Activate `main_dlg_cur` `main_dlg_cur`
+~ Close `main_dlg_cur` `main_dlg_cur`
+!Command ProCmdOSExit was pushed from the software.
+! Message Dialog: Warning
+!               : Pro/ENGINEER 将终止，并且所有未保存的工作将会丢失。
+!               : 您确实要退出吗?
+~ FocusIn `UI Message Dialog` `yes`
+~ Activate `UI Message Dialog` `yes`
+!End of Trail File

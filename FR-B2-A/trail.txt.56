@@ -1,0 +1,182 @@
+﻿!trail file version No. 1450
+!Pro/ENGINEER  TM  Wildfire 5.0  (c) 1988-2002 by Wisdom Systems  All Rights Reserved.
+< 0 0.884148 1126 0 0 746 1280 0 0 800 13
+!mem_use INCREASE Blocks 208269, AppSize 24991704, SysSize 34379080
+< 0 0.754963 918 0 0 637 1280 0 0 800 13
+< 0 0.754963 826 0 0 637 1280 0 0 800 13
+!%CI欢迎使用 Pro/ENGINEER Wildfire 5.0。
+< 0 0.754963 812 0 0 637 1280 0 0 800 13
+< 0 0.754963 840 0 0 637 1280 0 0 800 13
+< 0 0.773926 994 0 0 653 1280 0 0 800 13
+~ Resize `main_dlg_cur` `main_dlg_cur` \
+4 -0.280350 -0.280350 44.856070 25.827284 
+~ Move `main_dlg_cur` `main_dlg_cur` \
+2 -0.280350 -0.280350 
+~ Command `ProCmdModelOpen` 
+< 2 0.118519 178 0 0 100 1280 0 0 800 13
+~ Select `file_open` `Location Browser`
+~ Close `file_open` `Location Browser`
+~ Select `file_open` `SAB_c:`
+~ Close `file_open` `SAB_c:`
+~ Select `file_open` `Location Browser`
+~ Close `file_open` `Location Browser`
+~ Select `file_open` `SAB_c:`
+~ Close `file_open` `SAB_c:`
+~ Activate `file_open` `SAB_c:`
+~ Activate `file_open` `SAB_pfafs:drives`
+~ Select `file_open` `Ph_list.Filelist` \
+1  `c:`
+~ Select `file_open` `Ph_list.Filelist` \
+1  `d:`
+~ Activate `file_open` `Ph_list.Filelist` \
+1  `d:`
+~ Select `file_open` `Ph_list.Filelist` \
+1  `百度云同步盘`
+~ Activate `file_open` `Ph_list.Filelist` \
+1  `百度云同步盘`
+~ Select `file_open` `Ph_list.Filelist` \
+1  `Leadien`
+~ Activate `file_open` `Ph_list.Filelist` \
+1  `Leadien`
+~ Select `file_open` `Ph_list.Filelist` \
+1  `项目`
+~ Activate `file_open` `Ph_list.Filelist` \
+1  `项目`
+~ Select `file_open` `Ph_list.Filelist` \
+1  `运行`
+~ Activate `file_open` `Ph_list.Filelist` \
+1  `运行`
+~ Select `file_open` `Ph_list.Filelist` \
+1  `VR生理监测`
+~ Activate `file_open` `Ph_list.Filelist` \
+1  `VR生理监测`
+~ Select `file_open` `Ph_list.Filelist` \
+1  `研发`
+~ Activate `file_open` `Ph_list.Filelist` \
+1  `研发`
+~ Select `file_open` `Ph_list.Filelist` \
+1  `眼动`
+~ Activate `file_open` `Ph_list.Filelist` \
+1  `眼动`
+~ Open `file_open` `Type`
+~ Close `file_open` `Type`
+~ Select `file_open` `Type` \
+1  `db_-1`
+~ Activate `main_dlg_cur` `main_dlg_cur`
+~ Open `file_open` `Type`
+~ Close `file_open` `Type`
+~ Select `file_open` `Type` \
+1  `db_-1`
+~ Input `file_open` `Inputname` \
+ `20190812-PCB板.dx`
+~ Input `file_open` `Inputname` \
+ `20190812-PCB板.d`
+~ Input `file_open` `Inputname` \
+ `20190812-PCB板.`
+~ Input `file_open` `Inputname` \
+ `20190812-PCB板`
+~ Input `file_open` `Inputname` \
+ `20190812-PCB`
+~ Input `file_open` `Inputname` \
+ `20190812-PC`
+~ Input `file_open` `Inputname` \
+ `20190812-P`
+~ Input `file_open` `Inputname` \
+ `20190812-`
+~ Input `file_open` `Inputname` \
+ `20190812`
+~ Input `file_open` `Inputname` \
+ `2019081`
+~ Input `file_open` `Inputname` \
+ `201908`
+~ Input `file_open` `Inputname` \
+ `20190`
+~ Input `file_open` `Inputname` \
+ `2019`
+~ Input `file_open` `Inputname` \
+ `201`
+~ Input `file_open` `Inputname` \
+ `20`
+~ Input `file_open` `Inputname` \
+ `2`
+~ Input `file_open` `Inputname` \
+ ``
+~ Input `file_open` `Inputname` \
+ ``
+~ Input `file_open` `Inputname` \
+ ``
+~ Input `file_open` `Inputname` \
+ ``
+~ Input `file_open` `Inputname` \
+ ``
+~ Input `file_open` `Inputname` \
+ ``
+~ Input `file_open` `Inputname` \
+ ``
+~ Input `file_open` `Inputname` \
+ ``
+~ Input `file_open` `Inputname` \
+ ``
+~ Input `file_open` `Inputname` \
+ ``
+~ Update `file_open` `Inputname` \
+ ``
+~ Open `file_open` `Type`
+~ Close `file_open` `Type`
+~ Activate `file_open` `SAB_D:\\百度云同步盘\\Leadien\\项目\\运行\\VR生理监测\\研发`
+~ Select `file_open` `Ph_list.Filelist` \
+1  `眼动`
+~ Activate `file_open` `Ph_list.Filelist` \
+1  `眼动`
+~ Open `file_open` `Type`
+~ Close `file_open` `Type`
+~ Select `file_open` `Type` \
+1  `db_1`
+~ Activate `file_open` `file_open`
+~ Close `file_open` `file_open`
+~ Command `ProCmdModelOpen` 
+< 2 0.118519 178 0 0 100 1280 0 0 800 13
+~ Open `file_open` `Type`
+~ Close `file_open` `Type`
+~ Open `file_open` `Type`
+~ Close `file_open` `Type`
+~ Select `file_open` `Type` \
+1  `db_-1`
+~ Select `file_open` `Ph_list.Filelist` \
+1  `20190812-PCB板.dxf`
+~ Activate `file_open` `Open`
+!Command ProCmdModelImpCreateExe was pushed from the software.
+~ Activate `impt_new_model` `PushButton3`
+@ ok
+!%CP无效的DXF文件。请查看文件dxf_errs.log。
+< 0 0.773926 1008 0 0 653 1280 0 0 800 13
+< 0 0.634074 1008 0 0 535 1280 0 0 800 13
+< 0 0.801185 980 0 0 676 1280 0 0 800 13
+< 0 0.714667 980 0 0 603 1280 0 0 800 13
+!%CI dbg_err_crash() - continuing from serious error (ORDER_DEBUG).
+!%CI dbg_err_crash() - continuing from serious error (ORDER_DEBUG).
+!%CI dbg_err_crash() - continuing from serious error (ORDER_DEBUG).
+!%CI dbg_err_crash() - continuing from serious error (ORDER_DEBUG).
+!%CI dbg_err_crash() - continuing from serious error (ORDER_DEBUG).
+!%CI dbg_err_crash() - continuing from serious error (ORDER_DEBUG).
+< 0 0.643556 964 0 0 543 1280 0 0 800 13
+!%CI dbg_err_crash() - continuing from serious error (ORDER_DEBUG).
+!Command ProCmdEnvShaded was pushed from the software.
+< 0 0.610370 964 0 0 515 1280 0 0 800 13
+!%CI将要显示着色模型
+< 0 0.610370 992 0 0 515 1280 0 0 800 13
+!Command ProCmdEnvShaded was pushed from the software.
+!%CI dbg_err_crash() - continuing from serious error (ORDER_DEBUG).
+!%CI dbg_err_crash() - continuing from serious error (ORDER_DEBUG).
+!%CI dbg_err_crash() - continuing from serious error (ORDER_DEBUG).
+!%CI dbg_err_crash() - continuing from serious error (ORDER_DEBUG).
+!%CI将要显示着色模型
+~ Activate `main_dlg_cur` `main_dlg_cur`
+~ Close `main_dlg_cur` `main_dlg_cur`
+!Command ProCmdOSExit was pushed from the software.
+! Message Dialog: Warning
+!               : Pro/ENGINEER 将终止，并且所有未保存的工作将会丢失。
+!               : 您确实要退出吗?
+~ FocusIn `UI Message Dialog` `yes`
+~ Activate `UI Message Dialog` `yes`
+!End of Trail File

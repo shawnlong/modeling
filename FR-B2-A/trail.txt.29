@@ -1,0 +1,538 @@
+﻿!trail file version No. 1450
+!Pro/ENGINEER  TM  Wildfire 5.0  (c) 1988-2002 by Wisdom Systems  All Rights Reserved.
+< 0 0.884148 1126 0 0 746 1280 0 0 800 13
+!mem_use INCREASE Blocks 206305, AppSize 24822539, SysSize 34202632
+< 0 0.754963 918 0 0 637 1280 0 0 800 13
+< 0 0.754963 826 0 0 637 1280 0 0 800 13
+!%CI欢迎使用 Pro/ENGINEER Wildfire 5.0。
+< 0 0.754963 812 0 0 637 1280 0 0 800 13
+< 0 0.754963 840 0 0 637 1280 0 0 800 13
+~ Command `ProCmdModelNew` 
+~ Input `new` `InputPanel1` \
+ `e`
+~ Input `new` `InputPanel1` \
+ `ey`
+~ Input `new` `InputPanel1` \
+ `eye`
+~ Input `new` `InputPanel1` \
+ `eyet`
+~ Input `new` `InputPanel1` \
+ `eyeta`
+~ Input `new` `InputPanel1` \
+ `eyetac`
+~ Input `new` `InputPanel1` \
+ `eyetach`
+~ Input `new` `InputPanel1` \
+ `eyetachk`
+~ Input `new` `InputPanel1` \
+ `eyetach`
+~ Input `new` `InputPanel1` \
+ `eyetac`
+~ Input `new` `InputPanel1` \
+ `eyetack`
+~ Input `new` `InputPanel1` \
+ `eyetackn`
+~ Input `new` `InputPanel1` \
+ `eyetackng`
+~ Input `new` `InputPanel1` \
+ `eyetackn`
+~ Input `new` `InputPanel1` \
+ `eyetack`
+~ Input `new` `InputPanel1` \
+ `eyetacki`
+~ Input `new` `InputPanel1` \
+ `eyetackin`
+~ Input `new` `InputPanel1` \
+ `eyetacking`
+~ Update `new` `InputPanel1` \
+ `eyetacking`
+~ Activate `new` `OK`
+!Command ProCmdModelNewExe was pushed from the software.
+!30-Jul-19 12:12:50  Start C:\Program Files\proeWildfire 5.0\templates\inlbs_part_solid.prt
+!30-Jul-19 12:12:50  End   C:\Program Files\proeWildfire 5.0\templates\inlbs_part_solid.prt
+!30-Jul-19 12:12:50  Start D:\design\FR-B2-A\eyetacking.prt.1
+!30-Jul-19 12:12:50  End   D:\design\FR-B2-A\eyetacking.prt.1
+!%CI用缺省模板C:\Program Files\proeWildfire 5.0\templates\inlbs_part_solid.prt作为模板。
+< 0 0.801185 840 0 0 676 1280 0 0 800 13
+< 0 0.798000 798 0 0 676 1280 0 0 800 13
+~ Command `ProCmdModelSave` 
+~ Activate `file_saveas` `Current Dir`
+~ Activate `file_saveas` `SAB_..|`
+~ RButtonArm `file_saveas` `ph_list.Filelist` \
+ ``
+~ PopupOver `file_saveas` `listPopup` \
+1  `ph_list.Filelist`
+~ Open `file_saveas` `listPopup`
+~ Close `file_saveas` `listPopup`
+~ Activate `file_saveas` `newdirectory_pb0`
+~ Update `getnewdir` `new_dir_input` \
+ `EYE-TRACKING`
+~ Activate `getnewdir` `new_dir_input`
+~ Activate `file_saveas` `OK`
+!%CIEYETACKING已存盘。
+< 0 0.773926 953 0 0 653 1280 0 0 800 13
+~ Resize `main_dlg_cur` `main_dlg_cur` \
+4 -0.280350 -0.280350 44.856070 25.827284 
+~ Move `main_dlg_cur` `main_dlg_cur` \
+2 -0.280350 -0.280350 
+~ Command `ProCmdFtExtrude` 
+!ODUI session starting: Okit widgets are on, Undo/Redo on, Dashboard style on, Tab style off. Feature title : 伸出项: 拉伸
+!ODUI session started.
+!%CP选取一个草绘。(如果首选内部草绘，可在 放置 面板中找到 "定义" 选项。)
+< 0 0.712296 953 0 0 601 1280 0 0 800 13
+< 0 0.712296 925 0 0 601 1280 0 0 800 13
+~ Activate `main_dlg_cur` `chkbn.extrev_1_placement.0` \
+1 
+~ Trigger `extrev_1_placement.0.0` `PH.section_select_list` \
+ `0`
+~ Trigger `extrev_1_placement.0.0` `PH.section_select_list` \
+ ``
+~ Activate `extrev_1_placement.0.0` `PH.Sketch`
+!ODUI session starting: Okit widgets are on, Undo/Redo on, Dashboard style off, Tab style on. Feature title : 草绘
+!ODUI session started.
+!%CP选取一个平面或曲面以定义草绘平面。
+~ LButtonArm `main_dlg_cur` `proe_win` \
+9 289 215 0 1 925 601 1280 800 55247 
+~ LButtonDisarm `main_dlg_cur` `proe_win` \
+9 289 215 0 0 925 601 1280 800 55305 
+@ sel view 0
+ 0.869977 -0.288123 -0.228641 0.000000 0.587134 -0.739882
+ 0.367820 0.681476 0.540786 500.000000 421.875000 -1664.322880 1.000000 0.000000 0
+~ LButtonArm `main_dlg_cur` `proe_win` \
+9 516 167 0 1 925 601 1280 800 57687 
+~ LButtonDisarm `main_dlg_cur` `proe_win` \
+9 516 167 0 0 925 601 1280 800 57769 
+@ sel view 0
+ 0.869977 -0.288123 -0.228641 0.000000 0.587134 -0.739882
+ 0.367820 0.681476 0.540786 500.000000 421.875000 -1664.322880 1.000000 0.000000 0
+@ stack idx 0
+@SELECTION 0 0 2 4 -1
+!%CP选取一个参照(例如曲面、平面或边)以定义视图方向。
+~ Trigger `Odui_Dlg_01` `t1.RefMru` \
+2  `` ``
+~ Activate `Odui_Dlg_01` `stdbtn_1`
+!sket_eps       5.132427788
+!Command ProCmdEditOneByOne was pushed from the software.
+< 0 0.712296 911 0 0 601 1280 0 0 800 13
+~ Command `ProCmdSketImport` 
+< 2 0.118519 178 0 0 100 1280 0 0 800 13
+~ Activate `main_dlg_cur` `main_dlg_cur`
+~ Open `file_open` `Type`
+~ Close `file_open` `Type`
+~ Select `file_open` `Type` \
+1  `db_560`
+~ Activate `file_open` `SAB_..|EYE-TRACKING|`
+~ Select `file_open` `Ph_list.Filelist` \
+1  `TCLH-1068.dwg`
+~ Activate `file_open` `Open`
+!%CE无效的DWG文件
+~ Activate `main_dlg_cur` `main_dlg_cur`
+~ Wheel `main_dlg_cur` `proe_win` \
+9 532 357 393216 1536 911 601 1280 800 123931 
+!%CP使用(鼠标中键)定向视图。退出定向模式以终止。
+~ Wheel `main_dlg_cur` `proe_win` \
+9 532 357 393216 0 911 601 1280 800 124066 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 532 357 393216 0 911 601 1280 800 124497 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 532 357 393216 0 911 601 1280 800 124649 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 532 357 458752 0 911 601 1280 800 125317 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 532 357 458752 0 911 601 1280 800 125410 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 532 357 458752 0 911 601 1280 800 125505 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 532 357 458752 0 911 601 1280 800 125573 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 532 357 458752 0 911 601 1280 800 125689 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 532 357 458752 0 911 601 1280 800 125802 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 532 357 458752 0 911 601 1280 800 126214 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 532 357 458752 0 911 601 1280 800 126264 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 532 357 458752 0 911 601 1280 800 126465 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 532 357 393216 0 911 601 1280 800 126826 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 532 357 393216 0 911 601 1280 800 126857 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 532 357 393216 0 911 601 1280 800 126907 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 532 357 393216 0 911 601 1280 800 126969 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 532 357 393216 0 911 601 1280 800 127378 
+~ Command `ProCmdSketImport` 
+< 2 0.118519 178 0 0 100 1280 0 0 800 13
+~ Select `file_open` `Ph_list.Filelist` \
+1  `TCLH-1068.dwg`
+~ Activate `file_open` `Open`
+!%CE无效的DWG文件
+~ Wheel `main_dlg_cur` `proe_win` \
+9 539 318 458752 0 911 601 1280 800 137666 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 539 318 458752 0 911 601 1280 800 137686 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 539 318 458752 0 911 601 1280 800 137698 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 539 318 458752 0 911 601 1280 800 137713 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 539 318 458752 0 911 601 1280 800 137737 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 539 317 458752 0 911 601 1280 800 137933 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 539 317 458752 0 911 601 1280 800 137955 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 539 317 458752 0 911 601 1280 800 137970 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 539 317 458752 0 911 601 1280 800 138334 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 539 317 458752 0 911 601 1280 800 138349 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 539 317 458752 0 911 601 1280 800 138361 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 539 317 458752 0 911 601 1280 800 138370 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 539 317 458752 0 911 601 1280 800 138393 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 539 317 458752 0 911 601 1280 800 138408 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 539 317 393216 0 911 601 1280 800 138698 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 539 317 393216 0 911 601 1280 800 138720 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 539 317 393216 0 911 601 1280 800 138737 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 539 317 393216 0 911 601 1280 800 138753 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 539 317 393216 0 911 601 1280 800 138773 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 539 317 393216 0 911 601 1280 800 138802 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 539 317 393216 0 911 601 1280 800 138971 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 539 317 393216 0 911 601 1280 800 138983 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 539 317 393216 0 911 601 1280 800 138999 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 539 317 393216 0 911 601 1280 800 139010 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 539 317 393216 0 911 601 1280 800 139024 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 539 317 393216 0 911 601 1280 800 139040 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 539 317 393216 0 911 601 1280 800 139267 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 539 317 393216 0 911 601 1280 800 139284 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 539 317 393216 0 911 601 1280 800 139293 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 539 317 393216 0 911 601 1280 800 139304 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 539 317 393216 0 911 601 1280 800 139314 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 539 317 393216 0 911 601 1280 800 139330 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 539 317 393216 0 911 601 1280 800 139344 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 539 317 393216 0 911 601 1280 800 139360 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 539 317 393216 0 911 601 1280 800 139384 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 539 317 393216 0 911 601 1280 800 139557 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 539 317 393216 0 911 601 1280 800 139572 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 539 317 393216 0 911 601 1280 800 139586 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 539 317 393216 0 911 601 1280 800 139593 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 539 317 393216 0 911 601 1280 800 139608 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 539 317 393216 0 911 601 1280 800 139624 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 539 317 393216 0 911 601 1280 800 139818 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 539 317 393216 0 911 601 1280 800 139836 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 539 317 393216 0 911 601 1280 800 139851 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 539 317 393216 0 911 601 1280 800 139865 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 539 317 393216 0 911 601 1280 800 139880 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 539 317 393216 0 911 601 1280 800 139904 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 539 317 393216 0 911 601 1280 800 140105 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 539 317 393216 0 911 601 1280 800 140123 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 539 317 393216 0 911 601 1280 800 140137 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 539 317 393216 0 911 601 1280 800 140160 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 539 317 393216 0 911 601 1280 800 140192 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 539 317 393216 0 911 601 1280 800 140409 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 539 317 393216 0 911 601 1280 800 140425 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 539 317 393216 0 911 601 1280 800 140446 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 539 317 393216 0 911 601 1280 800 140460 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 539 317 393216 0 911 601 1280 800 140472 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 539 317 393216 0 911 601 1280 800 140664 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 539 317 393216 0 911 601 1280 800 140680 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 539 317 393216 0 911 601 1280 800 140689 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 539 317 393216 0 911 601 1280 800 140706 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 539 317 393216 0 911 601 1280 800 140713 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 539 317 393216 0 911 601 1280 800 140728 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 539 317 393216 0 911 601 1280 800 140744 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 539 317 393216 0 911 601 1280 800 140937 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 539 317 393216 0 911 601 1280 800 140954 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 539 317 393216 0 911 601 1280 800 140970 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 539 317 393216 0 911 601 1280 800 140978 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 539 317 393216 0 911 601 1280 800 140986 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 539 317 393216 0 911 601 1280 800 141001 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 539 317 393216 0 911 601 1280 800 141016 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 539 317 393216 0 911 601 1280 800 141032 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 539 317 393216 0 911 601 1280 800 141224 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 539 317 393216 0 911 601 1280 800 141240 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 539 317 393216 0 911 601 1280 800 141248 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 539 317 393216 0 911 601 1280 800 141264 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 539 317 393216 0 911 601 1280 800 141272 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 539 317 393216 0 911 601 1280 800 141296 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 539 317 393216 0 911 601 1280 800 141489 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 539 317 393216 0 911 601 1280 800 141504 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 539 317 393216 0 911 601 1280 800 141520 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 539 317 393216 0 911 601 1280 800 141536 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 539 317 393216 0 911 601 1280 800 141544 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 539 317 393216 0 911 601 1280 800 141568 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 539 317 393216 0 911 601 1280 800 141592 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 539 317 393216 0 911 601 1280 800 141845 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 539 317 393216 0 911 601 1280 800 141859 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 539 317 393216 0 911 601 1280 800 141872 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 539 317 393216 0 911 601 1280 800 141880 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 539 317 393216 0 911 601 1280 800 141896 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 539 317 393216 0 911 601 1280 800 141928 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 539 317 393216 0 911 601 1280 800 142162 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 539 317 393216 0 911 601 1280 800 142178 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 539 317 393216 0 911 601 1280 800 142194 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 539 317 393216 0 911 601 1280 800 142202 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 539 317 393216 0 911 601 1280 800 142216 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 539 317 393216 0 911 601 1280 800 142249 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 539 317 393216 0 911 601 1280 800 142729 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 539 317 393216 0 911 601 1280 800 142748 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 539 317 393216 0 911 601 1280 800 142770 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 539 317 458752 0 911 601 1280 800 143129 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 539 317 458752 0 911 601 1280 800 143161 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 539 317 458752 0 911 601 1280 800 143181 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 539 317 458752 0 911 601 1280 800 143201 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 539 317 458752 0 911 601 1280 800 143217 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 539 317 458752 0 911 601 1280 800 143244 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 539 317 458752 0 911 601 1280 800 143444 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 539 317 458752 0 911 601 1280 800 143460 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 539 317 458752 0 911 601 1280 800 143474 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 539 317 458752 0 911 601 1280 800 143483 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 539 317 458752 0 911 601 1280 800 143497 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 539 317 458752 0 911 601 1280 800 143509 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 539 317 458752 0 911 601 1280 800 143689 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 539 317 458752 0 911 601 1280 800 143713 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 539 317 458752 0 911 601 1280 800 143726 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 539 317 458752 0 911 601 1280 800 143741 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 539 317 458752 0 911 601 1280 800 143755 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 539 317 458752 0 911 601 1280 800 143771 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 539 317 458752 0 911 601 1280 800 143969 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 539 317 458752 0 911 601 1280 800 143985 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 539 317 458752 0 911 601 1280 800 144002 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 539 317 458752 0 911 601 1280 800 144013 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 539 317 458752 0 911 601 1280 800 144029 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 539 317 458752 0 911 601 1280 800 144217 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 539 317 458752 0 911 601 1280 800 144242 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 539 317 458752 0 911 601 1280 800 144256 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 539 317 458752 0 911 601 1280 800 144268 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 539 317 458752 0 911 601 1280 800 144280 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 539 317 458752 0 911 601 1280 800 144297 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 539 317 458752 0 911 601 1280 800 144493 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 539 317 458752 0 911 601 1280 800 144510 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 539 317 458752 0 911 601 1280 800 144527 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 539 317 458752 0 911 601 1280 800 144539 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 539 317 458752 0 911 601 1280 800 144560 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 539 317 458752 0 911 601 1280 800 144753 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 539 317 458752 0 911 601 1280 800 144778 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 539 317 458752 0 911 601 1280 800 144786 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 539 317 458752 0 911 601 1280 800 144792 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 539 317 458752 0 911 601 1280 800 144808 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 539 317 458752 0 911 601 1280 800 144824 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 539 317 458752 0 911 601 1280 800 145025 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 539 317 458752 0 911 601 1280 800 145043 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 539 317 458752 0 911 601 1280 800 145056 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 539 317 458752 0 911 601 1280 800 145064 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 539 317 458752 0 911 601 1280 800 145081 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 539 317 458752 0 911 601 1280 800 145097 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 539 317 458752 0 911 601 1280 800 145307 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 539 317 458752 0 911 601 1280 800 145320 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 539 317 458752 0 911 601 1280 800 145340 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 539 317 458752 0 911 601 1280 800 145351 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 539 317 458752 0 911 601 1280 800 145357 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 539 317 458752 0 911 601 1280 800 145370 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 539 317 458752 0 911 601 1280 800 145589 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 539 317 458752 0 911 601 1280 800 145604 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 539 317 458752 0 911 601 1280 800 145623 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 539 317 458752 0 911 601 1280 800 145637 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 539 317 458752 0 911 601 1280 800 145655 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 539 317 458752 0 911 601 1280 800 145674 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 539 317 458752 0 911 601 1280 800 145871 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 539 317 458752 0 911 601 1280 800 145887 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 539 317 458752 0 911 601 1280 800 145911 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 539 317 458752 0 911 601 1280 800 145927 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 539 317 458752 0 911 601 1280 800 145959 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 539 317 458752 0 911 601 1280 800 146159 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 539 317 458752 0 911 601 1280 800 146175 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 539 317 458752 0 911 601 1280 800 146200 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 539 317 458752 0 911 601 1280 800 146215 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 539 317 458752 0 911 601 1280 800 146231 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 539 317 458752 0 911 601 1280 800 146447 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 539 317 458752 0 911 601 1280 800 146471 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 539 317 458752 0 911 601 1280 800 146495 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 539 317 458752 0 911 601 1280 800 146519 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 539 317 393216 0 911 601 1280 800 147128 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 539 317 393216 0 911 601 1280 800 147173 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 539 317 393216 0 911 601 1280 800 147207 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 539 317 393216 0 911 601 1280 800 147594 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 539 317 393216 0 911 601 1280 800 147629 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 539 317 393216 0 911 601 1280 800 147952 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 539 317 393216 0 911 601 1280 800 148001 
+~ Close `main_dlg_cur` `main_dlg_cur`
+!Command ProCmdOSExit was pushed from the software.
+! Message Dialog: Warning
+!               : Pro/ENGINEER 将终止，并且所有未保存的工作将会丢失。
+!               : 您确实要退出吗?
+~ FocusIn `UI Message Dialog` `yes`
+~ Activate `UI Message Dialog` `yes`
+!End of Trail File

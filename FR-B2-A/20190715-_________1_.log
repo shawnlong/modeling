@@ -1,0 +1,183 @@
+﻿Pro/ENGINEER STEP 导入日志文件
+
+读取开始时间: Tue Jul 16 16:55:10 2019
+
+分级文件标题信息
+
+         File Description: 
+     Implementation level: 2;1
+                     Name: 00-0001
+               Time Stamp: 2019-07-15T11:52:55
+                   Author: LK
+             Organization: 
+     Preprocessor Version: CREO PARAMETRIC BY PTC INC, 2018260
+       Originating System: CREO PARAMETRIC BY PTC INC, 2018260
+            Authorization: 
+              File Schema: CONFIG_CONTROL_DESIGN
+                         : SHAPE_APPEARANCE_LAYERS_GROUPS
+
+
+ADVANCED_BREP_SHAPE_REPRESENTATION                          6
+ADVANCED_FACE                                             830
+APPLICATION_CONTEXT                                         1
+APPLICATION_PROTOCOL_DEFINITION                             1
+APPROVAL                                                    1
+APPROVAL_DATE_TIME                                          1
+APPROVAL_PERSON_ORGANIZATION                                1
+APPROVAL_ROLE                                               1
+APPROVAL_STATUS                                             1
+AXIS1_PLACEMENT                                             2
+AXIS2_PLACEMENT_3D                                       1363
+BOUNDED_SURFACE                                            37
+B_SPLINE_CURVE_WITH_KNOTS                                 275
+B_SPLINE_SURFACE                                           37
+B_SPLINE_SURFACE_WITH_KNOTS                                75
+CALENDAR_DATE                                               1
+CARTESIAN_POINT                                          8883
+CC_DESIGN_APPROVAL                                          1
+CC_DESIGN_DATE_AND_TIME_ASSIGNMENT                          2
+CC_DESIGN_PERSON_AND_ORGANIZATION_ASSIGNMENT                4
+CC_DESIGN_SECURITY_CLASSIFICATION                           1
+CIRCLE                                                    592
+CLOSED_SHELL                                                6
+COLOUR_RGB                                                326
+CONICAL_SURFACE                                            21
+CONTEXT_DEPENDENT_SHAPE_REPRESENTATION                     13
+CONVERSION_BASED_UNIT                                       7
+COORDINATED_UNIVERSAL_TIME_OFFSET                           1
+CURVE_STYLE                                              2263
+CYLINDRICAL_SURFACE                                       214
+DATE_AND_TIME                                               1
+DATE_TIME_ROLE                                              2
+DESIGN_CONTEXT                                              4
+DIMENSIONAL_EXPONENTS                                       7
+DIRECTION                                                4166
+DRAUGHTING_PRE_DEFINED_COLOUR                               8
+DRAUGHTING_PRE_DEFINED_CURVE_FONT                           1
+EDGE_CURVE                                               2299
+EDGE_LOOP                                                 887
+FACE_BOUND                                                 57
+FACE_OUTER_BOUND                                          830
+FILE_DESCRIPTION                                            1
+FILE_NAME                                                   1
+FILE_SCHEMA                                                 1
+FILL_AREA_STYLE                                            81
+FILL_AREA_STYLE_COLOUR                                     81
+GEOMETRIC_REPRESENTATION_CONTEXT                            7
+GEOMETRIC_REPRESENTATION_ITEM                              37
+GLOBAL_UNCERTAINTY_ASSIGNED_CONTEXT                         7
+GLOBAL_UNIT_ASSIGNED_CONTEXT                                7
+ITEM_DEFINED_TRANSFORMATION                                13
+LENGTH_UNIT                                                 7
+LINE                                                     1436
+LOCAL_TIME                                                  1
+MANIFOLD_SOLID_BREP                                         6
+MECHANICAL_CONTEXT                                          7
+MECHANICAL_DESIGN_GEOMETRIC_PRESENTATION_REPRESENTATION     1
+NAMED_UNIT                                                 28
+NEXT_ASSEMBLY_USAGE_OCCURRENCE                             13
+ORGANIZATION                                                1
+ORIENTED_EDGE                                            4598
+OVER_RIDING_STYLED_ITEM                                    76
+PERSON                                                      1
+PERSON_AND_ORGANIZATION                                     1
+PERSON_AND_ORGANIZATION_ROLE                                4
+PLANE                                                     464
+PLANE_ANGLE_MEASURE_WITH_UNIT                               7
+PLANE_ANGLE_UNIT                                           14
+PRESENTATION_STYLE_ASSIGNMENT                            2344
+PRODUCT                                                     7
+PRODUCT_CATEGORY                                            2
+PRODUCT_CATEGORY_RELATIONSHIP                               2
+PRODUCT_DEFINITION                                          7
+PRODUCT_DEFINITION_FORMATION_WITH_SPECIFIED_SOURCE          7
+PRODUCT_DEFINITION_SHAPE                                   20
+PRODUCT_RELATED_PRODUCT_CATEGORY                            2
+RATIONAL_B_SPLINE_SURFACE                                  37
+REPRESENTATION_CONTEXT                                      7
+REPRESENTATION_ITEM                                        37
+REPRESENTATION_RELATIONSHIP                                13
+REPRESENTATION_RELATIONSHIP_WITH_TRANSFORMATION            13
+SECURITY_CLASSIFICATION                                     1
+SECURITY_CLASSIFICATION_LEVEL                               1
+SHAPE_DEFINITION_REPRESENTATION                             7
+SHAPE_REPRESENTATION                                        1
+SHAPE_REPRESENTATION_RELATIONSHIP                          13
+SI_UNIT                                                    21
+SOLID_ANGLE_UNIT                                            7
+SPHERICAL_SURFACE                                           6
+STYLED_ITEM                                              2268
+SURFACE                                                    37
+SURFACE_OF_LINEAR_EXTRUSION                                 2
+SURFACE_OF_REVOLUTION                                       2
+SURFACE_SIDE_STYLE                                         81
+SURFACE_STYLE_FILL_AREA                                    81
+SURFACE_STYLE_USAGE                                        81
+TOROIDAL_SURFACE                                           46
+UNCERTAINTY_MEASURE_WITH_UNIT                               7
+VECTOR                                                   1438
+VERTEX_POINT                                             1460
+
+TOTAL                                                   38188
+
+
+读取结束时间: Tue Jul 16 16:55:10 2019
+
+全部读取时间: 00:00:00.
+
+
+
+模型的处理信息 _20190715-_________1_:
+
+处理完成时间: Tue Jul 16 16:55:10 2019
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 00-0001_23:
+
+处理完成时间: Tue Jul 16 16:55:10 2019
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 00_5:
+
+处理完成时间: Tue Jul 16 16:55:11 2019
+
+全部处理时间: 00:00:01.
+
+
+模型的处理信息 000_3:
+
+处理完成时间: Tue Jul 16 16:55:11 2019
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 10001_27:
+
+处理完成时间: Tue Jul 16 16:55:11 2019
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 20001_34:
+
+处理完成时间: Tue Jul 16 16:55:11 2019
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 00_4:
+
+处理完成时间: Tue Jul 16 16:55:11 2019
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 00_7:
+
+处理完成时间: Tue Jul 16 16:55:12 2019
+
+全部处理时间: 00:00:00.

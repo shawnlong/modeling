@@ -1,0 +1,218 @@
+﻿!trail file version No. 1450
+!Pro/ENGINEER  TM  Wildfire 5.0  (c) 1988-2002 by Wisdom Systems  All Rights Reserved.
+< 0 0.884148 1126 0 0 746 1280 0 0 800 13
+!mem_use INCREASE Blocks 208188, AppSize 24986736, SysSize 34361640
+< 0 0.754963 918 0 0 637 1280 0 0 800 13
+< 0 0.754963 826 0 0 637 1280 0 0 800 13
+!%CI欢迎使用 Pro/ENGINEER Wildfire 5.0。
+< 0 0.754963 812 0 0 637 1280 0 0 800 13
+< 0 0.754963 840 0 0 637 1280 0 0 800 13
+~ Activate `main_dlg_cur` `main_dlg_cur`
+~ Command `ProCmdModelOpen` 
+< 2 0.118519 178 0 0 100 1280 0 0 800 13
+~ Activate `file_open` `Current Dir`
+~ Activate `file_open` `SAB_..|`
+~ Select `file_open` `Ph_list.Filelist` \
+1  `FR-B2-B`
+~ Activate `file_open` `Ph_list.Filelist` \
+1  `FR-B2-B`
+~ Select `file_open` `Ph_list.Filelist` \
+1  `glass-panel.prt`
+~ Activate `file_open` `Open`
+!Command ProCmdModelOpenExe was pushed from the software.
+!31-Jul-19 20:02:14  Start D:\design\FR-B2-B\glass-panel.prt.1
+!31-Jul-19 20:02:14  End   D:\design\FR-B2-B\glass-panel.prt.1
+< 0 0.801185 840 0 0 676 1280 0 0 800 13
+< 0 0.798000 798 0 0 676 1280 0 0 800 13
+~ MButtonArm `main_dlg_cur` `proe_win` \
+9 136 193 0 2 798 676 1280 800 26529 
+~ Move `main_dlg_cur` `proe_win` \
+9 137 194 0 1538 798 676 1280 800 26671 
+~ Move `main_dlg_cur` `proe_win` \
+9 141 194 0 514 798 676 1280 800 26680 
+~ Move `main_dlg_cur` `proe_win` \
+9 145 194 0 514 798 676 1280 800 26689 
+~ Move `main_dlg_cur` `proe_win` \
+9 147 194 0 514 798 676 1280 800 26702 
+~ Move `main_dlg_cur` `proe_win` \
+9 154 195 0 1538 798 676 1280 800 26716 
+~ Move `main_dlg_cur` `proe_win` \
+9 157 197 0 1538 798 676 1280 800 26728 
+~ Move `main_dlg_cur` `proe_win` \
+9 160 200 0 1538 798 676 1280 800 26739 
+~ Move `main_dlg_cur` `proe_win` \
+9 163 201 0 1538 798 676 1280 800 26754 
+~ Move `main_dlg_cur` `proe_win` \
+9 166 202 0 1538 798 676 1280 800 26771 
+~ Move `main_dlg_cur` `proe_win` \
+9 168 204 0 1538 798 676 1280 800 26783 
+~ Move `main_dlg_cur` `proe_win` \
+9 172 206 0 1538 798 676 1280 800 26795 
+~ Move `main_dlg_cur` `proe_win` \
+9 174 207 0 1538 798 676 1280 800 26818 
+~ Move `main_dlg_cur` `proe_win` \
+9 178 208 0 1538 798 676 1280 800 26840 
+~ Move `main_dlg_cur` `proe_win` \
+9 179 209 0 1538 798 676 1280 800 26853 
+~ Move `main_dlg_cur` `proe_win` \
+9 180 210 0 1538 798 676 1280 800 26864 
+~ Move `main_dlg_cur` `proe_win` \
+9 184 211 0 1538 798 676 1280 800 26881 
+~ Move `main_dlg_cur` `proe_win` \
+9 187 212 0 1538 798 676 1280 800 26892 
+~ Move `main_dlg_cur` `proe_win` \
+9 189 212 0 514 798 676 1280 800 26915 
+~ Move `main_dlg_cur` `proe_win` \
+9 190 212 0 514 798 676 1280 800 27087 
+~ Move `main_dlg_cur` `proe_win` \
+9 193 212 0 514 798 676 1280 800 27119 
+~ Move `main_dlg_cur` `proe_win` \
+9 194 213 0 1538 798 676 1280 800 27131 
+~ MButtonDisarm `main_dlg_cur` `proe_win` \
+9 194 213 0 0 798 676 1280 800 27192 
+~ Command `ProCmdModelSaveAs` 
+~ Select `file_saveas` `ph_list.Filelist` \
+1  `holder-8inch.prt`
+~ Activate `file_saveas` `OK`
+! Message Dialog: Warning
+!               : 文件D:\design\FR-B2-B\holder-8inch.prt已存在，还要继续吗?
+~ Activate `UI Message Dialog` `ok`
+!%CIGLASS-PANEL已被复制到HOLDER-8INCH。
+~ Command `ProCmdModelOpen` 
+< 2 0.118519 178 0 0 100 1280 0 0 800 13
+~ Open `file_open` `Type`
+~ Close `file_open` `Type`
+~ Select `file_open` `Type` \
+1  `filter_.stp,.step,`
+~ Select `file_open` `Ph_list.Filelist` \
+1  `GLASS-8INCH.stp`
+~ Activate `file_open` `Open`
+!Command ProCmdModelImpCreateExe was pushed from the software.
+~ Activate `impt_new_model` `PushButton3`
+< 2 0.616000 616 0 0 616 1280 0 0 800 13
+< 2 0.828444 944 0 0 699 1280 0 0 800 13
+< 2 0.754963 812 0 0 637 1280 0 0 800 13
+@ ok
+!Undo: added rec_id -1 type 5304 
+!
+!%CI读取STEP数据。
+!%CI正在读取GLASS-8INCH.stp。步骤1:已完成的百分比为100。
+!%CI正在读取GLASS-8INCH.stp。步骤2:已完成的百分比为100。
+!%CI正在读取GLASS-8INCH.stp。步骤3:已完成的百分比为100。
+!%CI正在读取GLASS-8INCH.stp。步骤4:已完成的百分比为100。
+!%CI正在读取GLASS-8INCH.stp。步骤5:已完成的百分比为100。
+!%CI正在读取GLASS-8INCH.stp。步骤6:已完成的百分比为100。
+!%CI正在读取GLASS-8INCH.stp。步骤7:已完成的百分比为100。
+!%CI正在读取GLASS-8INCH.stp。步骤8:已完成的百分比为100。
+!%CI正在读取GLASS-8INCH.stp。步骤9:已完成的百分比为100。
+!%CI正在读取GLASS-8INCH.stp。步骤10:已完成的百分比为100。
+!%CI正在读取GLASS-8INCH.stp。步骤11:已完成的百分比为100。
+!%CI正在读取GLASS-8INCH.stp。步骤12:已完成的百分比为100。
+!%CI正在读取GLASS-8INCH.stp。步骤13:已完成的百分比为100。
+!%CI正在读取GLASS-8INCH.stp。步骤14:已完成的百分比为100。
+!%CI正在读取GLASS-8INCH.stp。步骤15:已完成的百分比为100。
+!%CI正在读取GLASS-8INCH.stp。步骤16:已完成的百分比为100。
+!%CI正在读取GLASS-8INCH.stp。步骤17:已完成的百分比为100。
+!%CI正在读取GLASS-8INCH.stp。步骤18:已完成的百分比为100。
+!%CI正在读取GLASS-8INCH.stp。步骤19:已完成的百分比为100。
+!%CI正在读取GLASS-8INCH.stp。步骤20:已完成的百分比为100。
+!%CI正在读取GLASS-8INCH.stp。步骤21:已完成的百分比为100。
+!%CI正在读取GLASS-8INCH.stp。步骤22:已完成的百分比为100。
+!%CI正在读取GLASS-8INCH.stp。步骤23:已完成的百分比为100。
+!%CI正在读取GLASS-8INCH.stp。步骤24:已完成的百分比为100。
+!%CI正在读取GLASS-8INCH.stp。步骤25:已完成的百分比为100。
+!%CI正在读取GLASS-8INCH.stp。步骤26:已完成的百分比为100。
+!%CI正在读取GLASS-8INCH.stp。步骤27:已完成的百分比为100。
+!%CI正在读取GLASS-8INCH.stp。步骤28:已完成的百分比为100。
+!%CI正在读取GLASS-8INCH.stp。步骤29:已完成的百分比为100。
+!%CI正在读取GLASS-8INCH.stp。步骤30:已完成的百分比为100。
+!%CI正在读取GLASS-8INCH.stp。步骤31:已完成的百分比为100。
+!%CI正在读取GLASS-8INCH.stp。步骤32:已完成的百分比为100。
+!%CI正在读取GLASS-8INCH.stp。步骤33:已完成的百分比为100。
+!%CI正在读取GLASS-8INCH.stp。步骤34:已完成的百分比为100。
+!%CI正在读取GLASS-8INCH.stp。步骤35:已完成的百分比为100。
+!%CI正在读取GLASS-8INCH.stp。步骤36:已完成的百分比为100。
+!%CI正在读取GLASS-8INCH.stp。步骤37:已完成的百分比为100。
+!%CI正在读取GLASS-8INCH.stp。步骤38:已完成的百分比为100。
+!%CI正在读取GLASS-8INCH.stp。步骤39:已完成的百分比为100。
+!%CI正在读取GLASS-8INCH.stp。步骤40:已完成的百分比为100。
+!%CI正在读取GLASS-8INCH.stp。步骤41:已完成的百分比为100。
+!%CI正在读取GLASS-8INCH.stp。步骤42:已完成的百分比为100。
+!%CI正在读取GLASS-8INCH.stp。步骤43:已完成的百分比为100。
+!%CI处理界面数据。
+!%CI正在处理GLASS-8INCH.stp。步骤1:已完成的百分比为100。
+!%CI正在处理GLASS-8INCH.stp。步骤2:已完成的百分比为100。
+!%CI正在处理GLASS-8INCH.stp。步骤3:已完成的百分比为100。
+!%CI正在处理GLASS-8INCH.stp。步骤4:已完成的百分比为100。
+!%CI正在处理GLASS-8INCH.stp。步骤5:已完成的百分比为100。
+!%CI正在处理GLASS-8INCH.stp。步骤6:已完成的百分比为100。
+!%CI正在处理GLASS-8INCH.stp。步骤7:已完成的百分比为100。
+!%CI正在处理GLASS-8INCH.stp。步骤8:已完成的百分比为100。
+!%CI正在处理GLASS-8INCH.stp。步骤9:已完成的百分比为100。
+!%CI正在处理GLASS-8INCH.stp。步骤10:已完成的百分比为100。
+!%CI正在处理GLASS-8INCH.stp。步骤11:已完成的百分比为100。
+!%CI正在处理GLASS-8INCH.stp。步骤12:已完成的百分比为100。
+!%CI正在处理GLASS-8INCH.stp。步骤13:已完成的百分比为100。
+!%CI正在处理GLASS-8INCH.stp。步骤14:已完成的百分比为100。
+!%CI正在处理GLASS-8INCH.stp。步骤15:已完成的百分比为100。
+!%CI正在处理GLASS-8INCH.stp。步骤16:已完成的百分比为100。
+!%CI正在处理GLASS-8INCH.stp。步骤17:已完成的百分比为100。
+!%CI正在处理GLASS-8INCH.stp。步骤18:已完成的百分比为100。
+!%CI正在处理GLASS-8INCH.stp。步骤19:已完成的百分比为100。
+!%CI正在处理GLASS-8INCH.stp。步骤20:已完成的百分比为100。
+!%CI正在处理GLASS-8INCH.stp。步骤21:已完成的百分比为100。
+!%CI正在处理GLASS-8INCH.stp。步骤22:已完成的百分比为100。
+!%CI正在处理GLASS-8INCH.stp。步骤23:已完成的百分比为100。
+!%CI正在处理GLASS-8INCH.stp。步骤24:已完成的百分比为100。
+!%CI正在处理GLASS-8INCH.stp。步骤25:已完成的百分比为100。
+!%CI正在处理GLASS-8INCH.stp。步骤26:已完成的百分比为100。
+!%CI正在处理GLASS-8INCH.stp。步骤27:已完成的百分比为100。
+!%CI正在处理GLASS-8INCH.stp。步骤28:已完成的百分比为100。
+!%CI正在处理GLASS-8INCH.stp。步骤29:已完成的百分比为100。
+!%CI正在处理GLASS-8INCH.stp。步骤30:已完成的百分比为100。
+!%CI正在处理GLASS-8INCH.stp。步骤31:已完成的百分比为100。
+!%CI正在处理GLASS-8INCH.stp。步骤32:已完成的百分比为100。
+!%CI正在处理GLASS-8INCH.stp。步骤33:已完成的百分比为100。
+!%CI正在处理GLASS-8INCH.stp。步骤34:已完成的百分比为100。
+!%CI正在处理GLASS-8INCH.stp。步骤35:已完成的百分比为100。
+!%CI正在处理GLASS-8INCH.stp。步骤36:已完成的百分比为100。
+!%CI正在处理GLASS-8INCH.stp。步骤37:已完成的百分比为100。
+!%CI正在处理GLASS-8INCH.stp。步骤38:已完成的百分比为100。
+!%CI正在处理GLASS-8INCH.stp。步骤39:已完成的百分比为100。
+!%CI正在处理GLASS-8INCH.stp。步骤40:已完成的百分比为100。
+!%CI正在处理GLASS-8INCH.stp。步骤41:已完成的百分比为100。
+!%CI正在处理GLASS-8INCH.stp。步骤42:已完成的百分比为100。
+!%CI正在处理GLASS-8INCH.stp。步骤43:已完成的百分比为100。
+!%CI正在处理GLASS-8INCH.stp。步骤44:已完成的百分比为100。
+!%CI正在处理GLASS-8INCH.stp。步骤45:已完成的百分比为100。
+!%CI正在处理GLASS-8INCH.stp。步骤46:已完成的百分比为100。
+!%CI正在处理GLASS-8INCH.stp。步骤47:已完成的百分比为100。
+!%CI正在处理GLASS-8INCH.stp。步骤48:已完成的百分比为100。
+!%CI正在处理GLASS-8INCH.stp。步骤49:已完成的百分比为100。
+!%CP在glass-8inch.log查看处理结果。
+!%CW警告:根据STEP数据设置长度单位为MM。
+@ trail error  : Creating feature 4 in model GLASS-8INCH - error 0
+ 0 
+!Undo: added rec_id 9 type 5304 
+!
+< 2 0.754963 826 0 0 637 1280 0 0 800 13
+!mem_use INCREASE Blocks 295394, AppSize 43251851, SysSize 61337912
+< 2 0.754963 770 0 0 637 1280 0 0 800 13
+< 2 0.754963 798 0 0 637 1280 0 0 800 13
+~ Close `main_dlg_cur` `main_dlg_cur`
+!Command ProCmdWinOSCloseAsyn was pushed from the software.
+!Command ProCmdWinClose was pushed from the software.
+~ Close `main_dlg_cur` `main_dlg_cur`
+!Command ProCmdOSExit was pushed from the software.
+! Message Dialog: Warning
+!               : Pro/ENGINEER 将终止，并且所有未保存的工作将会丢失。
+!               : 您确实要退出吗?
+~ Activate `UI Message Dialog` `no`
+~ Close `main_dlg_cur` `main_dlg_cur`
+!Command ProCmdOSExit was pushed from the software.
+! Message Dialog: Warning
+!               : Pro/ENGINEER 将终止，并且所有未保存的工作将会丢失。
+!               : 您确实要退出吗?
+~ FocusIn `UI Message Dialog` `yes`
+~ Activate `UI Message Dialog` `yes`
+!End of Trail File

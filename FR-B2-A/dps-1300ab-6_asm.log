@@ -1,0 +1,1091 @@
+﻿Pro/ENGINEER STEP 导入日志文件
+
+读取开始时间: Mon Jun 24 17:02:57 2019
+
+分级文件标题信息
+
+         File Description: 
+     Implementation level: 2;1
+                     Name: DPS-1300AB-6_ASM
+               Time Stamp: 2017-05-11T
+                   Author: HONGWEN.TAN
+             Organization: 
+     Preprocessor Version: PRO/ENGINEER BY PARAMETRIC TECHNOLOGY CORPORATION, 2012070
+       Originating System: PRO/ENGINEER BY PARAMETRIC TECHNOLOGY CORPORATION, 2012070
+            Authorization: 
+              File Schema: CONFIG_CONTROL_DESIGN
+
+
+ADVANCED_BREP_SHAPE_REPRESENTATION                    80
+ADVANCED_FACE                                      18121
+APPLICATION_CONTEXT                                    1
+APPLICATION_PROTOCOL_DEFINITION                        1
+APPROVAL                                               1
+APPROVAL_DATE_TIME                                     1
+APPROVAL_PERSON_ORGANIZATION                           1
+APPROVAL_ROLE                                          1
+APPROVAL_STATUS                                        1
+AXIS1_PLACEMENT                                        2
+AXIS2_PLACEMENT_3D                                 28247
+BOUNDED_SURFACE                                      268
+BREP_WITH_VOIDS                                        2
+B_SPLINE_CURVE_WITH_KNOTS                           3200
+B_SPLINE_SURFACE                                     268
+B_SPLINE_SURFACE_WITH_KNOTS                          373
+CALENDAR_DATE                                          1
+CARTESIAN_POINT                                   160206
+CC_DESIGN_APPROVAL                                     1
+CC_DESIGN_DATE_AND_TIME_ASSIGNMENT                     2
+CC_DESIGN_PERSON_AND_ORGANIZATION_ASSIGNMENT           4
+CC_DESIGN_SECURITY_CLASSIFICATION                      1
+CIRCLE                                              9903
+CLOSED_SHELL                                         112
+CONICAL_SURFACE                                      156
+CONTEXT_DEPENDENT_SHAPE_REPRESENTATION               264
+CONVERSION_BASED_UNIT                                 91
+COORDINATED_UNIVERSAL_TIME_OFFSET                      1
+CYLINDRICAL_SURFACE                                 4141
+DATE_AND_TIME                                          1
+DATE_TIME_ROLE                                         2
+DESIGN_CONTEXT                                        45
+DIMENSIONAL_EXPONENTS                                 91
+DIRECTION                                          92746
+EDGE_CURVE                                         49310
+EDGE_LOOP                                          20263
+ELLIPSE                                               33
+FACE_BOUND                                          2142
+FACE_OUTER_BOUND                                   18121
+FILE_DESCRIPTION                                       1
+FILE_NAME                                              1
+FILE_SCHEMA                                            1
+GEOMETRIC_REPRESENTATION_CONTEXT                      90
+GEOMETRIC_REPRESENTATION_ITEM                        268
+GLOBAL_UNCERTAINTY_ASSIGNED_CONTEXT                   90
+GLOBAL_UNIT_ASSIGNED_CONTEXT                          90
+ITEM_DEFINED_TRANSFORMATION                          264
+LENGTH_MEASURE_WITH_UNIT                               1
+LENGTH_UNIT                                           91
+LINE                                               36213
+LOCAL_TIME                                             1
+MANIFOLD_SOLID_BREP                                  106
+MANIFOLD_SURFACE_SHAPE_REPRESENTATION                  3
+MECHANICAL_CONTEXT                                    90
+NAMED_UNIT                                           361
+NEXT_ASSEMBLY_USAGE_OCCURRENCE                       264
+OPEN_SHELL                                            17
+ORGANIZATION                                           1
+ORIENTED_CLOSED_SHELL                                  4
+ORIENTED_EDGE                                      98297
+PERSON                                                 1
+PERSON_AND_ORGANIZATION                                1
+PERSON_AND_ORGANIZATION_ROLE                           4
+PLANE                                              11994
+PLANE_ANGLE_MEASURE_WITH_UNIT                         90
+PLANE_ANGLE_UNIT                                     180
+PRODUCT                                               90
+PRODUCT_CATEGORY                                       2
+PRODUCT_CATEGORY_RELATIONSHIP                          2
+PRODUCT_DEFINITION                                    90
+PRODUCT_DEFINITION_FORMATION_WITH_SPECIFIED_SOURCE    90
+PRODUCT_DEFINITION_SHAPE                             354
+PRODUCT_RELATED_PRODUCT_CATEGORY                       2
+RATIONAL_B_SPLINE_SURFACE                            268
+REPRESENTATION_CONTEXT                                90
+REPRESENTATION_ITEM                                  268
+REPRESENTATION_RELATIONSHIP                          264
+REPRESENTATION_RELATIONSHIP_WITH_TRANSFORMATION      264
+SECURITY_CLASSIFICATION                                1
+SECURITY_CLASSIFICATION_LEVEL                          1
+SHAPE_DEFINITION_REPRESENTATION                       90
+SHAPE_REPRESENTATION                                  11
+SHAPE_REPRESENTATION_RELATIONSHIP                    268
+SHELL_BASED_SURFACE_MODEL                              3
+SI_UNIT                                              270
+SOLID_ANGLE_UNIT                                      90
+SPHERICAL_SURFACE                                    378
+SURFACE                                              268
+SURFACE_OF_LINEAR_EXTRUSION                           37
+SURFACE_OF_REVOLUTION                                  2
+TOROIDAL_SURFACE                                    1040
+UNCERTAINTY_MEASURE_WITH_UNIT                         90
+VECTOR                                             36250
+VERTEX_POINT                                       31566
+
+TOTAL                                             628878
+
+
+读取结束时间: Mon Jun 24 17:03:00 2019
+
+全部读取时间: 00:00:03.
+
+
+
+模型的处理信息 _dps-1300ab-6_asm:
+
+处理完成时间: Mon Jun 24 17:03:04 2019
+
+全部处理时间: 00:00:04.
+
+
+模型的处理信息 DPS-1300AB-6_ASM_4:
+
+处理完成时间: Mon Jun 24 17:03:05 2019
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 CHASSIS_1300_ASM_1:
+
+处理完成时间: Mon Jun 24 17:03:05 2019
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 CHASSIS_3:
+
+处理完成时间: Mon Jun 24 17:03:06 2019
+
+全部处理时间: 00:00:01.
+
+
+模型的处理信息 M2-5_4D_4L_1:
+
+处理完成时间: Mon Jun 24 17:03:06 2019
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 GASKET-001_1:
+
+处理完成时间: Mon Jun 24 17:03:06 2019
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 LATCH_ASSY_1300_ASM_1:
+
+处理完成时间: Mon Jun 24 17:03:06 2019
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 NEW_LATCH_1300_1:
+
+处理完成时间: Mon Jun 24 17:03:06 2019
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 NEW_LATCH_BUTTON_1:
+
+处理完成时间: Mon Jun 24 17:03:06 2019
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 ASM0002-HANDLE_ASM_1:
+
+处理完成时间: Mon Jun 24 17:03:06 2019
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 346-HANDLE_1:
+
+处理完成时间: Mon Jun 24 17:03:06 2019
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 PLASTIC_1:
+
+处理完成时间: Mon Jun 24 17:03:07 2019
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 REVIT_1:
+
+处理完成时间: Mon Jun 24 17:03:07 2019
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 STUD_GND_1:
+
+处理完成时间: Mon Jun 24 17:03:07 2019
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 COVER_1300_ASM_1:
+
+处理完成时间: Mon Jun 24 17:03:07 2019
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 COVER_1:
+
+处理完成时间: Mon Jun 24 17:03:07 2019
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 FAN4028_1:
+
+处理完成时间: Mon Jun 24 17:03:08 2019
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 MANIFOLD_SOLID_BREP_49728:
+
+处理完成时间: Mon Jun 24 17:03:08 2019
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 MANIFOLD_SOLID_BREP_54948:
+
+处理完成时间: Mon Jun 24 17:03:08 2019
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 MANIFOLD_SOLID_BREP_55037:
+
+处理完成时间: Mon Jun 24 17:03:08 2019
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 SCREW_1:
+
+处理完成时间: Mon Jun 24 17:03:08 2019
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 SOCKET_ASM_1:
+
+处理完成时间: Mon Jun 24 17:03:09 2019
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 SK-SS120_1:
+
+处理完成时间: Mon Jun 24 17:03:09 2019
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 SOCKET-BRACKET_1:
+
+处理完成时间: Mon Jun 24 17:03:09 2019
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 LED_ASSY_ASM_1:
+
+处理完成时间: Mon Jun 24 17:03:10 2019
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 _CLED-3C_1:
+
+处理完成时间: Mon Jun 24 17:03:10 2019
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 GREEN_LED_1:
+
+处理完成时间: Mon Jun 24 17:03:10 2019
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 SCREW_FLAT_4-40_1:
+
+处理完成时间: Mon Jun 24 17:03:10 2019
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 INSULATOR_FW_1:
+
+处理完成时间: Mon Jun 24 17:03:11 2019
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 D1300AP6R2C0_ASM_1:
+
+处理完成时间: Mon Jun 24 17:03:11 2019
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 D1300AP6R2C0_1:
+
+处理完成时间: Mon Jun 24 17:03:12 2019
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 IR1206Z1_1:
+
+处理完成时间: Mon Jun 24 17:03:12 2019
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 IR0603Z1_1:
+
+处理完成时间: Mon Jun 24 17:03:12 2019
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 IRTUMD-2P_1:
+
+处理完成时间: Mon Jun 24 17:03:13 2019
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 IRSOT23_1:
+
+处理完成时间: Mon Jun 24 17:03:13 2019
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 IRSOD323_1:
+
+处理完成时间: Mon Jun 24 17:03:13 2019
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 IR1206Z2_1:
+
+处理完成时间: Mon Jun 24 17:03:13 2019
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 SOT323_1:
+
+处理完成时间: Mon Jun 24 17:03:14 2019
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 IR0805Z2_1:
+
+处理完成时间: Mon Jun 24 17:03:15 2019
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 GSTR8_5X3PDHD_1:
+
+处理完成时间: Mon Jun 24 17:03:16 2019
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 IRC1206Z1-01_1:
+
+处理完成时间: Mon Jun 24 17:03:17 2019
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 IR0805Z1_1:
+
+处理完成时间: Mon Jun 24 17:03:17 2019
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 IR0805_1:
+
+处理完成时间: Mon Jun 24 17:03:18 2019
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 IR2512Z1_1:
+
+处理完成时间: Mon Jun 24 17:03:20 2019
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 07P-1X16_1:
+
+处理完成时间: Mon Jun 24 17:03:21 2019
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 IRP-TDSON-8-01_1:
+
+处理完成时间: Mon Jun 24 17:03:24 2019
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 YRR11X5BB-T_1:
+
+处理完成时间: Mon Jun 24 17:03:25 2019
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 TO220AC-H_1:
+
+处理完成时间: Mon Jun 24 17:03:25 2019
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 IRC1206Z2-01_1:
+
+处理完成时间: Mon Jun 24 17:03:26 2019
+
+全部处理时间: 00:00:01.
+
+
+模型的处理信息 IL-EFKLX1_27Y6_2_1:
+
+处理完成时间: Mon Jun 24 17:03:26 2019
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 D1300GP_C906_1:
+
+处理完成时间: Mon Jun 24 17:03:26 2019
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 TO3P-H-S_1:
+
+处理完成时间: Mon Jun 24 17:03:27 2019
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 IRTO277A_1:
+
+处理完成时间: Mon Jun 24 17:03:27 2019
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 IRSO8X0_65Y4_9_1:
+
+处理完成时间: Mon Jun 24 17:03:28 2019
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 IRSO8GX0_65Y4_9_1:
+
+处理完成时间: Mon Jun 24 17:03:28 2019
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 AEC10H0_8Z27-HI_1:
+
+处理完成时间: Mon Jun 24 17:03:29 2019
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 IRDO214AC-01_1:
+
+处理完成时间: Mon Jun 24 17:03:29 2019
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 IR75-60-50_1:
+
+处理完成时间: Mon Jun 24 17:03:30 2019
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 0720910015_1:
+
+处理完成时间: Mon Jun 24 17:03:31 2019
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 PTC12_5X7PAHB_1:
+
+处理完成时间: Mon Jun 24 17:03:31 2019
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 IRDO214AB_1:
+
+处理完成时间: Mon Jun 24 17:03:31 2019
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 R18X8EFZ15_1:
+
+处理完成时间: Mon Jun 24 17:03:32 2019
+
+全部处理时间: 00:00:01.
+
+
+模型的处理信息 YRR8X5CB_1:
+
+处理完成时间: Mon Jun 24 17:03:32 2019
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 AEC10H0_8Z25-HI_1:
+
+处理完成时间: Mon Jun 24 17:03:32 2019
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 WS_1:
+
+处理完成时间: Mon Jun 24 17:03:32 2019
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 AEC8H0_8Z13P3_5_1:
+
+处理完成时间: Mon Jun 24 17:03:32 2019
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 AEC10H0_8Z13-HI_1:
+
+处理完成时间: Mon Jun 24 17:03:32 2019
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 1300W-FINGER-1_1:
+
+处理完成时间: Mon Jun 24 17:03:33 2019
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 0860008302-FUSE_1:
+
+处理完成时间: Mon Jun 24 17:03:33 2019
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 R18_5X6_5EDZ18_1:
+
+处理完成时间: Mon Jun 24 17:03:34 2019
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 Z17_5X5_9PBHD_1:
+
+处理完成时间: Mon Jun 24 17:03:34 2019
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 MANIFOLD_SOLID_BREP_121927:
+
+处理完成时间: Mon Jun 24 17:03:34 2019
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 MANIFOLD_SOLID_BREP_122156:
+
+处理完成时间: Mon Jun 24 17:03:34 2019
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 MANIFOLD_SOLID_BREP_122649:
+
+处理完成时间: Mon Jun 24 17:03:34 2019
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 1300W-CONTROL_1:
+
+处理问题和警告:
+-------------------------------------
+图元 379589, CIRCLE : 零长度边界曲线被跳过。
+图元 379668, CIRCLE : 零长度边界曲线被跳过。
+图元 379678, CIRCLE : 零长度边界曲线被跳过。
+图元 380424, CYLINDRICAL_SURFACE : 无法转换曲面。
+图元 380436, ADVANCED_FACE : 没有处理
+图元 381040, OPEN_SHELL : 拓扑对被跳过。
+图元 381168, CIRCLE : 零长度边界曲线被跳过。
+图元 381247, CIRCLE : 零长度边界曲线被跳过。
+图元 381257, CIRCLE : 零长度边界曲线被跳过。
+图元 382003, CYLINDRICAL_SURFACE : 无法转换曲面。
+图元 382015, ADVANCED_FACE : 没有处理
+图元 382619, OPEN_SHELL : 拓扑对被跳过。
+图元 382747, CIRCLE : 零长度边界曲线被跳过。
+图元 382826, CIRCLE : 零长度边界曲线被跳过。
+图元 382836, CIRCLE : 零长度边界曲线被跳过。
+图元 383582, CYLINDRICAL_SURFACE : 无法转换曲面。
+图元 383594, ADVANCED_FACE : 没有处理
+图元 384198, OPEN_SHELL : 拓扑对被跳过。
+图元 384326, CIRCLE : 零长度边界曲线被跳过。
+图元 384405, CIRCLE : 零长度边界曲线被跳过。
+图元 384415, CIRCLE : 零长度边界曲线被跳过。
+图元 385161, CYLINDRICAL_SURFACE : 无法转换曲面。
+图元 385173, ADVANCED_FACE : 没有处理
+图元 385777, OPEN_SHELL : 拓扑对被跳过。
+图元 385905, CIRCLE : 零长度边界曲线被跳过。
+图元 385984, CIRCLE : 零长度边界曲线被跳过。
+图元 385994, CIRCLE : 零长度边界曲线被跳过。
+图元 386740, CYLINDRICAL_SURFACE : 无法转换曲面。
+图元 386752, ADVANCED_FACE : 没有处理
+图元 387356, OPEN_SHELL : 拓扑对被跳过。
+图元 387484, CIRCLE : 零长度边界曲线被跳过。
+图元 387563, CIRCLE : 零长度边界曲线被跳过。
+图元 387573, CIRCLE : 零长度边界曲线被跳过。
+图元 388319, CYLINDRICAL_SURFACE : 无法转换曲面。
+图元 388331, ADVANCED_FACE : 没有处理
+图元 388935, OPEN_SHELL : 拓扑对被跳过。
+图元 389063, CIRCLE : 零长度边界曲线被跳过。
+图元 389142, CIRCLE : 零长度边界曲线被跳过。
+图元 389152, CIRCLE : 零长度边界曲线被跳过。
+图元 389898, CYLINDRICAL_SURFACE : 无法转换曲面。
+图元 389910, ADVANCED_FACE : 没有处理
+图元 390514, OPEN_SHELL : 拓扑对被跳过。
+图元 390642, CIRCLE : 零长度边界曲线被跳过。
+图元 390721, CIRCLE : 零长度边界曲线被跳过。
+图元 390731, CIRCLE : 零长度边界曲线被跳过。
+图元 391477, CYLINDRICAL_SURFACE : 无法转换曲面。
+图元 391489, ADVANCED_FACE : 没有处理
+图元 392093, OPEN_SHELL : 拓扑对被跳过。
+图元 392764, CIRCLE : 零长度边界曲线被跳过。
+图元 392843, CIRCLE : 零长度边界曲线被跳过。
+图元 392853, CIRCLE : 零长度边界曲线被跳过。
+图元 393599, CYLINDRICAL_SURFACE : 无法转换曲面。
+图元 393611, ADVANCED_FACE : 没有处理
+图元 394215, OPEN_SHELL : 拓扑对被跳过。
+图元 394343, CIRCLE : 零长度边界曲线被跳过。
+图元 394422, CIRCLE : 零长度边界曲线被跳过。
+图元 394432, CIRCLE : 零长度边界曲线被跳过。
+图元 395178, CYLINDRICAL_SURFACE : 无法转换曲面。
+图元 395190, ADVANCED_FACE : 没有处理
+图元 395794, OPEN_SHELL : 拓扑对被跳过。
+图元 395922, CIRCLE : 零长度边界曲线被跳过。
+图元 396001, CIRCLE : 零长度边界曲线被跳过。
+图元 396011, CIRCLE : 零长度边界曲线被跳过。
+图元 396757, CYLINDRICAL_SURFACE : 无法转换曲面。
+图元 396769, ADVANCED_FACE : 没有处理
+图元 397373, OPEN_SHELL : 拓扑对被跳过。
+图元 397501, CIRCLE : 零长度边界曲线被跳过。
+图元 397581, CIRCLE : 零长度边界曲线被跳过。
+图元 397591, CIRCLE : 零长度边界曲线被跳过。
+图元 398336, CYLINDRICAL_SURFACE : 无法转换曲面。
+图元 398348, ADVANCED_FACE : 没有处理
+图元 398952, OPEN_SHELL : 拓扑对被跳过。
+
+处理完成时间: Mon Jun 24 17:03:35 2019
+
+全部处理时间: 00:00:01.
+
+
+模型的处理信息 BREP_WITH_VOIDS_357345:
+
+处理问题和警告:
+-------------------------------------
+图元 141691, CIRCLE : 零长度边界曲线被跳过。
+图元 253592, PLANE : 零面积曲面被跳过。
+图元 253597, ADVANCED_FACE : 零面积曲面被跳过。
+图元 357080, CLOSED_SHELL : 拓扑对被跳过。
+
+处理完成时间: Mon Jun 24 17:03:59 2019
+
+全部处理时间: 00:00:23.
+
+
+模型的处理信息 MANIFOLD_SOLID_BREP_363193:
+
+处理完成时间: Mon Jun 24 17:04:04 2019
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 MANIFOLD_SOLID_BREP_369041:
+
+处理完成时间: Mon Jun 24 17:04:04 2019
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 MANIFOLD_SOLID_BREP_374251:
+
+处理完成时间: Mon Jun 24 17:04:04 2019
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 MANIFOLD_SOLID_BREP_379461:
+
+处理完成时间: Mon Jun 24 17:04:04 2019
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 1300-HS3_1:
+
+处理完成时间: Mon Jun 24 17:04:05 2019
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 MANIFOLD_SOLID_BREP_403594:
+
+处理完成时间: Mon Jun 24 17:04:05 2019
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 MANIFOLD_SOLID_BREP_404218:
+
+处理完成时间: Mon Jun 24 17:04:05 2019
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 1300W-HS2_1:
+
+处理完成时间: Mon Jun 24 17:04:05 2019
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 1300-C800_1:
+
+处理完成时间: Mon Jun 24 17:04:05 2019
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 IRSO8X1_27Y6_2_1:
+
+处理完成时间: Mon Jun 24 17:04:05 2019
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 1600W-T900_1:
+
+处理完成时间: Mon Jun 24 17:04:07 2019
+
+全部处理时间: 00:00:02.
+
+
+模型的处理信息 1300W-L200_1:
+
+处理完成时间: Mon Jun 24 17:04:08 2019
+
+全部处理时间: 00:00:01.
+
+
+模型的处理信息 1600W-L800_1:
+
+处理完成时间: Mon Jun 24 17:04:08 2019
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 MANIFOLD_SOLID_BREP_456112:
+
+处理完成时间: Mon Jun 24 17:04:08 2019
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 MANIFOLD_SOLID_BREP_499764:
+
+处理完成时间: Mon Jun 24 17:04:11 2019
+
+全部处理时间: 00:00:03.
+
+
+模型的处理信息 IRSO16X1_27Y10_5_1:
+
+处理完成时间: Mon Jun 24 17:04:11 2019
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 GBU_1:
+
+处理完成时间: Mon Jun 24 17:04:12 2019
+
+全部处理时间: 00:00:01.
+
+
+模型的处理信息 FC5_5PBHD-HI_1:
+
+处理完成时间: Mon Jun 24 17:04:12 2019
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 D1300GP-FL1_1:
+
+处理完成时间: Mon Jun 24 17:04:12 2019
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 MANIFOLD_SOLID_BREP_503190:
+
+处理完成时间: Mon Jun 24 17:04:12 2019
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 MANIFOLD_SOLID_BREP_503560:
+
+处理完成时间: Mon Jun 24 17:04:12 2019
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 MANIFOLD_SOLID_BREP_509987:
+
+处理完成时间: Mon Jun 24 17:04:12 2019
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 MANIFOLD_SOLID_BREP_516417:
+
+处理完成时间: Mon Jun 24 17:04:13 2019
+
+全部处理时间: 00:00:01.
+
+
+模型的处理信息 R26_5X12HFZ22_1:
+
+处理完成时间: Mon Jun 24 17:04:13 2019
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 1300W-SR-3_1:
+
+处理完成时间: Mon Jun 24 17:04:13 2019
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 MANIFOLD_SOLID_BREP_599641:
+
+处理完成时间: Mon Jun 24 17:04:16 2019
+
+全部处理时间: 00:00:03.
+
+
+模型的处理信息 MANIFOLD_SOLID_BREP_600011:
+
+处理完成时间: Mon Jun 24 17:04:17 2019
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 MANIFOLD_SOLID_BREP_600421:
+
+处理完成时间: Mon Jun 24 17:04:17 2019
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 MANIFOLD_SOLID_BREP_600831:
+
+处理完成时间: Mon Jun 24 17:04:17 2019
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 MANIFOLD_SOLID_BREP_601241:
+
+处理完成时间: Mon Jun 24 17:04:17 2019
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 MANIFOLD_SOLID_BREP_601671:
+
+处理完成时间: Mon Jun 24 17:04:18 2019
+
+全部处理时间: 00:00:01.
+
+
+模型的处理信息 MANIFOLD_SOLID_BREP_602101:
+
+处理完成时间: Mon Jun 24 17:04:18 2019
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 MANIFOLD_SOLID_BREP_602531:
+
+处理完成时间: Mon Jun 24 17:04:18 2019
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 MANIFOLD_SOLID_BREP_602981:
+
+处理完成时间: Mon Jun 24 17:04:18 2019
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 MANIFOLD_SOLID_BREP_603431:
+
+处理完成时间: Mon Jun 24 17:04:18 2019
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 MANIFOLD_SOLID_BREP_603841:
+
+处理完成时间: Mon Jun 24 17:04:18 2019
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 MANIFOLD_SOLID_BREP_604251:
+
+处理完成时间: Mon Jun 24 17:04:18 2019
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 CX4_1:
+
+处理完成时间: Mon Jun 24 17:04:18 2019
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 DC4458R1C0_1:
+
+处理完成时间: Mon Jun 24 17:04:18 2019
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 MSBR-3_1:
+
+处理完成时间: Mon Jun 24 17:04:18 2019
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 HS1_1:
+
+处理完成时间: Mon Jun 24 17:04:18 2019
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 MANIFOLD_SOLID_BREP_608238:
+
+处理完成时间: Mon Jun 24 17:04:18 2019
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 MANIFOLD_SOLID_BREP_608427:
+
+处理完成时间: Mon Jun 24 17:04:18 2019
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 MANIFOLD_SOLID_BREP_608616:
+
+处理完成时间: Mon Jun 24 17:04:18 2019
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 MANIFOLD_SOLID_BREP_608805:
+
+处理完成时间: Mon Jun 24 17:04:18 2019
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 MANIFOLD_SOLID_BREP_608994:
+
+处理完成时间: Mon Jun 24 17:04:18 2019
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 SREVW_CASE_PCB_1:
+
+处理完成时间: Mon Jun 24 17:04:18 2019
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 SCREW_M3_1:
+
+处理完成时间: Mon Jun 24 17:04:19 2019
+
+全部处理时间: 00:00:01.
+
+
+模型的处理信息 NEW_RETENTION_HOLDER_ASM_4_ASM_:
+
+处理完成时间: Mon Jun 24 17:04:19 2019
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 YJA-85_3_1:
+
+处理完成时间: Mon Jun 24 17:04:19 2019
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 FWM-15A_3_1:
+
+处理完成时间: Mon Jun 24 17:04:19 2019
+
+全部处理时间: 00:00:00.

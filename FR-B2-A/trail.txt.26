@@ -1,0 +1,63 @@
+﻿!trail file version No. 1450
+!Pro/ENGINEER  TM  Wildfire 5.0  (c) 1988-2002 by Wisdom Systems  All Rights Reserved.
+< 0 0.884148 1126 0 0 746 1280 0 0 800 13
+!mem_use INCREASE Blocks 206302, AppSize 24822331, SysSize 34202632
+< 0 0.754963 918 0 0 637 1280 0 0 800 13
+< 0 0.754963 826 0 0 637 1280 0 0 800 13
+!%CI欢迎使用 Pro/ENGINEER Wildfire 5.0。
+< 0 0.754963 812 0 0 637 1280 0 0 800 13
+< 0 0.754963 840 0 0 637 1280 0 0 800 13
+< 0 0.773926 994 0 0 653 1280 0 0 800 13
+~ Resize `main_dlg_cur` `main_dlg_cur` \
+4 -0.280350 -0.280350 44.856070 25.827284 
+~ Move `main_dlg_cur` `main_dlg_cur` \
+2 -0.280350 -0.280350 
+~ Command `ProCmdModelOpen` 
+< 2 0.118519 178 0 0 100 1280 0 0 800 13
+~ Close `file_open` `file_open`
+~ Move `main_dlg_cur` `proe_win` \
+9 68 80 0 1537 994 653 1280 800 16565 
+~ Command `ProCmdModelNew` 
+~ Input `new` `InputPanel1` \
+ `L`
+~ Input `new` `InputPanel1` \
+ `LE`
+~ Input `new` `InputPanel1` \
+ `LED`
+~ Input `new` `InputPanel1` \
+ `LED-`
+~ Input `new` `InputPanel1` \
+ `LED-C`
+~ Input `new` `InputPanel1` \
+ `LED-CY`
+~ Input `new` `InputPanel1` \
+ `LED-CYL`
+~ Input `new` `InputPanel1` \
+ `LED-CYLE`
+~ Input `new` `InputPanel1` \
+ `LED-CYLEN`
+~ Input `new` `InputPanel1` \
+ `LED-CYLEND`
+~ Input `new` `InputPanel1` \
+ `LED-CYLENDA`
+~ Input `new` `InputPanel1` \
+ `LED-CYLENDAR`
+~ Update `new` `InputPanel1` \
+ `LED-CYLENDAR`
+~ Activate `new` `InputPanel1`
+!Command ProCmdModelNewExe was pushed from the software.
+!29-Jul-19 18:02:19  Start C:\Program Files\proeWildfire 5.0\templates\inlbs_part_solid.prt
+!29-Jul-19 18:02:19  End   C:\Program Files\proeWildfire 5.0\templates\inlbs_part_solid.prt
+!29-Jul-19 18:02:19  Start D:\design\FR-B2-A\led-cylendar.prt.1
+!29-Jul-19 18:02:19  End   D:\design\FR-B2-A\led-cylendar.prt.1
+!%CI用缺省模板C:\Program Files\proeWildfire 5.0\templates\inlbs_part_solid.prt作为模板。
+< 0 0.801185 994 0 0 676 1280 0 0 800 13
+< 0 0.801185 952 0 0 676 1280 0 0 800 13
+~ Close `main_dlg_cur` `main_dlg_cur`
+!Command ProCmdOSExit was pushed from the software.
+! Message Dialog: Warning
+!               : Pro/ENGINEER 将终止，并且所有未保存的工作将会丢失。
+!               : 您确实要退出吗?
+~ FocusIn `UI Message Dialog` `yes`
+~ Activate `UI Message Dialog` `yes`
+!End of Trail File

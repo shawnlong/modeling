@@ -1,0 +1,237 @@
+﻿Pro/ENGINEER STEP 导入日志文件
+
+读取开始时间: Mon Aug 19 14:39:55 2019
+
+分级文件标题信息
+
+         File Description: 
+     Implementation level: 2;1
+                     Name: ASM-ALL_ASM
+               Time Stamp: 2019-07-05T
+                   Author: Administrator
+             Organization: 
+     Preprocessor Version: PRO/ENGINEER BY PARAMETRIC TECHNOLOGY CORPORATION, 2005030
+       Originating System: PRO/ENGINEER BY PARAMETRIC TECHNOLOGY CORPORATION, 2005030
+            Authorization: 
+              File Schema: CONFIG_CONTROL_DESIGN
+
+
+ADVANCED_BREP_SHAPE_REPRESENTATION                    16
+ADVANCED_FACE                                       2883
+APPLICATION_CONTEXT                                   17
+APPLICATION_PROTOCOL_DEFINITION                       17
+APPROVAL                                               1
+APPROVAL_DATE_TIME                                     1
+APPROVAL_PERSON_ORGANIZATION                           1
+APPROVAL_ROLE                                          1
+APPROVAL_STATUS                                        1
+AXIS2_PLACEMENT_3D                                  3541
+BOUNDED_SURFACE                                       33
+B_SPLINE_CURVE_WITH_KNOTS                            660
+B_SPLINE_SURFACE                                      33
+B_SPLINE_SURFACE_WITH_KNOTS                           49
+CALENDAR_DATE                                          1
+CARTESIAN_POINT                                    28493
+CC_DESIGN_APPROVAL                                     1
+CC_DESIGN_DATE_AND_TIME_ASSIGNMENT                     2
+CC_DESIGN_PERSON_AND_ORGANIZATION_ASSIGNMENT           4
+CC_DESIGN_SECURITY_CLASSIFICATION                      1
+CIRCLE                                               720
+CLOSED_SHELL                                          16
+CONICAL_SURFACE                                       47
+CONTEXT_DEPENDENT_SHAPE_REPRESENTATION                19
+CONVERSION_BASED_UNIT                                 17
+COORDINATED_UNIVERSAL_TIME_OFFSET                      1
+CYLINDRICAL_SURFACE                                  342
+DATE_AND_TIME                                          1
+DATE_TIME_ROLE                                         2
+DESIGN_CONTEXT                                        17
+DIMENSIONAL_EXPONENTS                                 17
+DIRECTION                                          14104
+EDGE_CURVE                                          8304
+EDGE_LOOP                                           3042
+FACE_BOUND                                           159
+FACE_OUTER_BOUND                                    2883
+FILE_DESCRIPTION                                       1
+FILE_NAME                                              1
+FILE_SCHEMA                                            1
+GEOMETRIC_REPRESENTATION_CONTEXT                      17
+GEOMETRIC_REPRESENTATION_ITEM                         33
+GLOBAL_UNCERTAINTY_ASSIGNED_CONTEXT                   17
+GLOBAL_UNIT_ASSIGNED_CONTEXT                          17
+ITEM_DEFINED_TRANSFORMATION                           19
+LENGTH_UNIT                                           17
+LINE                                                6973
+LOCAL_TIME                                             1
+MANIFOLD_SOLID_BREP                                   16
+MECHANICAL_CONTEXT                                    17
+NAMED_UNIT                                            68
+NEXT_ASSEMBLY_USAGE_OCCURRENCE                        19
+ORGANIZATION                                           1
+ORIENTED_EDGE                                      16608
+PERSON                                                 1
+PERSON_AND_ORGANIZATION                                1
+PERSON_AND_ORGANIZATION_ROLE                           4
+PLANE                                               2367
+PLANE_ANGLE_MEASURE_WITH_UNIT                         17
+PLANE_ANGLE_UNIT                                      34
+PRODUCT                                               17
+PRODUCT_CATEGORY                                       2
+PRODUCT_CATEGORY_RELATIONSHIP                          2
+PRODUCT_DEFINITION                                    17
+PRODUCT_DEFINITION_FORMATION_WITH_SPECIFIED_SOURCE    17
+PRODUCT_DEFINITION_SHAPE                              36
+PRODUCT_RELATED_PRODUCT_CATEGORY                       2
+RATIONAL_B_SPLINE_SURFACE                             33
+REPRESENTATION_CONTEXT                                17
+REPRESENTATION_ITEM                                   33
+REPRESENTATION_RELATIONSHIP                           19
+REPRESENTATION_RELATIONSHIP_WITH_TRANSFORMATION       19
+SECURITY_CLASSIFICATION                                1
+SECURITY_CLASSIFICATION_LEVEL                          1
+SHAPE_DEFINITION_REPRESENTATION                       17
+SHAPE_REPRESENTATION                                   1
+SHAPE_REPRESENTATION_RELATIONSHIP                     19
+SI_UNIT                                               51
+SOLID_ANGLE_UNIT                                      17
+SPHERICAL_SURFACE                                     10
+SURFACE                                               33
+SURFACE_OF_LINEAR_EXTRUSION                           49
+TOROIDAL_SURFACE                                      19
+UNCERTAINTY_MEASURE_WITH_UNIT                         17
+VECTOR                                              7022
+VERTEX_POINT                                        5472
+
+TOTAL                                             104640
+
+
+读取结束时间: Mon Aug 19 14:39:55 2019
+
+全部读取时间: 00:00:00.
+
+
+
+模型的处理信息 _asm-all_asm:
+
+处理完成时间: Mon Aug 19 14:39:56 2019
+
+全部处理时间: 00:00:01.
+
+
+模型的处理信息 ASM-ALL_ASM_8861:
+
+处理完成时间: Mon Aug 19 14:39:56 2019
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 PRT0001_335:
+
+处理完成时间: Mon Aug 19 14:39:56 2019
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 PRT0002_761:
+
+处理完成时间: Mon Aug 19 14:39:57 2019
+
+全部处理时间: 00:00:01.
+
+
+模型的处理信息 PRT0003_688:
+
+处理完成时间: Mon Aug 19 14:39:59 2019
+
+全部处理时间: 00:00:01.
+
+
+模型的处理信息 PRT-P_55:
+
+处理完成时间: Mon Aug 19 14:39:59 2019
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 PRT-DC_16:
+
+处理完成时间: Mon Aug 19 14:39:59 2019
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 PRT0004_196:
+
+处理完成时间: Mon Aug 19 14:40:00 2019
+
+全部处理时间: 00:00:01.
+
+
+模型的处理信息 PRT0005_53:
+
+处理完成时间: Mon Aug 19 14:40:00 2019
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 PRT0006_19:
+
+处理完成时间: Mon Aug 19 14:40:01 2019
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 PRT0007_51:
+
+处理完成时间: Mon Aug 19 14:40:01 2019
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 MIC_8:
+
+处理完成时间: Mon Aug 19 14:40:01 2019
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 PRT0008_71:
+
+处理完成时间: Mon Aug 19 14:40:01 2019
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 PRT0009_31:
+
+处理完成时间: Mon Aug 19 14:40:01 2019
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 PRT0010_8:
+
+处理完成时间: Mon Aug 19 14:40:01 2019
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 PRT0012_7:
+
+处理完成时间: Mon Aug 19 14:40:01 2019
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 PRT0013_17:
+
+处理完成时间: Mon Aug 19 14:40:01 2019
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 PRT0014_26:
+
+处理完成时间: Mon Aug 19 14:40:01 2019
+
+全部处理时间: 00:00:00.

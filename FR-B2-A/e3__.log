@@ -1,0 +1,359 @@
+﻿Pro/ENGINEER STEP 导入日志文件
+
+读取开始时间: Fri Aug 02 17:31:32 2019
+
+分级文件标题信息
+
+         File Description: 
+     Implementation level: 2;1
+                     Name: E3\X2\7EC44EF6\X0\
+               Time Stamp: 2019-08-01T20:58:55+08:00
+                   Author: 
+             Organization: 
+     Preprocessor Version: ST-DEVELOPER v15
+       Originating System: 
+            Authorization: 
+              File Schema: AUTOMOTIVE_DESIGN
+
+
+ADVANCED_BREP_SHAPE_REPRESENTATION                    29
+ADVANCED_FACE                                       4373
+APPLICATION_CONTEXT                                   35
+APPLICATION_PROTOCOL_DEFINITION                       35
+AXIS2_PLACEMENT_3D                                  1794
+BOUNDED_CURVE                                       1703
+BOUNDED_SURFACE                                     1700
+B_SPLINE_CURVE                                      1703
+B_SPLINE_CURVE_WITH_KNOTS                          11913
+B_SPLINE_SURFACE                                    1700
+B_SPLINE_SURFACE_WITH_KNOTS                         2711
+CARTESIAN_POINT                                   183017
+CLOSED_SHELL                                          30
+CONTEXT_DEPENDENT_SHAPE_REPRESENTATION                67
+CONVERSION_BASED_UNIT                                 35
+CURVE                                               1703
+DIMENSIONAL_EXPONENTS                                 35
+DIRECTION                                           1926
+EDGE_CURVE                                         11913
+EDGE_LOOP                                           4695
+FACE_BOUND                                           322
+FACE_OUTER_BOUND                                    4373
+FILE_DESCRIPTION                                       1
+FILE_NAME                                              1
+FILE_SCHEMA                                            1
+GEOMETRIC_REPRESENTATION_CONTEXT                      35
+GEOMETRIC_REPRESENTATION_ITEM                       3403
+GLOBAL_UNCERTAINTY_ASSIGNED_CONTEXT                   35
+GLOBAL_UNIT_ASSIGNED_CONTEXT                          35
+ITEM_DEFINED_TRANSFORMATION                           67
+LENGTH_UNIT                                           35
+MANIFOLD_SOLID_BREP                                   30
+MANIFOLD_SURFACE_SHAPE_REPRESENTATION                  1
+NAMED_UNIT                                           140
+NEXT_ASSEMBLY_USAGE_OCCURRENCE                        67
+OPEN_SHELL                                             2
+ORIENTED_EDGE                                      23777
+PLANE                                               1662
+PLANE_ANGLE_MEASURE_WITH_UNIT                         35
+PLANE_ANGLE_UNIT                                      70
+PRESENTATION_LAYER_ASSIGNMENT                         32
+PRODUCT                                               35
+PRODUCT_CONTEXT                                       35
+PRODUCT_DEFINITION                                    35
+PRODUCT_DEFINITION_CONTEXT                            35
+PRODUCT_DEFINITION_FORMATION_WITH_SPECIFIED_SOURCE    35
+PRODUCT_DEFINITION_SHAPE                             102
+PRODUCT_RELATED_PRODUCT_CATEGORY                      35
+RATIONAL_B_SPLINE_CURVE                             1703
+RATIONAL_B_SPLINE_SURFACE                           1700
+REPRESENTATION_CONTEXT                                35
+REPRESENTATION_ITEM                                 3403
+REPRESENTATION_RELATIONSHIP                           67
+REPRESENTATION_RELATIONSHIP_WITH_TRANSFORMATION       67
+SHAPE_DEFINITION_REPRESENTATION                       35
+SHAPE_REPRESENTATION                                  35
+SHAPE_REPRESENTATION_RELATIONSHIP                     97
+SHELL_BASED_SURFACE_MODEL                              2
+SI_UNIT                                              105
+SOLID_ANGLE_UNIT                                      35
+SURFACE                                             1700
+UNCERTAINTY_MEASURE_WITH_UNIT                         35
+VERTEX_POINT                                        7672
+
+TOTAL                                             282244
+
+
+读取结束时间: Fri Aug 02 17:31:34 2019
+
+全部读取时间: 00:00:02.
+
+
+The problems encountered during STEP import pre-processing:
+-----------------------------------------------------------
+Entity 74230 (PRODUCT): Character not allowed in Pro/E model name was changed to '_'
+
+
+模型的处理信息 _E3__:
+
+处理完成时间: Fri Aug 02 17:31:35 2019
+
+全部处理时间: 00:00:01.
+
+
+模型的处理信息 Document_A:
+
+处理完成时间: Fri Aug 02 17:31:35 2019
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 brep_1:
+
+处理完成时间: Fri Aug 02 17:31:35 2019
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 brep_2:
+
+处理完成时间: Fri Aug 02 17:31:35 2019
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 E3-HOUKE-ASM_ASM_A:
+
+处理完成时间: Fri Aug 02 17:31:36 2019
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 E3-HOUKE-01_A:
+
+处理完成时间: Fri Aug 02 17:31:36 2019
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 _X2_56FE5757_X0__02_A:
+
+处理完成时间: Fri Aug 02 17:31:41 2019
+
+全部处理时间: 00:00:05.
+
+
+模型的处理信息 E3-BAOBU-ASM_ASM_A:
+
+处理完成时间: Fri Aug 02 17:31:42 2019
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 E3-HOUKE-02_A:
+
+处理完成时间: Fri Aug 02 17:31:44 2019
+
+全部处理时间: 00:00:02.
+
+
+模型的处理信息 BU_A:
+
+处理完成时间: Fri Aug 02 17:31:45 2019
+
+全部处理时间: 00:00:01.
+
+
+模型的处理信息 E3-HOUKE-03_A:
+
+处理完成时间: Fri Aug 02 17:31:45 2019
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 E3-HOUKE-SCREW-PET-L_A:
+
+处理完成时间: Fri Aug 02 17:31:45 2019
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 E3-HOUKE-SCREW-PET-R_A:
+
+处理完成时间: Fri Aug 02 17:31:45 2019
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 E3-PS-LENSE_A:
+
+处理完成时间: Fri Aug 02 17:31:45 2019
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 PB1_4-2_5-L4_A:
+
+处理完成时间: Fri Aug 02 17:31:45 2019
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 PM1_6_4-2_6_A:
+
+处理完成时间: Fri Aug 02 17:31:45 2019
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 M1_4_D2_1-L2-2_A:
+
+处理完成时间: Fri Aug 02 17:31:46 2019
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 PM1_4-D2_5-L2_5_A:
+
+处理完成时间: Fri Aug 02 17:31:46 2019
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 PM1_4-2_5-L4_A:
+
+处理完成时间: Fri Aug 02 17:31:46 2019
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 PB1_4-D2_5-L4_A:
+
+处理完成时间: Fri Aug 02 17:31:46 2019
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 E3-HOUKE-01-20161212_A:
+
+处理完成时间: Fri Aug 02 17:31:51 2019
+
+全部处理时间: 00:00:05.
+
+
+模型的处理信息 E3-OLED-FRONT-BRACKET-01_A:
+
+处理完成时间: Fri Aug 02 17:31:54 2019
+
+全部处理时间: 00:00:01.
+
+
+模型的处理信息 E3-SPEAKER-BOX-ASM_ASM_A:
+
+处理完成时间: Fri Aug 02 17:31:54 2019
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 E3-SPEAKER-1609_A:
+
+处理完成时间: Fri Aug 02 17:31:54 2019
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 E3-SPEAKER-BOX-UP_A:
+
+处理完成时间: Fri Aug 02 17:31:54 2019
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 E3-SPEAKER-BOX-DOWN_A:
+
+处理完成时间: Fri Aug 02 17:31:55 2019
+
+全部处理时间: 00:00:01.
+
+
+模型的处理信息 E3-SPEAKER-BOX-SPONGE_A:
+
+处理完成时间: Fri Aug 02 17:31:55 2019
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 PB1_7-D3-L4_A:
+
+处理完成时间: Fri Aug 02 17:31:55 2019
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 E3-G-PCBA-ASM_ASM_A:
+
+处理完成时间: Fri Aug 02 17:31:55 2019
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 E3-G-PCBA_A:
+
+处理完成时间: Fri Aug 02 17:31:55 2019
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 FH34SRJ-12S-0_5SH_A:
+
+处理完成时间: Fri Aug 02 17:31:55 2019
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 M1_4-D2_2-L4_A:
+
+处理完成时间: Fri Aug 02 17:31:55 2019
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 M1_6_4_A:
+
+处理完成时间: Fri Aug 02 17:31:56 2019
+
+全部处理时间: 00:00:01.
+
+
+模型的处理信息 E3-G-PCBA-PORONTAPE_A:
+
+处理完成时间: Fri Aug 02 17:31:56 2019
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 PM1_6_4-2-6_A:
+
+处理完成时间: Fri Aug 02 17:31:56 2019
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 E3-G-PCBA-BRACKET_A:
+
+处理完成时间: Fri Aug 02 17:31:56 2019
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 E3-OLED-FRONT-BRACKET-02-R_A:
+
+处理完成时间: Fri Aug 02 17:31:57 2019
+
+全部处理时间: 00:00:01.
+
+
+模型的处理信息 E3-OLED-FRONT-BRACKET-02-L_A:
+
+处理完成时间: Fri Aug 02 17:31:57 2019
+
+全部处理时间: 00:00:00.

@@ -1,0 +1,2262 @@
+﻿!trail file version No. 1450
+!Pro/ENGINEER  TM  Wildfire 5.0  (c) 1988-2002 by Wisdom Systems  All Rights Reserved.
+< 0 0.884148 1126 0 0 746 1280 0 0 800 13
+!mem_use INCREASE Blocks 208186, AppSize 24986704, SysSize 34361640
+< 0 0.754963 918 0 0 637 1280 0 0 800 13
+< 0 0.754963 826 0 0 637 1280 0 0 800 13
+!%CI欢迎使用 Pro/ENGINEER Wildfire 5.0。
+< 0 0.754963 812 0 0 637 1280 0 0 800 13
+< 0 0.754963 840 0 0 637 1280 0 0 800 13
+< 0 0.773926 994 0 0 653 1280 0 0 800 13
+~ Resize `main_dlg_cur` `main_dlg_cur` \
+4 -0.280350 -0.280350 44.856070 25.827284 
+~ Move `main_dlg_cur` `main_dlg_cur` \
+2 -0.280350 -0.280350 
+~ Command `ProCmdModelOpen` 
+< 2 0.118519 178 0 0 100 1280 0 0 800 13
+~ Activate `main_dlg_cur` `main_dlg_cur`
+~ Activate `file_open` `Current Dir`
+~ Select `file_open` `SAB_..|`
+~ Close `file_open` `SAB_..|`
+~ Activate `file_open` `M_..|FR-B2-B|`
+~ Close `file_open` `SAB_..|`
+~ Select `file_open` `Ph_list.Filelist` \
+1  `prt0001.prt`
+~ Activate `file_open` `Ph_list.Filelist` \
+1  `prt0001.prt`
+!Command ProCmdModelOpenExe was pushed from the software.
+!31-Jul-19 17:38:43  Start D:\design\FR-B2-B\prt0001.prt.4
+!31-Jul-19 17:38:43  End   D:\design\FR-B2-B\prt0001.prt.4
+< 0 0.801185 994 0 0 676 1280 0 0 800 13
+< 0 0.801185 952 0 0 676 1280 0 0 800 13
+~ LButtonArm `main_dlg_cur` `proe_win` \
+9 506 243 0 1 952 676 1280 800 4477204 
+~ Move `main_dlg_cur` `proe_win` \
+9 506 243 0 1 952 676 1280 800 4477214 
+~ LButtonDisarm `main_dlg_cur` `proe_win` \
+9 506 243 0 0 952 676 1280 800 4477275 
+@ sel view 0
+ -0.046244 0.141140 2.229743 2.221655 -0.233152 0.060834
+ 0.236478 2.218002 -0.135492 505.815132 95.033072 -1479.796309 1.000000 0.000000 0
+@ stack idx 0
+@SELECTION 0 0 52 138 166
+~ RButtonArm `main_dlg_cur` `PHTLeft.AssyTree` \
+ `node10`
+~ PopupOver `main_dlg_cur` `ActionMenu` \
+1  `PHTLeft.AssyTree`
+~ Open `main_dlg_cur` `ActionMenu`
+~ Close `main_dlg_cur` `ActionMenu`
+~ Activate `main_dlg_cur` `EditModify`
+!Command ProCmdEditShowDim was pushed from the software.
+!%CP选取项目以进行编辑，例如尺寸、剖面、轨迹、公差、表面光洁度或其它特征
+!sket_eps       3.504245902
+~ Wheel `main_dlg_cur` `proe_win` \
+9 490 439 393216 1024 952 676 1280 800 4483887 
+~ MButtonArm `main_dlg_cur` `proe_win` \
+9 490 438 0 2 952 676 1280 800 4484458 
+~ Move `main_dlg_cur` `proe_win` \
+9 492 437 0 1538 952 676 1280 800 4484712 
+~ Move `main_dlg_cur` `proe_win` \
+9 494 435 0 1538 952 676 1280 800 4484720 
+~ Move `main_dlg_cur` `proe_win` \
+9 498 433 0 1538 952 676 1280 800 4484728 
+~ Move `main_dlg_cur` `proe_win` \
+9 500 431 0 1538 952 676 1280 800 4484740 
+~ Move `main_dlg_cur` `proe_win` \
+9 504 431 0 514 952 676 1280 800 4484751 
+~ Move `main_dlg_cur` `proe_win` \
+9 511 430 0 1538 952 676 1280 800 4484760 
+~ Move `main_dlg_cur` `proe_win` \
+9 513 428 0 1538 952 676 1280 800 4484770 
+~ Move `main_dlg_cur` `proe_win` \
+9 515 428 0 514 952 676 1280 800 4484782 
+~ Move `main_dlg_cur` `proe_win` \
+9 517 428 0 514 952 676 1280 800 4484791 
+~ Move `main_dlg_cur` `proe_win` \
+9 519 428 0 514 952 676 1280 800 4484801 
+~ Move `main_dlg_cur` `proe_win` \
+9 520 428 0 514 952 676 1280 800 4484840 
+~ Move `main_dlg_cur` `proe_win` \
+9 521 428 0 514 952 676 1280 800 4484863 
+~ Move `main_dlg_cur` `proe_win` \
+9 522 428 0 514 952 676 1280 800 4484872 
+~ Move `main_dlg_cur` `proe_win` \
+9 524 428 0 514 952 676 1280 800 4484881 
+~ Move `main_dlg_cur` `proe_win` \
+9 525 428 0 514 952 676 1280 800 4484889 
+~ Move `main_dlg_cur` `proe_win` \
+9 526 428 0 514 952 676 1280 800 4484900 
+~ Move `main_dlg_cur` `proe_win` \
+9 526 428 0 2 952 676 1280 800 4484907 
+~ Move `main_dlg_cur` `proe_win` \
+9 528 428 0 514 952 676 1280 800 4485047 
+~ Move `main_dlg_cur` `proe_win` \
+9 532 428 0 514 952 676 1280 800 4485072 
+~ Move `main_dlg_cur` `proe_win` \
+9 534 428 0 514 952 676 1280 800 4485080 
+~ Move `main_dlg_cur` `proe_win` \
+9 536 428 0 514 952 676 1280 800 4485089 
+~ Move `main_dlg_cur` `proe_win` \
+9 537 428 0 514 952 676 1280 800 4485101 
+~ Move `main_dlg_cur` `proe_win` \
+9 539 428 0 514 952 676 1280 800 4485108 
+~ Move `main_dlg_cur` `proe_win` \
+9 540 428 0 514 952 676 1280 800 4485118 
+~ Move `main_dlg_cur` `proe_win` \
+9 542 428 0 514 952 676 1280 800 4485129 
+~ Move `main_dlg_cur` `proe_win` \
+9 544 426 0 1538 952 676 1280 800 4485137 
+~ Move `main_dlg_cur` `proe_win` \
+9 545 426 0 514 952 676 1280 800 4485147 
+~ Move `main_dlg_cur` `proe_win` \
+9 547 425 0 1538 952 676 1280 800 4485155 
+~ Move `main_dlg_cur` `proe_win` \
+9 549 425 0 514 952 676 1280 800 4485166 
+~ Move `main_dlg_cur` `proe_win` \
+9 550 425 0 514 952 676 1280 800 4485174 
+~ Move `main_dlg_cur` `proe_win` \
+9 551 425 0 514 952 676 1280 800 4485185 
+~ Move `main_dlg_cur` `proe_win` \
+9 555 423 0 1538 952 676 1280 800 4485328 
+~ Move `main_dlg_cur` `proe_win` \
+9 556 422 0 1538 952 676 1280 800 4485352 
+~ Move `main_dlg_cur` `proe_win` \
+9 557 421 0 1538 952 676 1280 800 4485362 
+~ Move `main_dlg_cur` `proe_win` \
+9 557 420 0 1026 952 676 1280 800 4485496 
+~ Move `main_dlg_cur` `proe_win` \
+9 557 419 0 1026 952 676 1280 800 4485505 
+~ Move `main_dlg_cur` `proe_win` \
+9 555 415 0 1538 952 676 1280 800 4485515 
+~ Move `main_dlg_cur` `proe_win` \
+9 554 414 0 1538 952 676 1280 800 4485524 
+~ Move `main_dlg_cur` `proe_win` \
+9 553 413 0 1538 952 676 1280 800 4485534 
+~ Move `main_dlg_cur` `proe_win` \
+9 547 409 0 1538 952 676 1280 800 4485546 
+~ Move `main_dlg_cur` `proe_win` \
+9 544 407 0 1538 952 676 1280 800 4485562 
+~ Move `main_dlg_cur` `proe_win` \
+9 543 407 0 514 952 676 1280 800 4485577 
+~ Move `main_dlg_cur` `proe_win` \
+9 540 405 0 1538 952 676 1280 800 4485587 
+~ Move `main_dlg_cur` `proe_win` \
+9 539 405 0 514 952 676 1280 800 4485597 
+~ Move `main_dlg_cur` `proe_win` \
+9 537 404 0 1538 952 676 1280 800 4485609 
+~ Move `main_dlg_cur` `proe_win` \
+9 536 403 0 1538 952 676 1280 800 4485620 
+~ Move `main_dlg_cur` `proe_win` \
+9 532 402 0 1538 952 676 1280 800 4485633 
+~ Move `main_dlg_cur` `proe_win` \
+9 530 402 0 514 952 676 1280 800 4485642 
+~ Move `main_dlg_cur` `proe_win` \
+9 527 400 0 1538 952 676 1280 800 4485654 
+~ Move `main_dlg_cur` `proe_win` \
+9 520 398 0 1538 952 676 1280 800 4485666 
+~ Move `main_dlg_cur` `proe_win` \
+9 518 398 0 514 952 676 1280 800 4485675 
+~ Move `main_dlg_cur` `proe_win` \
+9 513 396 0 1538 952 676 1280 800 4485686 
+~ Move `main_dlg_cur` `proe_win` \
+9 511 396 0 514 952 676 1280 800 4485696 
+~ Move `main_dlg_cur` `proe_win` \
+9 507 394 0 1538 952 676 1280 800 4485704 
+~ Move `main_dlg_cur` `proe_win` \
+9 505 394 0 514 952 676 1280 800 4485714 
+~ Move `main_dlg_cur` `proe_win` \
+9 504 393 0 1538 952 676 1280 800 4485722 
+~ Move `main_dlg_cur` `proe_win` \
+9 501 392 0 1538 952 676 1280 800 4485736 
+~ Move `main_dlg_cur` `proe_win` \
+9 500 392 0 514 952 676 1280 800 4485752 
+~ Move `main_dlg_cur` `proe_win` \
+9 499 391 0 1538 952 676 1280 800 4485762 
+~ MButtonDisarm `main_dlg_cur` `proe_win` \
+9 499 391 0 0 952 676 1280 800 4486080 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 434 474 458752 0 952 676 1280 800 4486779 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 434 474 458752 0 952 676 1280 800 4486815 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 434 474 458752 0 952 676 1280 800 4486921 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 434 474 458752 0 952 676 1280 800 4487249 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 434 474 458752 0 952 676 1280 800 4487296 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 434 474 458752 0 952 676 1280 800 4487319 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 434 474 458752 0 952 676 1280 800 4487351 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 434 474 393216 0 952 676 1280 800 4487892 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 434 474 393216 0 952 676 1280 800 4487961 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 419 484 393216 0 952 676 1280 800 4488886 
+~ LButtonArm `main_dlg_cur` `proe_win` \
+9 732 271 0 1 952 676 1280 800 4490159 
+~ LButtonDisarm `main_dlg_cur` `proe_win` \
+9 732 271 0 0 952 676 1280 800 4490240 
+@ sel view 0
+ 0.403524 0.432100 2.155057 2.030730 0.764977 -0.533627
+ -0.840901 2.054729 -0.254529 437.195219 116.030098 -1319.292596 1.953125 0.000000 0
+@ sel2d 0 TEXT_DIM 
+16 3 0 2 -1 -1 -1 -1
+@ sel stop
+@ sel stop
+@ sel2d 0 TEXT_DIM 
+16 3 0 2 -1 -1 -1 -1
+@ sel stop
+@ sel stop
+@ stack idx 0
+@SELECTION 0 0 21 16 -1
+!%CP选取"编辑值"或"属性"以编辑选定的项目
+!%CP选取项目以进行编辑，例如尺寸、几何公差、参照尺寸
+~ LButtonArm `main_dlg_cur` `proe_win` \
+9 732 271 0 129 952 676 1280 800 4490347 
+~ LButtonDisarm `main_dlg_cur` `proe_win` \
+9 732 271 0 0 952 676 1280 800 4490433 
+!Command ProCmdEditValueDim was pushed from the software.
+!%CP输入值 [161.90]
+~ FocusIn `main_dlg_cur` `mod_partdim_emb`
+~ Activate `main_dlg_cur` `main_dlg_cur`
+~ LButtonArm `main_dlg_cur` `proe_win` \
+9 732 269 0 1 952 676 1280 800 4521373 
+~ LButtonDisarm `main_dlg_cur` `proe_win` \
+9 732 269 0 0 952 676 1280 800 4521453 
+@ sel view 0
+ 0.403524 0.432100 2.155057 2.030730 0.764977 -0.533627
+ -0.840901 2.054729 -0.254529 437.195219 116.030098 -1319.292596 1.953125 0.000000 0
+@ sel stop
+@ sel stop
+@ sel stop
+@ sel stop
+!%CP选取项目以进行编辑，例如尺寸、剖面、基准、特征、修饰
+!sket_eps       1.794173902
+~ LButtonArm `main_dlg_cur` `proe_win` \
+9 724 276 0 1 952 676 1280 800 4522217 
+~ LButtonDisarm `main_dlg_cur` `proe_win` \
+9 724 276 0 0 952 676 1280 800 4522274 
+@ sel view 0
+ 0.403524 0.432100 2.155057 2.030730 0.764977 -0.533627
+ -0.840901 2.054729 -0.254529 437.195219 116.030098 -1319.292596 1.953125 0.000000 0
+@ sel2d 0 TEXT_DIM 
+16 3 0 2 -1 -1 -1 -1
+@ sel stop
+@ sel stop
+@ sel2d 0 TEXT_DIM 
+16 3 0 2 -1 -1 -1 -1
+@ sel stop
+@ sel stop
+@ stack idx 0
+@SELECTION 0 0 21 16 -1
+!%CP选取"编辑值"或"属性"以编辑选定的项目
+!%CP选取项目以进行编辑，例如尺寸、几何公差、参照尺寸
+~ LButtonArm `main_dlg_cur` `proe_win` \
+9 724 276 0 129 952 676 1280 800 4522392 
+~ LButtonDisarm `main_dlg_cur` `proe_win` \
+9 724 276 0 0 952 676 1280 800 4522449 
+!Command ProCmdEditValueDim was pushed from the software.
+!%CP输入值 [161.90]
+~ Update `main_dlg_cur` `mod_partdim_emb` \
+ `185`
+~ Activate `main_dlg_cur` `mod_partdim_emb`
+!%CI显示新尺寸值驱动的截面修改。
+!%CP选取一个顶点/图元/中心，拖动或单击尺寸进行修改。
+!Undo: added rec_id 237 type 5100 
+!
+~ Wheel `main_dlg_cur` `proe_win` \
+9 775 238 458752 512 952 676 1280 800 4531360 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 775 238 393216 0 952 676 1280 800 4531562 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 775 238 393216 0 952 676 1280 800 4531744 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 775 238 393216 0 952 676 1280 800 4532939 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 775 238 458752 0 952 676 1280 800 4533824 
+~ LButtonArm `main_dlg_cur` `proe_win` \
+9 670 568 0 1 952 676 1280 800 4537769 
+~ LButtonDisarm `main_dlg_cur` `proe_win` \
+9 670 568 0 0 952 676 1280 800 4537832 
+@ sel view 0
+ 0.403524 0.432100 2.155057 2.030730 0.764977 -0.533627
+ -0.840901 2.054729 -0.254529 437.195219 116.030098 -1319.292596 1.562500 0.000000 0
+@ sel2d 0 TEXT_DIM 
+17 3 0 2 -1 -1 -1 -1
+@ sel stop
+@ sel stop
+@ sel2d 0 TEXT_DIM 
+17 3 0 2 -1 -1 -1 -1
+@ sel stop
+@ sel stop
+@ stack idx 0
+@SELECTION 0 0 21 17 -1
+!%CP选取"编辑值"或"属性"以编辑选定的项目
+~ LButtonArm `main_dlg_cur` `proe_win` \
+9 670 568 0 129 952 676 1280 800 4537923 
+~ LButtonDisarm `main_dlg_cur` `proe_win` \
+9 670 568 0 0 952 676 1280 800 4538001 
+!Command ProCmdEditValueDim was pushed from the software.
+!%CP输入值 [39.70]
+~ Update `main_dlg_cur` `mod_partdim_emb` \
+ `20`
+~ Activate `main_dlg_cur` `mod_partdim_emb`
+!sket_eps       2.242717377
+!%CI显示新尺寸值驱动的截面修改。
+!%CP选取一个顶点/图元/中心，拖动或单击尺寸进行修改。
+!Undo: added rec_id 239 type 5100 
+!
+~ LButtonArm `main_dlg_cur` `proe_win` \
+9 761 508 0 1 952 676 1280 800 4551722 
+~ LButtonDisarm `main_dlg_cur` `proe_win` \
+9 761 508 0 0 952 676 1280 800 4551856 
+@ sel view 0
+ 0.403524 0.432100 2.155057 2.030730 0.764977 -0.533627
+ -0.840901 2.054729 -0.254529 437.195219 116.030098 -1319.292596 1.562500 0.000000 0
+@ sel stop
+@ sel stop
+@ sel stop
+@ sel stop
+!%CP选取项目以进行编辑，例如尺寸、剖面、基准、特征、修饰
+~ LButtonArm `main_dlg_cur` `proe_win` \
+9 738 445 0 1 952 676 1280 800 4569201 
+~ LButtonDisarm `main_dlg_cur` `proe_win` \
+9 738 445 0 0 952 676 1280 800 4569265 
+@ sel view 0
+ 0.403524 0.432100 2.155057 2.030730 0.764977 -0.533627
+ -0.840901 2.054729 -0.254529 437.195219 116.030098 -1319.292596 1.562500 0.000000 0
+@ sel stop
+@ sel stop
+@ sel stop
+@ sel stop
+!Command ProCmdDummyExitCmd was pushed from the software.
+!Command ProCmdViewRepaint was pushed from the software.
+~ LButtonArm `main_dlg_cur` `proe_win` \
+9 738 445 0 129 952 676 1280 800 4569377 
+** 0.827016 0.340237 0 64 64
+0.620382 0.227146 E 0 0.801185185 0
+~ LButtonDisarm `main_dlg_cur` `proe_win` \
+9 738 445 0 0 952 676 1280 800 4569472 
+~ LButtonArm `main_dlg_cur` `proe_win` \
+9 620 508 0 1 952 676 1280 800 4574222 
+~ LButtonDisarm `main_dlg_cur` `proe_win` \
+9 620 508 0 0 952 676 1280 800 4574330 
+@ sel view 0
+ 0.403524 0.432100 2.155057 2.030730 0.764977 -0.533627
+ -0.840901 2.054729 -0.254529 437.195219 116.030098 -1319.292596 1.562500 0.000000 0
+@ stack idx 0
+@SELECTION 0 0 52 66 74
+~ LButtonArm `main_dlg_cur` `proe_win` \
+9 731 503 0 1 952 676 1280 800 4575889 
+~ LButtonDisarm `main_dlg_cur` `proe_win` \
+9 731 503 0 0 952 676 1280 800 4576041 
+@ sel view 0
+ 0.403524 0.432100 2.155057 2.030730 0.764977 -0.533627
+ -0.840901 2.054729 -0.254529 437.195219 116.030098 -1319.292596 1.562500 0.000000 0
+~ Select `main_dlg_cur` `PHTLeft.AssyTree` \
+1  `node10`
+!拉伸 1
+~ RButtonArm `main_dlg_cur` `PHTLeft.AssyTree` \
+ `node10`
+~ PopupOver `main_dlg_cur` `ActionMenu` \
+1  `PHTLeft.AssyTree`
+~ Open `main_dlg_cur` `ActionMenu`
+~ Close `main_dlg_cur` `ActionMenu`
+~ Activate `main_dlg_cur` `EditModify`
+!Command ProCmdEditShowDim was pushed from the software.
+!%CP选取项目以进行编辑，例如尺寸、剖面、轨迹、公差、表面光洁度或其它特征
+~ LButtonArm `main_dlg_cur` `proe_win` \
+9 97 350 0 1 952 676 1280 800 4587028 
+~ LButtonDisarm `main_dlg_cur` `proe_win` \
+9 97 350 0 0 952 676 1280 800 4587121 
+@ sel view 0
+ 0.403524 0.432100 2.155057 2.030730 0.764977 -0.533627
+ -0.840901 2.054729 -0.254529 437.195219 116.030098 -1319.292596 1.562500 0.000000 0
+@ sel stop
+@ sel stop
+@ sel stop
+@ sel stop
+!Command ProCmdDummyExitCmd was pushed from the software.
+!Command ProCmdViewRepaint was pushed from the software.
+~ Command `ProCmdViewRepaint` 
+~ Command `ProCmdViewRepaint` 
+~ Command `ProCmdViewRepaint` 
+~ LButtonArm `main_dlg_cur` `proe_win` \
+9 761 308 0 1 952 676 1280 800 4595758 
+~ LButtonDisarm `main_dlg_cur` `proe_win` \
+9 761 308 0 0 952 676 1280 800 4595857 
+@ sel view 0
+ 0.403524 0.432100 2.155057 2.030730 0.764977 -0.533627
+ -0.840901 2.054729 -0.254529 437.195219 116.030098 -1319.292596 1.562500 0.000000 0
+~ Expand `main_dlg_cur` `PHTLeft.AssyTree` \
+ `node10`
+!Expanded 拉伸 1
+~ Select `main_dlg_cur` `PHTLeft.AssyTree` \
+1  `node17`
+!S2D0001
+~ Select `main_dlg_cur` `PHTLeft.AssyTree` \
+1  `node17`
+~ Activate `main_dlg_cur` `PHTLeft.AssyTree` \
+1  `node17`
+!Expanded S2D0001
+~ Select `main_dlg_cur` `PHTLeft.AssyTree` \
+1  `node17`
+~ RButtonArm `main_dlg_cur` `PHTLeft.AssyTree` \
+ `node17`
+~ PopupOver `main_dlg_cur` `ActionMenu` \
+1  `PHTLeft.AssyTree`
+~ Open `main_dlg_cur` `ActionMenu`
+~ Close `main_dlg_cur` `ActionMenu`
+~ Activate `main_dlg_cur` `EditModify`
+!Command ProCmdEditShowDim was pushed from the software.
+!%CP选取项目以进行编辑，如尺寸、公差，或拖动剖面图元
+!%CP选取用于编辑的尺寸、基准、修饰、曲线、扫描曲线等项目
+~ LButtonArm `main_dlg_cur` `proe_win` \
+9 407 468 0 1 952 676 1280 800 4611480 
+@ sel view 0
+ 0.403524 0.432100 2.155057 2.030730 0.764977 -0.533627
+ -0.840901 2.054729 -0.254529 437.195219 116.030098 -1319.292596 1.562500 0.000000 0
+@ sel stop
+@ sel stop
+@ sel stop
+@ sel stop
+~ LButtonDisarm `main_dlg_cur` `proe_win` \
+9 407 468 0 0 952 676 1280 800 4611641 
+@ sel view 0
+ 0.403524 0.432100 2.155057 2.030730 0.764977 -0.533627
+ -0.840901 2.054729 -0.254529 437.195219 116.030098 -1319.292596 1.562500 0.000000 0
+@ sel stop
+@ sel stop
+@ sel stop
+@ sel stop
+!Command ProCmdDummyExitCmd was pushed from the software.
+!Command ProCmdViewRepaint was pushed from the software.
+~ Select `main_dlg_cur` `PHTLeft.AssyTree` \
+1  `node10`
+!拉伸 1
+~ Select `main_dlg_cur` `PHTLeft.AssyTree` \
+1  `node17`
+!S2D0001
+~ RButtonArm `main_dlg_cur` `PHTLeft.AssyTree` \
+ `node17`
+~ Move `main_dlg_cur` `proe_win` \
+9 114 249 0 1537 952 676 1280 800 4619949 
+~ PopupOver `main_dlg_cur` `ActionMenu` \
+1  `PHTLeft.AssyTree`
+~ Open `main_dlg_cur` `ActionMenu`
+~ Close `main_dlg_cur` `ActionMenu`
+~ Activate `main_dlg_cur` `main_dlg_cur`
+~ Select `main_dlg_cur` `PHTLeft.ShowCB`
+~ Close `main_dlg_cur` `PHTLeft.ShowCB`
+~ Activate `main_dlg_cur` `main_dlg_cur`
+~ Command `ProCmdMdlTreeFilter` 
+!%CI检测的特征类型将显示在模型数中。
+~ Close `main_dlg_cur` `PHTLeft.SettingsCB`
+~ Activate `mdl_filter` `feat_btn` \
+0 
+~ Activate `mdl_filter` `feat_btn` \
+1 
+~ Activate `mdl_filter` `ok_btn`
+~ Activate `main_dlg_cur` `main_dlg_cur`
+~ LButtonArm `main_dlg_cur` `proe_win` \
+9 758 445 0 1 952 676 1280 800 4759348 
+~ LButtonDisarm `main_dlg_cur` `proe_win` \
+9 758 445 0 0 952 676 1280 800 4759393 
+@ sel view 0
+ 0.403524 0.432100 2.155057 2.030730 0.764977 -0.533627
+ -0.840901 2.054729 -0.254529 437.195219 116.030098 -1319.292596 1.562500 0.000000 0
+~ Command `ProCmdFtExtrude` 
+!ODUI session starting: Okit widgets are on, Undo/Redo on, Dashboard style on, Tab style off. Feature title : 伸出项: 拉伸
+!ODUI session started.
+!%CP选取一个草绘。(如果首选内部草绘，可在 放置 面板中找到 "定义" 选项。)
+< 0 0.739556 952 0 0 624 1280 0 0 800 13
+~ LButtonArm `main_dlg_cur` `proe_win` \
+9 407 416 0 1 952 624 1280 800 4766126 
+~ LButtonDisarm `main_dlg_cur` `proe_win` \
+9 407 416 0 0 952 624 1280 800 4766232 
+@ sel view 0
+ 0.403524 0.432100 2.155057 2.030730 0.764977 -0.533627
+ -0.840901 2.054729 -0.254529 437.195219 116.030098 -1319.292596 1.562500 0.000000 0
+~ LButtonArm `main_dlg_cur` `proe_win` \
+9 410 415 0 1 952 624 1280 800 4766907 
+~ LButtonDisarm `main_dlg_cur` `proe_win` \
+9 410 415 0 0 952 624 1280 800 4767128 
+@ sel view 0
+ 0.403524 0.432100 2.155057 2.030730 0.764977 -0.533627
+ -0.840901 2.054729 -0.254529 437.195219 116.030098 -1319.292596 1.562500 0.000000 0
+~ LButtonArm `main_dlg_cur` `proe_win` \
+9 410 415 0 1 952 624 1280 800 4768239 
+~ Activate `main_dlg_cur` `main_dlg_cur`
+~ Move `main_dlg_cur` `proe_win` \
+9 410 415 0 1 952 624 1280 800 4768262 
+~ Move `main_dlg_cur` `proe_win` \
+9 410 415 0 1 952 624 1280 800 4768295 
+~ LButtonDisarm `main_dlg_cur` `proe_win` \
+9 410 415 0 0 952 624 1280 800 4768306 
+@ sel view 0
+ 0.403524 0.432100 2.155057 2.030730 0.764977 -0.533627
+ -0.840901 2.054729 -0.254529 437.195219 116.030098 -1319.292596 1.562500 0.000000 0
+~ LButtonArm `main_dlg_cur` `proe_win` \
+9 410 415 0 129 952 624 1280 800 4768426 
+** 0.410757 0.333333 0 64 64
+0.353976 0.223418 E 0 0.739555556 0
+@ sel view 0
+ 0.403524 0.432100 2.155057 2.030730 0.764977 -0.533627
+ -0.840901 2.054729 -0.254529 437.195219 116.030098 -1319.292596 1.562500 0.000000 0
+~ LButtonDisarm `main_dlg_cur` `proe_win` \
+9 410 415 0 0 952 624 1280 800 4768480 
+~ LButtonArm `main_dlg_cur` `proe_win` \
+9 584 229 0 1 952 624 1280 800 4769505 
+~ LButtonDisarm `main_dlg_cur` `proe_win` \
+9 584 229 0 0 952 624 1280 800 4769576 
+@ sel view 0
+ 0.403524 0.432100 2.155057 2.030730 0.764977 -0.533627
+ -0.840901 2.054729 -0.254529 437.195219 116.030098 -1319.292596 1.562500 0.000000 0
+~ LButtonArm `main_dlg_cur` `proe_win` \
+9 403 414 0 1 952 624 1280 800 4771237 
+~ Move `main_dlg_cur` `proe_win` \
+9 403 413 0 1025 952 624 1280 800 4771384 
+~ Move `main_dlg_cur` `proe_win` \
+9 405 413 0 513 952 624 1280 800 4771393 
+~ Move `main_dlg_cur` `proe_win` \
+9 410 413 0 513 952 624 1280 800 4771402 
+~ Move `main_dlg_cur` `proe_win` \
+9 411 413 0 513 952 624 1280 800 4771409 
+~ Move `main_dlg_cur` `proe_win` \
+9 415 413 0 513 952 624 1280 800 4771417 
+~ Move `main_dlg_cur` `proe_win` \
+9 417 413 0 513 952 624 1280 800 4771424 
+~ Move `main_dlg_cur` `proe_win` \
+9 420 413 0 513 952 624 1280 800 4771433 
+~ Move `main_dlg_cur` `proe_win` \
+9 421 413 0 513 952 624 1280 800 4771441 
+~ Move `main_dlg_cur` `proe_win` \
+9 422 413 0 513 952 624 1280 800 4771448 
+~ Move `main_dlg_cur` `proe_win` \
+9 424 413 0 513 952 624 1280 800 4771481 
+~ Move `main_dlg_cur` `proe_win` \
+9 425 413 0 513 952 624 1280 800 4771489 
+~ Move `main_dlg_cur` `proe_win` \
+9 429 413 0 513 952 624 1280 800 4771497 
+~ Move `main_dlg_cur` `proe_win` \
+9 431 413 0 513 952 624 1280 800 4771505 
+~ Move `main_dlg_cur` `proe_win` \
+9 435 413 0 513 952 624 1280 800 4771514 
+~ Move `main_dlg_cur` `proe_win` \
+9 438 413 0 513 952 624 1280 800 4771521 
+~ Move `main_dlg_cur` `proe_win` \
+9 450 413 0 513 952 624 1280 800 4771531 
+~ Move `main_dlg_cur` `proe_win` \
+9 467 413 0 513 952 624 1280 800 4771537 
+~ Move `main_dlg_cur` `proe_win` \
+9 488 413 0 513 952 624 1280 800 4771544 
+~ Move `main_dlg_cur` `proe_win` \
+9 505 413 0 513 952 624 1280 800 4771553 
+~ Move `main_dlg_cur` `proe_win` \
+9 522 413 0 513 952 624 1280 800 4771560 
+~ Move `main_dlg_cur` `proe_win` \
+9 537 416 0 1537 952 624 1280 800 4771569 
+~ Move `main_dlg_cur` `proe_win` \
+9 552 418 0 1537 952 624 1280 800 4771577 
+~ Move `main_dlg_cur` `proe_win` \
+9 561 419 0 1537 952 624 1280 800 4771587 
+~ Move `main_dlg_cur` `proe_win` \
+9 566 419 0 513 952 624 1280 800 4771592 
+~ Move `main_dlg_cur` `proe_win` \
+9 568 420 0 1537 952 624 1280 800 4771602 
+~ Move `main_dlg_cur` `proe_win` \
+9 570 420 0 513 952 624 1280 800 4771690 
+~ Move `main_dlg_cur` `proe_win` \
+9 574 423 0 1537 952 624 1280 800 4771794 
+~ Move `main_dlg_cur` `proe_win` \
+9 579 425 0 1537 952 624 1280 800 4771800 
+~ Move `main_dlg_cur` `proe_win` \
+9 588 430 0 1537 952 624 1280 800 4771809 
+~ Move `main_dlg_cur` `proe_win` \
+9 596 433 0 1537 952 624 1280 800 4771816 
+~ Move `main_dlg_cur` `proe_win` \
+9 605 439 0 1537 952 624 1280 800 4771824 
+~ Move `main_dlg_cur` `proe_win` \
+9 610 442 0 1537 952 624 1280 800 4771832 
+~ Move `main_dlg_cur` `proe_win` \
+9 618 446 0 1537 952 624 1280 800 4771840 
+~ Move `main_dlg_cur` `proe_win` \
+9 623 448 0 1537 952 624 1280 800 4771848 
+~ Move `main_dlg_cur` `proe_win` \
+9 630 451 0 1537 952 624 1280 800 4771856 
+~ Move `main_dlg_cur` `proe_win` \
+9 631 451 0 513 952 624 1280 800 4772001 
+~ Move `main_dlg_cur` `proe_win` \
+9 637 454 0 1537 952 624 1280 800 4772080 
+~ Move `main_dlg_cur` `proe_win` \
+9 638 455 0 1537 952 624 1280 800 4772088 
+~ Move `main_dlg_cur` `proe_win` \
+9 640 457 0 1537 952 624 1280 800 4772096 
+~ Move `main_dlg_cur` `proe_win` \
+9 641 458 0 1537 952 624 1280 800 4772241 
+~ LButtonDisarm `main_dlg_cur` `proe_win` \
+9 641 458 0 0 952 624 1280 800 4772275 
+~ Command `ProCmdDatumPlane` 
+!%CI当前工具被暂停。选取对象，或选取恢复以退出暂停模式。
+!ODUI session starting: Okit widgets are on, Undo/Redo on, Dashboard style off, Tab style on. Feature title : 基准平面
+!ODUI session started.
+!%CP选取3个参照(例如平面、曲面、边或点)以放置平面。
+~ Activate `Odui_Dlg_01` `stdbtn_2`
+!mem_use INCREASE Blocks 269533, AppSize 41428671, SysSize 60723312
+!ODUI session finished.
+@ trail error  : Creating feature -1 in model PRT0001 - error 53
+ 53 
+~ LButtonArm `main_dlg_cur` `proe_win` \
+9 741 384 0 1 952 624 1280 800 4783643 
+~ LButtonDisarm `main_dlg_cur` `proe_win` \
+9 741 384 0 0 952 624 1280 800 4783773 
+@ sel view 0
+ 0.403524 0.432100 2.155057 2.030730 0.764977 -0.533627
+ -0.840901 2.054729 -0.254529 437.195219 116.030098 -1319.292596 1.562500 0.000000 0
+~ Enter `main_dlg_cur` `dashInst0.Quit`
+~ Exit `main_dlg_cur` `dashInst0.Quit`
+~ Enter `main_dlg_cur` `dashInst0.Quit`
+~ Exit `main_dlg_cur` `dashInst0.Quit`
+~ LButtonArm `main_dlg_cur` `proe_win` \
+9 204 271 0 1 952 624 1280 800 4789675 
+~ LButtonDisarm `main_dlg_cur` `proe_win` \
+9 204 271 0 0 952 624 1280 800 4789761 
+@ sel view 0
+ 0.403524 0.432100 2.155057 2.030730 0.764977 -0.533627
+ -0.840901 2.054729 -0.254529 437.195219 116.030098 -1319.292596 1.562500 0.000000 0
+~ LButtonArm `main_dlg_cur` `proe_win` \
+9 874 162 0 1 952 624 1280 800 4792646 
+~ LButtonDisarm `main_dlg_cur` `proe_win` \
+9 874 162 0 0 952 624 1280 800 4792778 
+@ sel view 0
+ 0.403524 0.432100 2.155057 2.030730 0.764977 -0.533627
+ -0.840901 2.054729 -0.254529 437.195219 116.030098 -1319.292596 1.562500 0.000000 0
+~ LButtonArm `main_dlg_cur` `proe_win` \
+9 783 368 0 1 952 624 1280 800 4794451 
+~ LButtonDisarm `main_dlg_cur` `proe_win` \
+9 783 368 0 0 952 624 1280 800 4794561 
+@ sel view 0
+ 0.403524 0.432100 2.155057 2.030730 0.764977 -0.533627
+ -0.840901 2.054729 -0.254529 437.195219 116.030098 -1319.292596 1.562500 0.000000 0
+~ MButtonArm `main_dlg_cur` `proe_win` \
+9 702 256 0 2 952 624 1280 800 4794953 
+~ MButtonDisarm `main_dlg_cur` `proe_win` \
+9 702 256 0 0 952 624 1280 800 4795113 
+~ Activate `main_dlg_cur` `dashInst0.Pause`
+!%CI暂停模式已被取消。
+!%CP选取一个草绘。(如果首选内部草绘，可在 放置 面板中找到 "定义" 选项。)
+~ LButtonArm `main_dlg_cur` `proe_win` \
+9 468 433 0 1 952 624 1280 800 4797072 
+~ LButtonDisarm `main_dlg_cur` `proe_win` \
+9 468 433 0 0 952 624 1280 800 4797219 
+@ sel view 0
+ 0.403524 0.432100 2.155057 2.030730 0.764977 -0.533627
+ -0.840901 2.054729 -0.254529 437.195219 116.030098 -1319.292596 1.562500 0.000000 0
+~ LButtonArm `main_dlg_cur` `proe_win` \
+9 457 417 0 1 952 624 1280 800 4797675 
+~ Move `main_dlg_cur` `proe_win` \
+9 457 416 0 1025 952 624 1280 800 4797712 
+~ LButtonDisarm `main_dlg_cur` `proe_win` \
+9 457 416 0 0 952 624 1280 800 4797817 
+@ sel view 0
+ 0.403524 0.432100 2.155057 2.030730 0.764977 -0.533627
+ -0.840901 2.054729 -0.254529 437.195219 116.030098 -1319.292596 1.562500 0.000000 0
+~ MButtonArm `main_dlg_cur` `proe_win` \
+9 432 428 0 2 952 624 1280 800 4798827 
+~ Move `main_dlg_cur` `proe_win` \
+9 432 428 0 2 952 624 1280 800 4798876 
+~ MButtonDisarm `main_dlg_cur` `proe_win` \
+9 432 428 0 0 952 624 1280 800 4799010 
+~ LButtonArm `main_dlg_cur` `proe_win` \
+9 430 417 0 1 952 624 1280 800 4799547 
+~ LButtonDisarm `main_dlg_cur` `proe_win` \
+9 430 417 0 0 952 624 1280 800 4799667 
+@ sel view 0
+ 0.403524 0.432100 2.155057 2.030730 0.764977 -0.533627
+ -0.840901 2.054729 -0.254529 437.195219 116.030098 -1319.292596 1.562500 0.000000 0
+~ LButtonArm `main_dlg_cur` `proe_win` \
+9 430 417 0 129 952 624 1280 800 4799737 
+** 0.437800 0.330128 0 64 64
+0.371284 0.221687 E 0 0.739555556 0
+@ sel view 0
+ 0.403524 0.432100 2.155057 2.030730 0.764977 -0.533627
+ -0.840901 2.054729 -0.254529 437.195219 116.030098 -1319.292596 1.562500 0.000000 0
+~ LButtonDisarm `main_dlg_cur` `proe_win` \
+9 430 417 0 0 952 624 1280 800 4799833 
+~ LButtonArm `main_dlg_cur` `proe_win` \
+9 761 309 0 1 952 624 1280 800 4800523 
+~ LButtonDisarm `main_dlg_cur` `proe_win` \
+9 761 309 0 0 952 624 1280 800 4800608 
+@ sel view 0
+ 0.403524 0.432100 2.155057 2.030730 0.764977 -0.533627
+ -0.840901 2.054729 -0.254529 437.195219 116.030098 -1319.292596 1.562500 0.000000 0
+~ Select `main_dlg_cur` `maindashInst0.solid_surf_rg` \
+1  `Surface`
+~ LButtonArm `main_dlg_cur` `proe_win` \
+9 404 415 0 1 952 624 1280 800 4805926 
+~ Move `main_dlg_cur` `proe_win` \
+9 405 414 0 1537 952 624 1280 800 4805960 
+~ Move `main_dlg_cur` `proe_win` \
+9 407 414 0 513 952 624 1280 800 4806072 
+~ Move `main_dlg_cur` `proe_win` \
+9 410 414 0 513 952 624 1280 800 4806080 
+~ Move `main_dlg_cur` `proe_win` \
+9 419 419 0 1537 952 624 1280 800 4806087 
+~ Move `main_dlg_cur` `proe_win` \
+9 422 420 0 1537 952 624 1280 800 4806096 
+~ Move `main_dlg_cur` `proe_win` \
+9 426 421 0 1537 952 624 1280 800 4806104 
+~ Move `main_dlg_cur` `proe_win` \
+9 430 422 0 1537 952 624 1280 800 4806112 
+~ Move `main_dlg_cur` `proe_win` \
+9 433 425 0 1537 952 624 1280 800 4806119 
+~ Move `main_dlg_cur` `proe_win` \
+9 434 425 0 513 952 624 1280 800 4806136 
+~ Move `main_dlg_cur` `proe_win` \
+9 435 425 0 513 952 624 1280 800 4806144 
+~ Move `main_dlg_cur` `proe_win` \
+9 437 425 0 513 952 624 1280 800 4806200 
+~ Move `main_dlg_cur` `proe_win` \
+9 438 425 0 513 952 624 1280 800 4806216 
+~ Move `main_dlg_cur` `proe_win` \
+9 439 425 0 513 952 624 1280 800 4806231 
+~ Move `main_dlg_cur` `proe_win` \
+9 440 425 0 513 952 624 1280 800 4806248 
+~ Move `main_dlg_cur` `proe_win` \
+9 442 425 0 513 952 624 1280 800 4806273 
+~ Move `main_dlg_cur` `proe_win` \
+9 442 424 0 1025 952 624 1280 800 4806280 
+~ LButtonDisarm `main_dlg_cur` `proe_win` \
+9 442 424 0 0 952 624 1280 800 4806345 
+~ Select `main_dlg_cur` `maindashInst0.solid_surf_rg` \
+1  `Solid`
+~ LButtonArm `main_dlg_cur` `proe_win` \
+9 410 408 0 1 952 624 1280 800 4809470 
+~ Move `main_dlg_cur` `proe_win` \
+9 412 408 0 513 952 624 1280 800 4809672 
+~ Move `main_dlg_cur` `proe_win` \
+9 416 409 0 1537 952 624 1280 800 4809682 
+~ Move `main_dlg_cur` `proe_win` \
+9 417 410 0 1537 952 624 1280 800 4809688 
+~ Move `main_dlg_cur` `proe_win` \
+9 419 410 0 513 952 624 1280 800 4809697 
+~ Move `main_dlg_cur` `proe_win` \
+9 422 411 0 1537 952 624 1280 800 4809704 
+~ Move `main_dlg_cur` `proe_win` \
+9 423 411 0 513 952 624 1280 800 4809714 
+~ Move `main_dlg_cur` `proe_win` \
+9 424 411 0 513 952 624 1280 800 4809771 
+~ Move `main_dlg_cur` `proe_win` \
+9 425 411 0 513 952 624 1280 800 4809777 
+~ Move `main_dlg_cur` `proe_win` \
+9 427 411 0 513 952 624 1280 800 4809785 
+~ Move `main_dlg_cur` `proe_win` \
+9 429 411 0 513 952 624 1280 800 4809793 
+~ Move `main_dlg_cur` `proe_win` \
+9 432 411 0 513 952 624 1280 800 4809809 
+~ Move `main_dlg_cur` `proe_win` \
+9 433 412 0 1537 952 624 1280 800 4809817 
+~ Move `main_dlg_cur` `proe_win` \
+9 433 412 0 1 952 624 1280 800 4809865 
+~ LButtonDisarm `main_dlg_cur` `proe_win` \
+9 433 412 0 0 952 624 1280 800 4809916 
+~ Activate `main_dlg_cur` `chkbn.extrev_1_placement.0` \
+1 
+~ Trigger `extrev_1_placement.0.0` `PH.section_select_list` \
+ `0`
+~ Trigger `extrev_1_placement.0.0` `PH.section_select_list` \
+ ``
+~ Trigger `extrev_1_placement.0.0` `PH.section_select_list` \
+ `0`
+~ Trigger `extrev_1_placement.0.0` `PH.section_select_list` \
+ ``
+~ LButtonArm `main_dlg_cur` `proe_win` \
+9 427 424 0 1 952 624 1280 800 4813785 
+~ Move `main_dlg_cur` `proe_win` \
+9 427 424 0 1 952 624 1280 800 4813866 
+~ LButtonDisarm `main_dlg_cur` `proe_win` \
+9 427 424 0 0 952 624 1280 800 4813905 
+@ sel view 0
+ 0.403524 0.432100 2.155057 2.030730 0.764977 -0.533627
+ -0.840901 2.054729 -0.254529 437.195219 116.030098 -1319.292596 1.562500 0.000000 0
+~ LButtonArm `main_dlg_cur` `proe_win` \
+9 427 417 0 1 952 624 1280 800 4814408 
+~ LButtonDisarm `main_dlg_cur` `proe_win` \
+9 427 417 0 0 952 624 1280 800 4814512 
+@ sel view 0
+ 0.403524 0.432100 2.155057 2.030730 0.764977 -0.533627
+ -0.840901 2.054729 -0.254529 437.195219 116.030098 -1319.292596 1.562500 0.000000 0
+~ LButtonArm `main_dlg_cur` `proe_win` \
+9 427 417 0 129 952 624 1280 800 4814611 
+** 0.433744 0.330128 0 64 64
+0.368688 0.221687 E 0 0.739555556 0
+@ sel view 0
+ 0.403524 0.432100 2.155057 2.030730 0.764977 -0.533627
+ -0.840901 2.054729 -0.254529 437.195219 116.030098 -1319.292596 1.562500 0.000000 0
+~ LButtonDisarm `main_dlg_cur` `proe_win` \
+9 427 417 0 0 952 624 1280 800 4814705 
+~ LButtonArm `main_dlg_cur` `proe_win` \
+9 427 417 0 1 952 624 1280 800 4814782 
+~ Move `main_dlg_cur` `proe_win` \
+9 427 417 0 1 952 624 1280 800 4814867 
+~ LButtonDisarm `main_dlg_cur` `proe_win` \
+9 427 417 0 0 952 624 1280 800 4814874 
+@ sel view 0
+ 0.403524 0.432100 2.155057 2.030730 0.764977 -0.533627
+ -0.840901 2.054729 -0.254529 437.195219 116.030098 -1319.292596 1.562500 0.000000 0
+~ LButtonArm `main_dlg_cur` `proe_win` \
+9 427 417 0 129 952 624 1280 800 4814951 
+** 0.433744 0.330128 0 64 64
+0.368688 0.221687 E 0 0.739555556 0
+@ sel view 0
+ 0.403524 0.432100 2.155057 2.030730 0.764977 -0.533627
+ -0.840901 2.054729 -0.254529 437.195219 116.030098 -1319.292596 1.562500 0.000000 0
+~ LButtonDisarm `main_dlg_cur` `proe_win` \
+9 427 417 0 0 952 624 1280 800 4815018 
+~ LButtonArm `main_dlg_cur` `proe_win` \
+9 427 417 0 1 952 624 1280 800 4815097 
+~ LButtonDisarm `main_dlg_cur` `proe_win` \
+9 427 417 0 0 952 624 1280 800 4815170 
+~ LButtonArm `main_dlg_cur` `proe_win` \
+9 427 417 0 129 952 624 1280 800 4815264 
+** 0.433744 0.330128 0 64 64
+0.368688 0.221687 E 0 0.739555556 0
+@ sel view 0
+ 0.403524 0.432100 2.155057 2.030730 0.764977 -0.533627
+ -0.840901 2.054729 -0.254529 437.195219 116.030098 -1319.292596 1.562500 0.000000 0
+~ LButtonDisarm `main_dlg_cur` `proe_win` \
+9 427 417 0 0 952 624 1280 800 4815312 
+~ Trigger `extrev_1_placement.0.0` `PH.section_select_list` \
+ `0`
+~ Trigger `extrev_1_placement.0.0` `PH.section_select_list` \
+ ``
+~ Activate `extrev_1_placement.0.0` `PH.Sketch`
+!ODUI session starting: Okit widgets are on, Undo/Redo on, Dashboard style off, Tab style on. Feature title : 草绘
+!ODUI session started.
+!%CP选取一个平面或曲面以定义草绘平面。
+~ Activate `Odui_Dlg_01` `stdbtn_2`
+!ODUI session finished.
+!%CP选取一个草绘。(如果首选内部草绘，可在 放置 面板中找到 "定义" 选项。)
+~ LButtonArm `main_dlg_cur` `proe_win` \
+9 431 422 0 1 952 624 1280 800 4825436 
+~ Move `main_dlg_cur` `proe_win` \
+9 432 422 0 513 952 624 1280 800 4825736 
+~ Move `main_dlg_cur` `proe_win` \
+9 434 422 0 513 952 624 1280 800 4825746 
+~ Move `main_dlg_cur` `proe_win` \
+9 435 422 0 513 952 624 1280 800 4825753 
+~ Move `main_dlg_cur` `proe_win` \
+9 438 422 0 513 952 624 1280 800 4825762 
+~ Move `main_dlg_cur` `proe_win` \
+9 439 422 0 513 952 624 1280 800 4825768 
+~ Move `main_dlg_cur` `proe_win` \
+9 442 422 0 513 952 624 1280 800 4825776 
+~ Move `main_dlg_cur` `proe_win` \
+9 443 422 0 513 952 624 1280 800 4825784 
+~ Move `main_dlg_cur` `proe_win` \
+9 444 422 0 513 952 624 1280 800 4825824 
+~ Move `main_dlg_cur` `proe_win` \
+9 444 422 0 1 952 624 1280 800 4825841 
+~ Move `main_dlg_cur` `proe_win` \
+9 448 422 0 513 952 624 1280 800 4825864 
+~ Move `main_dlg_cur` `proe_win` \
+9 448 422 0 1 952 624 1280 800 4825873 
+~ Move `main_dlg_cur` `proe_win` \
+9 450 422 0 513 952 624 1280 800 4825879 
+~ Move `main_dlg_cur` `proe_win` \
+9 453 422 0 513 952 624 1280 800 4825896 
+~ Move `main_dlg_cur` `proe_win` \
+9 454 422 0 513 952 624 1280 800 4825904 
+~ Move `main_dlg_cur` `proe_win` \
+9 455 422 0 513 952 624 1280 800 4825912 
+~ Move `main_dlg_cur` `proe_win` \
+9 458 422 0 513 952 624 1280 800 4825928 
+~ Move `main_dlg_cur` `proe_win` \
+9 459 422 0 513 952 624 1280 800 4825945 
+~ Move `main_dlg_cur` `proe_win` \
+9 460 422 0 513 952 624 1280 800 4825953 
+~ Move `main_dlg_cur` `proe_win` \
+9 462 422 0 513 952 624 1280 800 4825970 
+~ Move `main_dlg_cur` `proe_win` \
+9 463 422 0 513 952 624 1280 800 4825978 
+~ Move `main_dlg_cur` `proe_win` \
+9 463 422 0 1 952 624 1280 800 4825985 
+~ Move `main_dlg_cur` `proe_win` \
+9 464 422 0 513 952 624 1280 800 4825992 
+~ Move `main_dlg_cur` `proe_win` \
+9 466 422 0 513 952 624 1280 800 4826001 
+~ Move `main_dlg_cur` `proe_win` \
+9 467 422 0 513 952 624 1280 800 4826009 
+~ Move `main_dlg_cur` `proe_win` \
+9 469 422 0 513 952 624 1280 800 4826017 
+~ Move `main_dlg_cur` `proe_win` \
+9 471 422 0 513 952 624 1280 800 4826025 
+~ Move `main_dlg_cur` `proe_win` \
+9 472 422 0 513 952 624 1280 800 4826032 
+~ Move `main_dlg_cur` `proe_win` \
+9 473 422 0 513 952 624 1280 800 4826041 
+~ Move `main_dlg_cur` `proe_win` \
+9 474 422 0 513 952 624 1280 800 4826056 
+~ Move `main_dlg_cur` `proe_win` \
+9 476 422 0 513 952 624 1280 800 4826105 
+~ LButtonDisarm `main_dlg_cur` `proe_win` \
+9 476 422 0 0 952 624 1280 800 4826267 
+~ LButtonArm `main_dlg_cur` `proe_win` \
+9 478 374 0 1 952 624 1280 800 4827562 
+~ LButtonDisarm `main_dlg_cur` `proe_win` \
+9 478 374 0 0 952 624 1280 800 4827657 
+@ sel view 0
+ 0.403524 0.432100 2.155057 2.030730 0.764977 -0.533627
+ -0.840901 2.054729 -0.254529 437.195219 116.030098 -1319.292596 1.562500 0.000000 0
+~ Select `main_dlg_cur` `PHTLeft.AssyTree` \
+1  `node17`
+!S2D0001
+~ Select `main_dlg_cur` `PHTLeft.AssyTree` \
+1  `node17`
+!S2D0001
+~ Select `main_dlg_cur` `PHTLeft.AssyTree` \
+1  `node17`
+!S2D0001
+~ Select `main_dlg_cur` `PHTLeft.AssyTree` \
+1  `node10`
+!拉伸 1
+~ Select `main_dlg_cur` `PHTLeft.AssyTree` \
+1  `node17`
+!S2D0001
+~ Activate `main_dlg_cur` `PHTLeft.AssyTree` \
+0 
+!Expanded S2D0001
+~ Select `main_dlg_cur` `PHTLeft.AssyTree` \
+1  `node17`
+!S2D0001
+~ Select `main_dlg_cur` `PHTLeft.AssyTree` \
+1  `node17`
+!S2D0001
+~ Select `main_dlg_cur` `PHTLeft.AssyTree` \
+1  `node17`
+!S2D0001
+~ Select `main_dlg_cur` `PHTLeft.AssyTree` \
+1  `node17`
+!S2D0001
+~ Activate `main_dlg_cur` `PHTLeft.AssyTree` \
+0 
+!Expanded S2D0001
+~ Select `main_dlg_cur` `PHTLeft.AssyTree` \
+1  `node17`
+!S2D0001
+~ Select `main_dlg_cur` `PHTLeft.AssyTree` \
+1  `node17`
+!S2D0001
+~ Activate `main_dlg_cur` `PHTLeft.AssyTree` \
+0 
+!Expanded S2D0001
+~ Select `main_dlg_cur` `PHTLeft.AssyTree` \
+1  `node17`
+!S2D0001
+~ Select `main_dlg_cur` `PHTLeft.AssyTree` \
+1  `node17`
+!S2D0001
+~ Select `main_dlg_cur` `PHTLeft.AssyTree` \
+1  `node17`
+!S2D0001
+~ Activate `main_dlg_cur` `PHTLeft.AssyTree` \
+0 
+!Expanded S2D0001
+~ Select `main_dlg_cur` `PHTLeft.AssyTree` \
+1  `node17`
+!S2D0001
+~ Select `main_dlg_cur` `PHTLeft.AssyTree` \
+1  `node17`
+!S2D0001
+~ Activate `main_dlg_cur` `PHTLeft.AssyTree` \
+0 
+!Expanded S2D0001
+~ Select `main_dlg_cur` `PHTLeft.AssyTree` \
+1  `node17`
+!S2D0001
+~ Select `main_dlg_cur` `PHTLeft.AssyTree` \
+1  `node17`
+!S2D0001
+~ Activate `main_dlg_cur` `PHTLeft.AssyTree` \
+0 
+!Expanded S2D0001
+~ Select `main_dlg_cur` `PHTLeft.AssyTree` \
+1  `node17`
+!S2D0001
+~ MButtonArm `main_dlg_cur` `proe_win` \
+9 242 248 0 2 952 624 1280 800 4842516 
+~ Move `main_dlg_cur` `proe_win` \
+9 247 247 0 1538 952 624 1280 800 4842680 
+~ Move `main_dlg_cur` `proe_win` \
+9 254 245 0 1538 952 624 1280 800 4842690 
+~ Move `main_dlg_cur` `proe_win` \
+9 259 245 0 514 952 624 1280 800 4842699 
+~ Move `main_dlg_cur` `proe_win` \
+9 264 245 0 514 952 624 1280 800 4842707 
+~ Move `main_dlg_cur` `proe_win` \
+9 270 244 0 1538 952 624 1280 800 4842717 
+~ Move `main_dlg_cur` `proe_win` \
+9 274 243 0 1538 952 624 1280 800 4842727 
+~ Move `main_dlg_cur` `proe_win` \
+9 283 243 0 514 952 624 1280 800 4842736 
+~ Move `main_dlg_cur` `proe_win` \
+9 286 243 0 514 952 624 1280 800 4842745 
+~ Move `main_dlg_cur` `proe_win` \
+9 288 242 0 1538 952 624 1280 800 4842754 
+~ Move `main_dlg_cur` `proe_win` \
+9 290 242 0 514 952 624 1280 800 4842768 
+~ Move `main_dlg_cur` `proe_win` \
+9 290 242 0 2 952 624 1280 800 4842864 
+~ Move `main_dlg_cur` `proe_win` \
+9 291 241 0 1538 952 624 1280 800 4843024 
+~ Move `main_dlg_cur` `proe_win` \
+9 293 236 0 1538 952 624 1280 800 4843036 
+~ Move `main_dlg_cur` `proe_win` \
+9 295 234 0 1538 952 624 1280 800 4843045 
+~ Move `main_dlg_cur` `proe_win` \
+9 296 232 0 1538 952 624 1280 800 4843058 
+~ Move `main_dlg_cur` `proe_win` \
+9 301 221 0 1538 952 624 1280 800 4843070 
+~ Move `main_dlg_cur` `proe_win` \
+9 302 220 0 1538 952 624 1280 800 4843078 
+~ Move `main_dlg_cur` `proe_win` \
+9 303 220 0 514 952 624 1280 800 4843088 
+~ Move `main_dlg_cur` `proe_win` \
+9 306 214 0 1538 952 624 1280 800 4843096 
+~ Move `main_dlg_cur` `proe_win` \
+9 306 212 0 1026 952 624 1280 800 4843296 
+~ Move `main_dlg_cur` `proe_win` \
+9 302 205 0 1538 952 624 1280 800 4843344 
+~ Move `main_dlg_cur` `proe_win` \
+9 299 201 0 1538 952 624 1280 800 4843354 
+~ Move `main_dlg_cur` `proe_win` \
+9 299 201 0 2 952 624 1280 800 4843368 
+~ Move `main_dlg_cur` `proe_win` \
+9 295 201 0 514 952 624 1280 800 4843447 
+~ Move `main_dlg_cur` `proe_win` \
+9 293 201 0 514 952 624 1280 800 4843456 
+~ Move `main_dlg_cur` `proe_win` \
+9 292 201 0 514 952 624 1280 800 4843467 
+~ Move `main_dlg_cur` `proe_win` \
+9 289 201 0 514 952 624 1280 800 4843475 
+~ Move `main_dlg_cur` `proe_win` \
+9 286 203 0 1538 952 624 1280 800 4843483 
+~ Move `main_dlg_cur` `proe_win` \
+9 283 204 0 1538 952 624 1280 800 4843490 
+~ Move `main_dlg_cur` `proe_win` \
+9 283 205 0 1026 952 624 1280 800 4843501 
+~ Move `main_dlg_cur` `proe_win` \
+9 282 205 0 514 952 624 1280 800 4843509 
+~ Move `main_dlg_cur` `proe_win` \
+9 278 206 0 1538 952 624 1280 800 4843516 
+~ Move `main_dlg_cur` `proe_win` \
+9 276 206 0 514 952 624 1280 800 4843526 
+~ Move `main_dlg_cur` `proe_win` \
+9 274 207 0 1538 952 624 1280 800 4843535 
+~ Move `main_dlg_cur` `proe_win` \
+9 273 207 0 514 952 624 1280 800 4843554 
+~ Move `main_dlg_cur` `proe_win` \
+9 273 207 0 2 952 624 1280 800 4843569 
+~ Move `main_dlg_cur` `proe_win` \
+9 273 207 0 2 952 624 1280 800 4843684 
+~ Move `main_dlg_cur` `proe_win` \
+9 272 208 0 1538 952 624 1280 800 4843705 
+~ Move `main_dlg_cur` `proe_win` \
+9 272 208 0 2 952 624 1280 800 4843719 
+~ Move `main_dlg_cur` `proe_win` \
+9 272 209 0 1026 952 624 1280 800 4843744 
+~ Move `main_dlg_cur` `proe_win` \
+9 271 210 0 1538 952 624 1280 800 4843753 
+~ Move `main_dlg_cur` `proe_win` \
+9 267 212 0 1538 952 624 1280 800 4843769 
+~ Move `main_dlg_cur` `proe_win` \
+9 267 214 0 1026 952 624 1280 800 4843782 
+~ Move `main_dlg_cur` `proe_win` \
+9 262 216 0 1538 952 624 1280 800 4843799 
+~ Move `main_dlg_cur` `proe_win` \
+9 257 219 0 1538 952 624 1280 800 4843829 
+~ Move `main_dlg_cur` `proe_win` \
+9 252 219 0 514 952 624 1280 800 4843850 
+~ Move `main_dlg_cur` `proe_win` \
+9 247 219 0 514 952 624 1280 800 4843878 
+~ Move `main_dlg_cur` `proe_win` \
+9 247 219 0 2 952 624 1280 800 4843908 
+~ Move `main_dlg_cur` `proe_win` \
+9 244 220 0 1538 952 624 1280 800 4843916 
+~ Move `main_dlg_cur` `proe_win` \
+9 243 220 0 514 952 624 1280 800 4843939 
+~ Move `main_dlg_cur` `proe_win` \
+9 242 220 0 514 952 624 1280 800 4843947 
+~ Move `main_dlg_cur` `proe_win` \
+9 241 221 0 1538 952 624 1280 800 4843969 
+~ Move `main_dlg_cur` `proe_win` \
+9 238 221 0 514 952 624 1280 800 4844048 
+~ Move `main_dlg_cur` `proe_win` \
+9 177 227 0 1538 952 624 1280 800 4844079 
+~ Move `main_dlg_cur` `proe_win` \
+9 -13 250 0 1538 952 624 1280 800 4844123 
+~ Move `main_dlg_cur` `proe_win` \
+9 -42 256 0 1538 952 624 1280 800 4844151 
+~ Move `main_dlg_cur` `proe_win` \
+9 -42 256 0 2 952 624 1280 800 4844382 
+~ Move `main_dlg_cur` `proe_win` \
+9 -42 256 0 2 952 624 1280 800 4844495 
+~ Move `main_dlg_cur` `proe_win` \
+9 -42 261 0 1026 952 624 1280 800 4844520 
+~ Move `main_dlg_cur` `proe_win` \
+9 -41 265 0 1538 952 624 1280 800 4844545 
+~ Move `main_dlg_cur` `proe_win` \
+9 -36 270 0 1538 952 624 1280 800 4844593 
+~ Move `main_dlg_cur` `proe_win` \
+9 -36 271 0 1026 952 624 1280 800 4844611 
+~ Move `main_dlg_cur` `proe_win` \
+9 -34 272 0 1538 952 624 1280 800 4844661 
+~ Move `main_dlg_cur` `proe_win` \
+9 -31 272 0 514 952 624 1280 800 4844687 
+~ Move `main_dlg_cur` `proe_win` \
+9 -28 273 0 1538 952 624 1280 800 4844705 
+~ Move `main_dlg_cur` `proe_win` \
+9 -27 273 0 514 952 624 1280 800 4844715 
+~ Move `main_dlg_cur` `proe_win` \
+9 -24 274 0 1538 952 624 1280 800 4844733 
+~ Move `main_dlg_cur` `proe_win` \
+9 -21 276 0 1538 952 624 1280 800 4844760 
+~ Move `main_dlg_cur` `proe_win` \
+9 -17 278 0 1538 952 624 1280 800 4844768 
+~ Move `main_dlg_cur` `proe_win` \
+9 -15 279 0 1538 952 624 1280 800 4844776 
+~ Move `main_dlg_cur` `proe_win` \
+9 -14 279 0 514 952 624 1280 800 4844785 
+~ Move `main_dlg_cur` `proe_win` \
+9 -13 280 0 1538 952 624 1280 800 4844792 
+~ Move `main_dlg_cur` `proe_win` \
+9 -10 280 0 514 952 624 1280 800 4844800 
+~ Move `main_dlg_cur` `proe_win` \
+9 -5 284 0 1538 952 624 1280 800 4844808 
+~ Move `main_dlg_cur` `proe_win` \
+9 -3 284 0 514 952 624 1280 800 4844818 
+~ Move `main_dlg_cur` `proe_win` \
+9 -1 285 0 1538 952 624 1280 800 4844826 
+~ Move `main_dlg_cur` `proe_win` \
+9 2 286 0 1538 952 624 1280 800 4844834 
+~ Move `main_dlg_cur` `proe_win` \
+9 2 286 0 2 952 624 1280 800 4844865 
+~ Move `main_dlg_cur` `proe_win` \
+9 3 287 0 1538 952 624 1280 800 4844872 
+~ Move `main_dlg_cur` `proe_win` \
+9 7 287 0 514 952 624 1280 800 4844880 
+~ Move `main_dlg_cur` `proe_win` \
+9 10 287 0 514 952 624 1280 800 4844888 
+~ Move `main_dlg_cur` `proe_win` \
+9 15 288 0 1538 952 624 1280 800 4844896 
+~ Move `main_dlg_cur` `proe_win` \
+9 16 289 0 1538 952 624 1280 800 4844905 
+~ Move `main_dlg_cur` `proe_win` \
+9 19 289 0 514 952 624 1280 800 4844912 
+~ Move `main_dlg_cur` `proe_win` \
+9 24 289 0 514 952 624 1280 800 4844921 
+~ Move `main_dlg_cur` `proe_win` \
+9 30 289 0 514 952 624 1280 800 4844928 
+~ Move `main_dlg_cur` `proe_win` \
+9 35 292 0 1538 952 624 1280 800 4844938 
+~ Move `main_dlg_cur` `proe_win` \
+9 44 292 0 514 952 624 1280 800 4844944 
+~ Move `main_dlg_cur` `proe_win` \
+9 48 293 0 1538 952 624 1280 800 4844952 
+~ Move `main_dlg_cur` `proe_win` \
+9 54 293 0 514 952 624 1280 800 4844962 
+~ Move `main_dlg_cur` `proe_win` \
+9 59 293 0 514 952 624 1280 800 4844975 
+~ Move `main_dlg_cur` `proe_win` \
+9 66 293 0 514 952 624 1280 800 4844990 
+~ Move `main_dlg_cur` `proe_win` \
+9 68 293 0 514 952 624 1280 800 4845002 
+~ Move `main_dlg_cur` `proe_win` \
+9 69 293 0 514 952 624 1280 800 4845178 
+~ Move `main_dlg_cur` `proe_win` \
+9 71 290 0 1538 952 624 1280 800 4845204 
+~ Move `main_dlg_cur` `proe_win` \
+9 71 290 0 2 952 624 1280 800 4845365 
+~ Move `main_dlg_cur` `proe_win` \
+9 73 289 0 1538 952 624 1280 800 4845466 
+~ Move `main_dlg_cur` `proe_win` \
+9 83 288 0 1538 952 624 1280 800 4845502 
+~ Move `main_dlg_cur` `proe_win` \
+9 90 288 0 514 952 624 1280 800 4845512 
+~ Move `main_dlg_cur` `proe_win` \
+9 97 288 0 514 952 624 1280 800 4845522 
+~ Move `main_dlg_cur` `proe_win` \
+9 105 288 0 514 952 624 1280 800 4845531 
+~ Move `main_dlg_cur` `proe_win` \
+9 106 288 0 514 952 624 1280 800 4845539 
+~ Move `main_dlg_cur` `proe_win` \
+9 107 287 0 1538 952 624 1280 800 4845640 
+~ Move `main_dlg_cur` `proe_win` \
+9 110 287 0 514 952 624 1280 800 4845667 
+~ Move `main_dlg_cur` `proe_win` \
+9 113 288 0 1538 952 624 1280 800 4845677 
+~ Move `main_dlg_cur` `proe_win` \
+9 114 288 0 514 952 624 1280 800 4845693 
+~ Move `main_dlg_cur` `proe_win` \
+9 114 288 0 2 952 624 1280 800 4845865 
+~ Move `main_dlg_cur` `proe_win` \
+9 117 290 0 1538 952 624 1280 800 4845976 
+~ MButtonDisarm `main_dlg_cur` `proe_win` \
+9 117 290 0 0 952 624 1280 800 4846251 
+~ LButtonArm `main_dlg_cur` `proe_win` \
+9 385 248 0 1 952 624 1280 800 4847442 
+~ Move `main_dlg_cur` `proe_win` \
+9 384 248 0 513 952 624 1280 800 4847783 
+~ Move `main_dlg_cur` `proe_win` \
+9 379 253 0 1537 952 624 1280 800 4847792 
+~ Move `main_dlg_cur` `proe_win` \
+9 375 263 0 1537 952 624 1280 800 4847800 
+~ Move `main_dlg_cur` `proe_win` \
+9 373 270 0 1537 952 624 1280 800 4847808 
+~ Move `main_dlg_cur` `proe_win` \
+9 372 276 0 1537 952 624 1280 800 4847816 
+~ Move `main_dlg_cur` `proe_win` \
+9 364 286 0 1537 952 624 1280 800 4847824 
+~ Move `main_dlg_cur` `proe_win` \
+9 359 294 0 1537 952 624 1280 800 4847833 
+~ Move `main_dlg_cur` `proe_win` \
+9 355 299 0 1537 952 624 1280 800 4847840 
+~ Move `main_dlg_cur` `proe_win` \
+9 353 303 0 1537 952 624 1280 800 4847849 
+~ Move `main_dlg_cur` `proe_win` \
+9 352 304 0 1537 952 624 1280 800 4847857 
+~ Move `main_dlg_cur` `proe_win` \
+9 352 304 0 1 952 624 1280 800 4847867 
+~ Move `main_dlg_cur` `proe_win` \
+9 351 306 0 1537 952 624 1280 800 4848123 
+~ Move `main_dlg_cur` `proe_win` \
+9 345 318 0 1537 952 624 1280 800 4848142 
+~ Move `main_dlg_cur` `proe_win` \
+9 343 325 0 1537 952 624 1280 800 4848147 
+~ Move `main_dlg_cur` `proe_win` \
+9 339 327 0 1537 952 624 1280 800 4848154 
+~ Move `main_dlg_cur` `proe_win` \
+9 338 330 0 1537 952 624 1280 800 4848161 
+~ Move `main_dlg_cur` `proe_win` \
+9 337 331 0 1537 952 624 1280 800 4848168 
+~ LButtonDisarm `main_dlg_cur` `proe_win` \
+9 337 331 0 0 952 624 1280 800 4848277 
+~ Select `main_dlg_cur` `PHTLeft.AssyTree` \
+1  `node17`
+!S2D0001
+~ Activate `main_dlg_cur` `PHTLeft.AssyTree` \
+0 
+!Expanded S2D0001
+~ Select `main_dlg_cur` `PHTLeft.AssyTree` \
+1  `node17`
+!S2D0001
+~ Select `main_dlg_cur` `PHTLeft.AssyTree` \
+1  `node17`
+!S2D0001
+~ Activate `main_dlg_cur` `PHTLeft.AssyTree` \
+0 
+!Expanded S2D0001
+~ Select `main_dlg_cur` `PHTLeft.AssyTree` \
+1  `node17`
+!S2D0001
+~ Select `main_dlg_cur` `PHTLeft.AssyTree` \
+1  `node17`
+!S2D0001
+~ Activate `main_dlg_cur` `PHTLeft.AssyTree` \
+0 
+!Expanded S2D0001
+~ Select `main_dlg_cur` `PHTLeft.AssyTree` \
+1  `node17`
+!S2D0001
+~ Select `main_dlg_cur` `PHTLeft.AssyTree` \
+1  `node1`
+!在此插入
+~ Select `main_dlg_cur` `PHTLeft.AssyTree` \
+1  `node1`
+!在此插入
+~ Activate `main_dlg_cur` `PHTLeft.AssyTree` \
+0 
+!Expanded 在此插入
+~ Select `main_dlg_cur` `PHTLeft.AssyTree` \
+1  `node1`
+!在此插入
+~ Select `main_dlg_cur` `PHTLeft.AssyTree` \
+1  `node1`
+!在此插入
+~ Activate `main_dlg_cur` `PHTLeft.AssyTree` \
+0 
+!Expanded 在此插入
+~ Select `main_dlg_cur` `PHTLeft.AssyTree` \
+1  `node1`
+!在此插入
+~ Select `main_dlg_cur` `PHTLeft.AssyTree` \
+1  `node17`
+!S2D0001
+~ Select `main_dlg_cur` `PHTLeft.AssyTree` \
+1  `node17`
+!S2D0001
+~ Enter `main_dlg_cur` `dashInst0.gP`
+~ Exit `main_dlg_cur` `dashInst0.gP`
+~ Enter `main_dlg_cur` `dashInst0.Quit`
+~ Activate `main_dlg_cur` `dashInst0.Quit`
+! Message Dialog: Warning
+!               : 确实要取消吗?
+~ FocusIn `UI Message Dialog` `yes`
+~ Activate `UI Message Dialog` `yes`
+!ODUI session finished.
+@ trail error  : Creating feature -1 in model PRT0001 - error 53
+ 53 
+~ Activate `main_dlg_cur` `main_dlg_cur`
+~ Activate `main_dlg_cur` `main_dlg_cur`
+~ MButtonArm `main_dlg_cur` `proe_win` \
+9 388 197 0 2 952 624 1280 800 6753076 
+~ Move `main_dlg_cur` `proe_win` \
+9 388 197 0 2 952 624 1280 800 6753078 
+~ Move `main_dlg_cur` `proe_win` \
+9 393 194 0 1538 952 624 1280 800 6753285 
+~ Move `main_dlg_cur` `proe_win` \
+9 414 210 0 1538 952 624 1280 800 6753333 
+~ Move `main_dlg_cur` `proe_win` \
+9 420 214 0 1538 952 624 1280 800 6753347 
+~ Move `main_dlg_cur` `proe_win` \
+9 422 215 0 1538 952 624 1280 800 6753358 
+~ Move `main_dlg_cur` `proe_win` \
+9 425 217 0 1538 952 624 1280 800 6753365 
+~ Move `main_dlg_cur` `proe_win` \
+9 426 218 0 1538 952 624 1280 800 6753377 
+~ Move `main_dlg_cur` `proe_win` \
+9 430 220 0 1538 952 624 1280 800 6753384 
+~ Move `main_dlg_cur` `proe_win` \
+9 431 220 0 514 952 624 1280 800 6753393 
+~ Move `main_dlg_cur` `proe_win` \
+9 433 220 0 514 952 624 1280 800 6753404 
+~ Move `main_dlg_cur` `proe_win` \
+9 437 222 0 1538 952 624 1280 800 6753411 
+~ Move `main_dlg_cur` `proe_win` \
+9 438 223 0 1538 952 624 1280 800 6753440 
+~ Move `main_dlg_cur` `proe_win` \
+9 439 224 0 1538 952 624 1280 800 6753456 
+~ Move `main_dlg_cur` `proe_win` \
+9 441 225 0 1538 952 624 1280 800 6753466 
+~ Move `main_dlg_cur` `proe_win` \
+9 446 226 0 1538 952 624 1280 800 6753476 
+~ Move `main_dlg_cur` `proe_win` \
+9 451 229 0 1538 952 624 1280 800 6753488 
+~ Move `main_dlg_cur` `proe_win` \
+9 452 230 0 1538 952 624 1280 800 6753498 
+~ Move `main_dlg_cur` `proe_win` \
+9 454 231 0 1538 952 624 1280 800 6753507 
+~ Move `main_dlg_cur` `proe_win` \
+9 459 233 0 1538 952 624 1280 800 6753515 
+~ Move `main_dlg_cur` `proe_win` \
+9 461 235 0 1538 952 624 1280 800 6753527 
+~ Move `main_dlg_cur` `proe_win` \
+9 464 237 0 1538 952 624 1280 800 6753536 
+~ Move `main_dlg_cur` `proe_win` \
+9 467 237 0 514 952 624 1280 800 6753547 
+~ Move `main_dlg_cur` `proe_win` \
+9 468 238 0 1538 952 624 1280 800 6753558 
+~ Move `main_dlg_cur` `proe_win` \
+9 469 239 0 1538 952 624 1280 800 6753566 
+~ Move `main_dlg_cur` `proe_win` \
+9 470 240 0 1538 952 624 1280 800 6753573 
+~ Move `main_dlg_cur` `proe_win` \
+9 472 241 0 1538 952 624 1280 800 6753593 
+~ Move `main_dlg_cur` `proe_win` \
+9 473 241 0 514 952 624 1280 800 6753691 
+~ Move `main_dlg_cur` `proe_win` \
+9 481 247 0 1538 952 624 1280 800 6753717 
+~ Move `main_dlg_cur` `proe_win` \
+9 493 257 0 1538 952 624 1280 800 6753737 
+~ Move `main_dlg_cur` `proe_win` \
+9 500 262 0 1538 952 624 1280 800 6753753 
+~ Move `main_dlg_cur` `proe_win` \
+9 505 267 0 1538 952 624 1280 800 6753765 
+~ Move `main_dlg_cur` `proe_win` \
+9 511 273 0 1538 952 624 1280 800 6753777 
+~ Move `main_dlg_cur` `proe_win` \
+9 513 275 0 1538 952 624 1280 800 6753785 
+~ Move `main_dlg_cur` `proe_win` \
+9 515 276 0 1538 952 624 1280 800 6753795 
+~ Move `main_dlg_cur` `proe_win` \
+9 517 278 0 1538 952 624 1280 800 6753805 
+~ Move `main_dlg_cur` `proe_win` \
+9 518 282 0 1538 952 624 1280 800 6754004 
+~ Move `main_dlg_cur` `proe_win` \
+9 518 301 0 1026 952 624 1280 800 6754025 
+~ Move `main_dlg_cur` `proe_win` \
+9 523 335 0 1538 952 624 1280 800 6754052 
+~ Move `main_dlg_cur` `proe_win` \
+9 523 346 0 1026 952 624 1280 800 6754065 
+~ Move `main_dlg_cur` `proe_win` \
+9 523 347 0 1026 952 624 1280 800 6754077 
+~ Move `main_dlg_cur` `proe_win` \
+9 523 349 0 1026 952 624 1280 800 6754169 
+~ Move `main_dlg_cur` `proe_win` \
+9 522 350 0 1538 952 624 1280 800 6754177 
+~ Move `main_dlg_cur` `proe_win` \
+9 516 353 0 1538 952 624 1280 800 6754204 
+~ Move `main_dlg_cur` `proe_win` \
+9 510 354 0 1538 952 624 1280 800 6754216 
+~ Move `main_dlg_cur` `proe_win` \
+9 503 357 0 1538 952 624 1280 800 6754224 
+~ Move `main_dlg_cur` `proe_win` \
+9 498 359 0 1538 952 624 1280 800 6754232 
+~ Move `main_dlg_cur` `proe_win` \
+9 493 363 0 1538 952 624 1280 800 6754240 
+~ Move `main_dlg_cur` `proe_win` \
+9 489 365 0 1538 952 624 1280 800 6754248 
+~ Move `main_dlg_cur` `proe_win` \
+9 484 368 0 1538 952 624 1280 800 6754258 
+~ Move `main_dlg_cur` `proe_win` \
+9 483 369 0 1538 952 624 1280 800 6754264 
+~ Move `main_dlg_cur` `proe_win` \
+9 481 370 0 1538 952 624 1280 800 6754273 
+~ Move `main_dlg_cur` `proe_win` \
+9 479 370 0 514 952 624 1280 800 6754280 
+~ Move `main_dlg_cur` `proe_win` \
+9 475 371 0 1538 952 624 1280 800 6754289 
+~ Move `main_dlg_cur` `proe_win` \
+9 473 373 0 1538 952 624 1280 800 6754296 
+~ Move `main_dlg_cur` `proe_win` \
+9 470 374 0 1538 952 624 1280 800 6754305 
+~ Move `main_dlg_cur` `proe_win` \
+9 469 375 0 1538 952 624 1280 800 6754312 
+~ Move `main_dlg_cur` `proe_win` \
+9 467 377 0 1538 952 624 1280 800 6754321 
+~ Move `main_dlg_cur` `proe_win` \
+9 466 379 0 1538 952 624 1280 800 6754328 
+~ Move `main_dlg_cur` `proe_win` \
+9 465 379 0 514 952 624 1280 800 6754337 
+~ Move `main_dlg_cur` `proe_win` \
+9 463 380 0 1538 952 624 1280 800 6754345 
+~ Move `main_dlg_cur` `proe_win` \
+9 461 380 0 514 952 624 1280 800 6754353 
+~ Move `main_dlg_cur` `proe_win` \
+9 460 380 0 514 952 624 1280 800 6754360 
+~ Move `main_dlg_cur` `proe_win` \
+9 454 380 0 514 952 624 1280 800 6754368 
+~ Move `main_dlg_cur` `proe_win` \
+9 453 383 0 1538 952 624 1280 800 6754377 
+~ Move `main_dlg_cur` `proe_win` \
+9 452 383 0 514 952 624 1280 800 6754384 
+~ Move `main_dlg_cur` `proe_win` \
+9 450 383 0 514 952 624 1280 800 6754434 
+~ Move `main_dlg_cur` `proe_win` \
+9 440 385 0 1538 952 624 1280 800 6754580 
+~ Move `main_dlg_cur` `proe_win` \
+9 427 371 0 1538 952 624 1280 800 6754612 
+~ Move `main_dlg_cur` `proe_win` \
+9 427 369 0 1026 952 624 1280 800 6754621 
+~ Move `main_dlg_cur` `proe_win` \
+9 425 359 0 1538 952 624 1280 800 6754637 
+~ Move `main_dlg_cur` `proe_win` \
+9 425 358 0 1026 952 624 1280 800 6754652 
+~ Move `main_dlg_cur` `proe_win` \
+9 425 347 0 1026 952 624 1280 800 6755076 
+~ Move `main_dlg_cur` `proe_win` \
+9 425 334 0 1026 952 624 1280 800 6755103 
+~ Move `main_dlg_cur` `proe_win` \
+9 425 324 0 1026 952 624 1280 800 6755121 
+~ Move `main_dlg_cur` `proe_win` \
+9 425 321 0 1026 952 624 1280 800 6755134 
+~ MButtonDisarm `main_dlg_cur` `proe_win` \
+9 425 321 0 0 952 624 1280 800 6755627 
+~ Activate `main_dlg_cur` `main_dlg_cur`
+~ Select `main_dlg_cur` `PHTLeft.AssyTree` \
+1  `node17`
+!S2D0001
+~ Select `main_dlg_cur` `PHTLeft.AssyTree` \
+1  `node10`
+~ RButtonArm `main_dlg_cur` `PHTLeft.AssyTree` \
+ `node10`
+!拉伸 1
+~ PopupOver `main_dlg_cur` `ActionMenu` \
+1  `PHTLeft.AssyTree`
+~ Open `main_dlg_cur` `ActionMenu`
+~ Close `main_dlg_cur` `ActionMenu`
+~ Activate `main_dlg_cur` `EditModify`
+!Command ProCmdEditShowDim was pushed from the software.
+!%CP选取项目以进行编辑，例如尺寸、剖面、轨迹、公差、表面光洁度或其它特征
+~ LButtonArm `main_dlg_cur` `proe_win` \
+9 557 463 0 1 952 624 1280 800 6801597 
+~ LButtonDisarm `main_dlg_cur` `proe_win` \
+9 557 463 0 0 952 624 1280 800 6801602 
+@ sel view 0
+ -0.040433 0.118865 2.231154 2.225592 -0.194891 0.050715
+ 0.197281 2.222994 -0.114855 505.117337 94.173579 -1474.036032 1.562500 0.000000 0
+@ sel stop
+@ sel stop
+@ sel stop
+@ sel stop
+@ stack idx 0
+@SELECTION 0 0 52 138 164
+~ LButtonArm `main_dlg_cur` `proe_win` \
+9 557 463 0 129 952 624 1280 800 6801622 
+~ LButtonDisarm `main_dlg_cur` `proe_win` \
+9 557 463 0 0 952 624 1280 800 6801627 
+~ LButtonArm `main_dlg_cur` `proe_win` \
+9 557 463 0 1 952 624 1280 800 6802549 
+~ Move `main_dlg_cur` `proe_win` \
+9 557 470 0 1025 952 624 1280 800 6802993 
+@sel2d for move
+@ sel view 0
+ -0.040433 0.118865 2.231154 2.225592 -0.194891 0.050715
+ 0.197281 2.222994 -0.114855 505.117337 94.173579 -1474.036032 1.562500 0.000000 0
+@ sel stop
+@ sel stop
+@ sel stop
+@ sel stop
+~ Move `main_dlg_cur` `proe_win` \
+9 557 476 0 1025 952 624 1280 800 6803003 
+~ Move `main_dlg_cur` `proe_win` \
+9 554 479 0 1537 952 624 1280 800 6803010 
+~ Move `main_dlg_cur` `proe_win` \
+9 554 482 0 1025 952 624 1280 800 6803018 
+~ Move `main_dlg_cur` `proe_win` \
+9 554 487 0 1025 952 624 1280 800 6803025 
+~ Move `main_dlg_cur` `proe_win` \
+9 554 490 0 1025 952 624 1280 800 6803033 
+~ Move `main_dlg_cur` `proe_win` \
+9 554 491 0 1025 952 624 1280 800 6803041 
+~ Move `main_dlg_cur` `proe_win` \
+9 553 492 0 1537 952 624 1280 800 6803065 
+~ LButtonDisarm `main_dlg_cur` `proe_win` \
+9 553 492 0 0 952 624 1280 800 6803500 
+@ sel view 0
+ -0.040433 0.118865 2.231154 2.225592 -0.194891 0.050715
+ 0.197281 2.222994 -0.114855 505.117337 94.173579 -1474.036032 1.562500 0.000000 0
+@ sel stop
+@ sel stop
+@ sel stop
+@ sel stop
+@ stack idx 0
+@SELECTION 0 0 52 138 164
+~ LButtonArm `main_dlg_cur` `proe_win` \
+9 615 503 0 1 952 624 1280 800 6812835 
+~ LButtonDisarm `main_dlg_cur` `proe_win` \
+9 615 503 0 0 952 624 1280 800 6812996 
+@ sel view 0
+ -0.040433 0.118865 2.231154 2.225592 -0.194891 0.050715
+ 0.197281 2.222994 -0.114855 505.117337 94.173579 -1474.036032 1.562500 0.000000 0
+@ sel stop
+@ sel stop
+@ sel stop
+@ sel stop
+@ stack idx 0
+@SELECTION 0 0 52 66 74
+!Command ProCmdDummyExitCmd was pushed from the software.
+!Command ProCmdViewRepaint was pushed from the software.
+~ Minimize `main_dlg_cur` `main_dlg_cur`
+~ Restore `main_dlg_cur` `main_dlg_cur`
+~ Select `main_dlg_cur` `PHTLeft.AssyTree` \
+1  `node17`
+!S2D0001
+~ RButtonArm `main_dlg_cur` `PHTLeft.AssyTree` \
+ `node17`
+~ PopupOver `main_dlg_cur` `ActionMenu` \
+1  `PHTLeft.AssyTree`
+~ Open `main_dlg_cur` `ActionMenu`
+~ Close `main_dlg_cur` `ActionMenu`
+~ Activate `main_dlg_cur` `Redefine`
+!ODUI session starting: Okit widgets are on, Undo/Redo on, Dashboard style off, Tab style on. Feature title : 草绘
+!ODUI session started.
+!sket_eps       2.252470155
+!sket_eps       2.228978443
+!%CI备份再生成功完成. 修改的尺寸存在。
+!Command ProCmdEditModify was pushed from the software.
+< 0 0.739556 910 0 0 624 1280 0 0 800 13
+~ FocusOut `ui_dynmod` `in.1`
+~ LButtonArm `main_dlg_cur` `proe_win` \
+9 590 561 0 1 910 624 1280 800 7035313 
+~ LButtonDisarm `main_dlg_cur` `proe_win` \
+9 590 561 0 0 910 624 1280 800 7035332 
+@ sel view 0
+ 0.000000 0.000000 2.258236 2.258236 0.000000 0.000000
+ 0.000000 2.258236 0.000000 500.000000 87.933283 -1444.027362 1.555735 0.000000 0
+@ sel2d 0 SKETCH_DIM 
+2 4 2 2 2 0 0 6 1
+@ stack idx 0
+@SELECTION 0 0 7 4 2
+~ LButtonArm `main_dlg_cur` `proe_win` \
+9 590 561 0 129 910 624 1280 800 7035415 
+** 0.682542 0.099359 0 64 64
+0.624180 0.135409 E 0 0.739555556 0
+@ sel view 0
+ 0.000000 0.000000 2.258236 2.258236 0.000000 0.000000
+ 0.000000 2.258236 0.000000 500.000000 87.933283 -1444.027362 1.555735 0.000000 0
+@ sel2d 0 SKETCH_DIM 
+2 4 2 2 2 0 0 6 1
+@ stack idx 0
+@SELECTION 0 0 7 4 2
+~ LButtonDisarm `main_dlg_cur` `proe_win` \
+9 590 561 0 0 910 624 1280 800 7035481 
+~ LButtonArm `main_dlg_cur` `proe_win` \
+9 601 566 0 1 910 624 1280 800 7036973 
+~ LButtonDisarm `main_dlg_cur` `proe_win` \
+9 601 566 0 0 910 624 1280 800 7037044 
+@ sel view 0
+ 0.000000 0.000000 2.258236 2.258236 0.000000 0.000000
+ 0.000000 2.258236 0.000000 500.000000 87.933283 -1444.027362 1.555735 0.000000 0
+@ sel2d 0 SKETCH_DIM 
+2 4 2 2 2 0 0 6 1
+@ stack idx 0
+@SELECTION 0 0 7 4 2
+~ LButtonArm `main_dlg_cur` `proe_win` \
+9 601 566 0 129 910 624 1280 800 7037134 
+** 0.697416 0.091346 0 64 64
+0.633740 0.131063 E 0 0.739555556 0
+@ sel view 0
+ 0.000000 0.000000 2.258236 2.258236 0.000000 0.000000
+ 0.000000 2.258236 0.000000 500.000000 87.933283 -1444.027362 1.555735 0.000000 0
+@ sel2d 0 SKETCH_DIM 
+2 4 2 2 2 0 0 6 1
+@ stack idx 0
+@SELECTION 0 0 7 4 2
+~ LButtonDisarm `main_dlg_cur` `proe_win` \
+9 601 566 0 0 910 624 1280 800 7037209 
+~ Update `ui_dynmod` `in.2` \
+ `18.00`
+~ Activate `ui_dynmod` `in.2`
+~ FocusOut `ui_dynmod` `in.2`
+~ FocusOut `ui_dynmod` `in.1`
+~ Activate `ui_dynmod` `ui_dynmod`
+~ FocusIn `ui_dynmod` `in.1`
+~ FocusOut `ui_dynmod` `in.1`
+~ LButtonArm `main_dlg_cur` `proe_win` \
+9 420 81 0 0 910 624 1280 800 7078101 
+~ LButtonArm `main_dlg_cur` `proe_win` \
+9 420 81 0 1 910 624 1280 800 7078122 
+~ Move `main_dlg_cur` `proe_win` \
+9 420 81 0 1 910 624 1280 800 7078122 
+~ LButtonDisarm `main_dlg_cur` `proe_win` \
+9 420 81 0 0 910 624 1280 800 7078178 
+@ sel view 0
+ 0.000000 0.000000 2.258236 2.258236 0.000000 0.000000
+ 0.000000 2.258236 0.000000 500.000000 87.933283 -1444.027362 1.555735 0.000000 0
+@ sel2d 0 SKETCH_DIM 
+0 4 0 1 1 4 4
+@ stack idx 0
+@SELECTION 0 0 7 4 0
+~ LButtonArm `main_dlg_cur` `proe_win` \
+9 420 81 0 129 910 624 1280 800 7078251 
+** 0.452674 0.868590 0 1 1
+0.476424 0.552600 L 0 0.739555556 0
+~ LButtonDisarm `main_dlg_cur` `proe_win` \
+9 420 81 0 0 910 624 1280 800 7078340 
+~ LButtonArm `main_dlg_cur` `proe_win` \
+9 421 77 0 1 910 624 1280 800 7080027 
+~ LButtonDisarm `main_dlg_cur` `proe_win` \
+9 421 77 0 0 910 624 1280 800 7080075 
+@ sel view 0
+ 0.000000 0.000000 2.258236 2.258236 0.000000 0.000000
+ 0.000000 2.258236 0.000000 500.000000 87.933283 -1444.027362 1.555735 0.000000 0
+@ sel2d 0 SKETCH_DIM 
+0 4 0 1 1 4 4
+@ stack idx 0
+@SELECTION 0 0 7 4 0
+~ LButtonArm `main_dlg_cur` `proe_win` \
+9 421 77 0 129 910 624 1280 800 7080173 
+** 0.454026 0.875000 0 64 64
+0.477294 0.556076 E 0 0.739555556 0
+@ sel view 0
+ 0.000000 0.000000 2.258236 2.258236 0.000000 0.000000
+ 0.000000 2.258236 0.000000 500.000000 87.933283 -1444.027362 1.555735 0.000000 0
+@ sel2d 0 SKETCH_DIM 
+0 4 0 1 1 4 4
+@ stack idx 0
+@SELECTION 0 0 7 4 0
+~ LButtonDisarm `main_dlg_cur` `proe_win` \
+9 421 77 0 0 910 624 1280 800 7080259 
+~ Update `ui_dynmod` `in.0` \
+ `115.5`
+~ Activate `ui_dynmod` `in.0`
+~ FocusOut `ui_dynmod` `in.0`
+~ FocusOut `ui_dynmod` `in.1`
+~ LButtonArm `main_dlg_cur` `proe_win` \
+9 513 109 0 1 910 624 1280 800 7090622 
+~ LButtonDisarm `main_dlg_cur` `proe_win` \
+9 513 109 0 0 910 624 1280 800 7090682 
+@ sel view 0
+ 0.000000 0.000000 2.258236 2.258236 0.000000 0.000000
+ 0.000000 2.258236 0.000000 500.000000 87.933283 -1444.027362 1.555735 0.000000 0
+@ sel2d 0 SKETCH_DIM 
+3 4 3 2 2 1 0 5 1
+@ stack idx 0
+@SELECTION 0 0 7 4 3
+~ Update `ui_dynmod` `in.3` \
+ `57.75`
+~ Activate `ui_dynmod` `in.3`
+~ FocusOut `ui_dynmod` `in.3`
+~ FocusOut `ui_dynmod` `in.1`
+~ Activate `ui_dynmod` `ok`
+!sket_eps       2.331854371
+!%CI尺寸修改成功完成。
+~ Command `ProCmdSketDone` 
+!ODUI session finished.
+!ProgressBarDlg: Regen Started
+!%CI正在从15 再生PRT0001特征7 ...
+!%CI正在从15恢复PRT0001特征8 ...
+!%CI正在从15恢复PRT0001特征9 ...
+!%CI正在从15恢复PRT0001特征10 ...
+!%CI正在从15 再生PRT0001特征11 ...
+!%CI正在加载孔图表...  
+!%CI正在从15 再生PRT0001特征12 ...
+!%CI正在从15 再生PRT0001特征13 ...
+!%CI正在从15 再生PRT0001特征14 ...
+!%CI正在从15 再生PRT0001特征15 ...
+!%CP警告:设计意图不明确。使用"信息"/"几何检查"菜单获得细节。
+!%CI再生成功完成。
+!ProgressBarDlg: Regen Completed
+!Undo: added rec_id 246 type 5300 
+!
+!%CI特征成功重定义。
+< 0 0.739556 952 0 0 624 1280 0 0 800 13
+~ Select `main_dlg_cur` `PHTLeft.AssyTree` \
+1  `node12`
+!基板
+~ RButtonArm `main_dlg_cur` `PHTLeft.AssyTree` \
+ `node12`
+~ PopupOver `main_dlg_cur` `ActionMenu` \
+1  `PHTLeft.AssyTree`
+~ Open `main_dlg_cur` `ActionMenu`
+~ Close `main_dlg_cur` `ActionMenu`
+~ Activate `main_dlg_cur` `Redefine`
+!sket_eps       2.228954053
+!sket_eps       2.228978443
+!ODUI session starting: Okit widgets are on, Undo/Redo on, Dashboard style on, Tab style off. Feature title : 伸出项: 拉伸
+!ODUI session started.
+!%CP选取一个草绘。(如果首选内部草绘，可在 放置 面板中找到 "编辑" 选项。)
+~ Wheel `main_dlg_cur` `proe_win` \
+9 688 287 393216 0 952 624 1280 800 7161212 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 688 287 393216 0 952 624 1280 800 7161298 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 688 287 393216 0 952 624 1280 800 7161420 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 688 287 458752 0 952 624 1280 800 7161833 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 688 287 458752 0 952 624 1280 800 7162000 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 688 287 393216 0 952 624 1280 800 7162546 
+~ LButtonArm `main_dlg_cur` `proe_win` \
+9 618 338 0 1 952 624 1280 800 7163953 
+~ LButtonDisarm `main_dlg_cur` `proe_win` \
+9 618 338 0 0 952 624 1280 800 7164004 
+@ sel view 0
+ 0.000000 0.000000 2.258211 2.258211 0.000000 0.000000
+ 0.000000 2.258211 0.000000 500.000000 87.936937 -1460.160123 0.995681 0.000000 0
+~ MButtonArm `main_dlg_cur` `proe_win` \
+9 646 299 0 2 952 624 1280 800 7166645 
+~ Move `main_dlg_cur` `proe_win` \
+9 647 299 0 514 952 624 1280 800 7166826 
+~ Move `main_dlg_cur` `proe_win` \
+9 654 299 0 514 952 624 1280 800 7166836 
+~ Move `main_dlg_cur` `proe_win` \
+9 669 303 0 1538 952 624 1280 800 7166878 
+~ Move `main_dlg_cur` `proe_win` \
+9 670 303 0 514 952 624 1280 800 7166887 
+~ Move `main_dlg_cur` `proe_win` \
+9 673 304 0 1538 952 624 1280 800 7166898 
+~ Move `main_dlg_cur` `proe_win` \
+9 676 305 0 1538 952 624 1280 800 7166909 
+~ Move `main_dlg_cur` `proe_win` \
+9 678 305 0 514 952 624 1280 800 7166954 
+~ Move `main_dlg_cur` `proe_win` \
+9 679 305 0 514 952 624 1280 800 7166981 
+~ Move `main_dlg_cur` `proe_win` \
+9 680 305 0 514 952 624 1280 800 7166992 
+~ Move `main_dlg_cur` `proe_win` \
+9 683 305 0 514 952 624 1280 800 7167005 
+~ Move `main_dlg_cur` `proe_win` \
+9 685 305 0 514 952 624 1280 800 7167019 
+~ Move `main_dlg_cur` `proe_win` \
+9 689 305 0 514 952 624 1280 800 7167036 
+~ Move `main_dlg_cur` `proe_win` \
+9 689 305 0 2 952 624 1280 800 7167051 
+~ Move `main_dlg_cur` `proe_win` \
+9 690 305 0 514 952 624 1280 800 7167058 
+~ Move `main_dlg_cur` `proe_win` \
+9 691 305 0 514 952 624 1280 800 7167066 
+~ Move `main_dlg_cur` `proe_win` \
+9 694 305 0 514 952 624 1280 800 7167075 
+~ Move `main_dlg_cur` `proe_win` \
+9 695 304 0 1538 952 624 1280 800 7167082 
+~ Move `main_dlg_cur` `proe_win` \
+9 698 304 0 514 952 624 1280 800 7167103 
+~ Move `main_dlg_cur` `proe_win` \
+9 700 304 0 514 952 624 1280 800 7167122 
+~ Move `main_dlg_cur` `proe_win` \
+9 703 302 0 1538 952 624 1280 800 7167137 
+~ Move `main_dlg_cur` `proe_win` \
+9 705 302 0 514 952 624 1280 800 7167153 
+~ Move `main_dlg_cur` `proe_win` \
+9 707 302 0 514 952 624 1280 800 7167161 
+~ Move `main_dlg_cur` `proe_win` \
+9 708 302 0 514 952 624 1280 800 7167169 
+~ Move `main_dlg_cur` `proe_win` \
+9 709 301 0 1538 952 624 1280 800 7167177 
+~ Move `main_dlg_cur` `proe_win` \
+9 710 301 0 514 952 624 1280 800 7167255 
+~ Move `main_dlg_cur` `proe_win` \
+9 711 301 0 514 952 624 1280 800 7167282 
+~ Move `main_dlg_cur` `proe_win` \
+9 713 301 0 514 952 624 1280 800 7167324 
+~ Move `main_dlg_cur` `proe_win` \
+9 714 301 0 514 952 624 1280 800 7167354 
+~ Move `main_dlg_cur` `proe_win` \
+9 715 301 0 514 952 624 1280 800 7167372 
+~ Move `main_dlg_cur` `proe_win` \
+9 715 300 0 1026 952 624 1280 800 7167386 
+~ Move `main_dlg_cur` `proe_win` \
+9 716 300 0 514 952 624 1280 800 7167420 
+~ Move `main_dlg_cur` `proe_win` \
+9 717 300 0 514 952 624 1280 800 7167429 
+~ Move `main_dlg_cur` `proe_win` \
+9 718 300 0 514 952 624 1280 800 7167441 
+~ Move `main_dlg_cur` `proe_win` \
+9 722 299 0 1538 952 624 1280 800 7167489 
+~ Move `main_dlg_cur` `proe_win` \
+9 723 299 0 514 952 624 1280 800 7167499 
+~ Move `main_dlg_cur` `proe_win` \
+9 725 297 0 1538 952 624 1280 800 7167508 
+~ Move `main_dlg_cur` `proe_win` \
+9 726 296 0 1538 952 624 1280 800 7167517 
+~ Move `main_dlg_cur` `proe_win` \
+9 727 296 0 514 952 624 1280 800 7167527 
+~ Move `main_dlg_cur` `proe_win` \
+9 728 296 0 514 952 624 1280 800 7167545 
+~ Move `main_dlg_cur` `proe_win` \
+9 730 294 0 1538 952 624 1280 800 7167577 
+~ Move `main_dlg_cur` `proe_win` \
+9 735 291 0 1538 952 624 1280 800 7167587 
+~ Move `main_dlg_cur` `proe_win` \
+9 736 290 0 1538 952 624 1280 800 7167603 
+~ Move `main_dlg_cur` `proe_win` \
+9 735 289 0 1538 952 624 1280 800 7167861 
+~ Move `main_dlg_cur` `proe_win` \
+9 731 286 0 1538 952 624 1280 800 7167874 
+~ Move `main_dlg_cur` `proe_win` \
+9 729 285 0 1538 952 624 1280 800 7167885 
+~ Move `main_dlg_cur` `proe_win` \
+9 727 285 0 514 952 624 1280 800 7167893 
+~ Move `main_dlg_cur` `proe_win` \
+9 725 284 0 1538 952 624 1280 800 7167903 
+~ Move `main_dlg_cur` `proe_win` \
+9 718 282 0 1538 952 624 1280 800 7167912 
+~ Move `main_dlg_cur` `proe_win` \
+9 717 281 0 1538 952 624 1280 800 7167922 
+~ Move `main_dlg_cur` `proe_win` \
+9 716 280 0 1538 952 624 1280 800 7167929 
+~ Move `main_dlg_cur` `proe_win` \
+9 714 280 0 514 952 624 1280 800 7167945 
+~ Move `main_dlg_cur` `proe_win` \
+9 713 280 0 514 952 624 1280 800 7167954 
+~ Move `main_dlg_cur` `proe_win` \
+9 712 280 0 514 952 624 1280 800 7167962 
+~ Move `main_dlg_cur` `proe_win` \
+9 711 280 0 514 952 624 1280 800 7167974 
+~ Move `main_dlg_cur` `proe_win` \
+9 709 280 0 514 952 624 1280 800 7167983 
+~ Move `main_dlg_cur` `proe_win` \
+9 707 281 0 1538 952 624 1280 800 7167994 
+~ Move `main_dlg_cur` `proe_win` \
+9 706 281 0 514 952 624 1280 800 7168005 
+~ Move `main_dlg_cur` `proe_win` \
+9 703 282 0 1538 952 624 1280 800 7168014 
+~ Move `main_dlg_cur` `proe_win` \
+9 701 283 0 1538 952 624 1280 800 7168026 
+~ Move `main_dlg_cur` `proe_win` \
+9 694 286 0 1538 952 624 1280 800 7168035 
+~ Move `main_dlg_cur` `proe_win` \
+9 692 287 0 1538 952 624 1280 800 7168044 
+~ Move `main_dlg_cur` `proe_win` \
+9 689 288 0 1538 952 624 1280 800 7168054 
+~ Move `main_dlg_cur` `proe_win` \
+9 687 289 0 1538 952 624 1280 800 7168063 
+~ Move `main_dlg_cur` `proe_win` \
+9 684 290 0 1538 952 624 1280 800 7168074 
+~ Move `main_dlg_cur` `proe_win` \
+9 682 290 0 514 952 624 1280 800 7168081 
+~ Move `main_dlg_cur` `proe_win` \
+9 680 292 0 1538 952 624 1280 800 7168090 
+~ Move `main_dlg_cur` `proe_win` \
+9 679 292 0 514 952 624 1280 800 7168098 
+~ Move `main_dlg_cur` `proe_win` \
+9 676 293 0 1538 952 624 1280 800 7168108 
+~ Move `main_dlg_cur` `proe_win` \
+9 675 293 0 514 952 624 1280 800 7168115 
+~ Move `main_dlg_cur` `proe_win` \
+9 674 294 0 1538 952 624 1280 800 7168125 
+~ Move `main_dlg_cur` `proe_win` \
+9 672 294 0 514 952 624 1280 800 7168132 
+~ Move `main_dlg_cur` `proe_win` \
+9 670 295 0 1538 952 624 1280 800 7168139 
+~ Move `main_dlg_cur` `proe_win` \
+9 669 295 0 514 952 624 1280 800 7168146 
+~ Move `main_dlg_cur` `proe_win` \
+9 665 296 0 1538 952 624 1280 800 7168154 
+~ Move `main_dlg_cur` `proe_win` \
+9 664 297 0 1538 952 624 1280 800 7168161 
+~ Move `main_dlg_cur` `proe_win` \
+9 660 298 0 1538 952 624 1280 800 7168169 
+~ Move `main_dlg_cur` `proe_win` \
+9 653 300 0 1538 952 624 1280 800 7168184 
+~ Move `main_dlg_cur` `proe_win` \
+9 652 301 0 1538 952 624 1280 800 7168192 
+~ Move `main_dlg_cur` `proe_win` \
+9 649 301 0 514 952 624 1280 800 7168202 
+~ Move `main_dlg_cur` `proe_win` \
+9 646 304 0 1538 952 624 1280 800 7168208 
+~ Move `main_dlg_cur` `proe_win` \
+9 644 305 0 1538 952 624 1280 800 7168218 
+~ Move `main_dlg_cur` `proe_win` \
+9 643 305 0 514 952 624 1280 800 7168224 
+~ Move `main_dlg_cur` `proe_win` \
+9 642 306 0 1538 952 624 1280 800 7168234 
+~ Move `main_dlg_cur` `proe_win` \
+9 641 306 0 514 952 624 1280 800 7168249 
+~ Move `main_dlg_cur` `proe_win` \
+9 639 306 0 514 952 624 1280 800 7168264 
+~ Move `main_dlg_cur` `proe_win` \
+9 638 307 0 1538 952 624 1280 800 7168273 
+~ Move `main_dlg_cur` `proe_win` \
+9 638 308 0 1026 952 624 1280 800 7168304 
+~ MButtonDisarm `main_dlg_cur` `proe_win` \
+9 638 308 0 0 952 624 1280 800 7168435 
+~ Enter `main_dlg_cur` `dashInst0.Quit`
+~ Activate `main_dlg_cur` `dashInst0.Quit`
+!ODUI session finished.
+~ Expand `main_dlg_cur` `PHTLeft.AssyTree` \
+ `node12`
+!Expanded 基板
+~ Select `main_dlg_cur` `PHTLeft.AssyTree` \
+1  `node17`
+~ RButtonArm `main_dlg_cur` `PHTLeft.AssyTree` \
+ `node17`
+!S2D0006
+!sket_eps       3.482778817
+~ PopupOver `main_dlg_cur` `ActionMenu` \
+1  `PHTLeft.AssyTree`
+~ Open `main_dlg_cur` `ActionMenu`
+~ Close `main_dlg_cur` `ActionMenu`
+~ Activate `main_dlg_cur` `Redefine`
+!ODUI session starting: Okit widgets are on, Undo/Redo on, Dashboard style off, Tab style on. Feature title : 草绘
+!ODUI session started.
+!Command ProCmdEditOneByOne was pushed from the software.
+< 0 0.739556 910 0 0 624 1280 0 0 800 13
+~ LButtonArm `main_dlg_cur` `proe_win` \
+9 430 567 0 1 910 624 1280 800 7191950 
+** 0.466196 0.089744 0 1 1
+0.454895 0.068721 L 0 0.739555556 0
+~ Move `main_dlg_cur` `proe_win` \
+9 430 567 0 1 910 624 1280 800 7191956 
+~ LButtonDisarm `main_dlg_cur` `proe_win` \
+9 430 567 0 0 910 624 1280 800 7191960 
+@ sel view 0
+ 0.000000 0.000000 2.258211 2.258211 0.000000 0.000000
+ 0.000000 2.258211 0.000000 500.000000 87.936937 -1460.160123 0.995681 0.000000 0
+@ sel2d 0 SKETCH_DIM 
+0 4 2 2 2 1 0 7 1
+@ sel2d 0 SKETCH_DIM 
+0 4 2 2 2 1 0 7 1
+@ stack idx 0
+~ LButtonArm `main_dlg_cur` `proe_win` \
+9 430 567 0 1 910 624 1280 800 7192949 
+** 0.466196 0.089744 0 1 1
+0.454895 0.068721 L 0 0.739555556 0
+~ LButtonDisarm `main_dlg_cur` `proe_win` \
+9 430 567 0 0 910 624 1280 800 7193028 
+@ sel view 0
+ 0.000000 0.000000 2.258211 2.258211 0.000000 0.000000
+ 0.000000 2.258211 0.000000 500.000000 87.936937 -1460.160123 0.995681 0.000000 0
+@ sel2d 0 SKETCH_DIM 
+0 4 2 2 2 1 0 7 1
+@ sel2d 0 SKETCH_DIM 
+0 4 2 2 2 1 0 7 1
+@ stack idx 0
+~ LButtonArm `main_dlg_cur` `proe_win` \
+9 430 567 0 129 910 624 1280 800 7193118 
+@ sel view 0
+ 0.000000 0.000000 2.258211 2.258211 0.000000 0.000000
+ 0.000000 2.258211 0.000000 500.000000 87.936937 -1460.160123 0.995681 0.000000 0
+@ sel2d 0 SKETCH_DIM 
+0 4 2 2 2 1 0 7 1
+** 0.466196 0.089744 0 64 64
+0.454895 0.068721 E 0 0.739555556 0
+~ Move `main_dlg_cur` `proe_win` \
+9 430 567 0 1 910 624 1280 800 7193204 
+~ LButtonDisarm `main_dlg_cur` `proe_win` \
+9 430 568 0 1024 910 624 1280 800 7193206 
+~ Update `main_dlg_cur` `mod_dim_emb` \
+ `59`
+~ Activate `main_dlg_cur` `mod_dim_emb`
+!sket_eps       3.643522454
+~ Command `ProCmdSketDone` 
+!sket_eps       3.703068091
+!ODUI session finished.
+!ProgressBarDlg: Regen Started
+!%CI正在从15 再生PRT0001特征5 ...
+!%CI正在从15 再生PRT0001特征6 ...
+!%CI正在从15 再生PRT0001特征7 ...
+!%CI正在从15 再生PRT0001特征8 ...
+!%CI正在从15 再生PRT0001特征9 ...
+!%CI正在从15 再生PRT0001特征10 ...
+!%CI正在从15 再生PRT0001特征11 ...
+!%CI正在从15 再生PRT0001特征12 ...
+!%CI正在从15 再生PRT0001特征13 ...
+!%CI正在从15 再生PRT0001特征14 ...
+!%CI正在从15 再生PRT0001特征15 ...
+!%CI再生成功完成。
+!ProgressBarDlg: Regen Completed
+!Undo: added rec_id 252 type 5300 
+!
+!%CI特征成功重定义。
+< 0 0.739556 952 0 0 624 1280 0 0 800 13
+~ LButtonArm `main_dlg_cur` `proe_win` \
+9 651 316 0 1 952 624 1280 800 7230177 
+~ LButtonDisarm `main_dlg_cur` `proe_win` \
+9 651 316 0 0 952 624 1280 800 7230298 
+@ sel view 0
+ 0.000000 0.000000 2.257928 2.257928 0.000000 0.000000
+ 0.000000 2.257928 0.000000 500.000000 87.973681 -1475.266684 0.979794 0.000000 0
+~ Wheel `main_dlg_cur` `proe_win` \
+9 651 316 393216 0 952 624 1280 800 7231128 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 651 316 458752 0 952 624 1280 800 7231569 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 651 316 458752 0 952 624 1280 800 7231699 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 651 316 458752 0 952 624 1280 800 7231901 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 651 316 458752 0 952 624 1280 800 7232949 
+~ LButtonArm `main_dlg_cur` `proe_win` \
+9 510 357 0 1 952 624 1280 800 7235170 
+~ LButtonDisarm `main_dlg_cur` `proe_win` \
+9 510 357 0 0 952 624 1280 800 7235316 
+@ sel view 0
+ 0.000000 0.000000 2.257928 2.257928 0.000000 0.000000
+ 0.000000 2.257928 0.000000 500.000000 87.973681 -1475.266684 1.913659 0.000000 0
+@ stack idx 0
+@SELECTION 0 0 52 138 165
+~ LButtonArm `main_dlg_cur` `proe_win` \
+9 516 357 0 1 952 624 1280 800 7236789 
+~ LButtonDisarm `main_dlg_cur` `proe_win` \
+9 516 357 0 0 952 624 1280 800 7236947 
+@ sel view 0
+ 0.000000 0.000000 2.257928 2.257928 0.000000 0.000000
+ 0.000000 2.257928 0.000000 500.000000 87.973681 -1475.266684 1.913659 0.000000 0
+@ stack idx 0
+@SELECTION 0 0 52 66 78
+~ LButtonArm `main_dlg_cur` `proe_win` \
+9 588 328 0 1 952 624 1280 800 7241572 
+~ LButtonDisarm `main_dlg_cur` `proe_win` \
+9 588 328 0 0 952 624 1280 800 7241715 
+@ sel view 0
+ 0.000000 0.000000 2.257928 2.257928 0.000000 0.000000
+ 0.000000 2.257928 0.000000 500.000000 87.973681 -1475.266684 1.913659 0.000000 0
+~ Wheel `main_dlg_cur` `proe_win` \
+9 609 267 458752 1024 952 624 1280 800 7244853 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 609 267 393216 0 952 624 1280 800 7245364 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 609 267 393216 0 952 624 1280 800 7245514 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 609 267 393216 0 952 624 1280 800 7246072 
+~ Command `ProCmdNaMeasureDistance` 
+!ODUI external UI session start for device : na_distance 
+!%CP选取用于距离分析的第一图元。
+~ Wheel `main_dlg_cur` `proe_win` \
+9 529 293 393216 0 952 624 1280 800 7618073 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 529 293 393216 0 952 624 1280 800 7618129 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 529 293 393216 0 952 624 1280 800 7618217 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 529 293 458752 0 952 624 1280 800 7618534 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 529 293 458752 0 952 624 1280 800 7618556 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 529 293 458752 0 952 624 1280 800 7618592 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 529 293 458752 0 952 624 1280 800 7618624 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 529 293 458752 0 952 624 1280 800 7618904 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 529 293 458752 0 952 624 1280 800 7618936 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 529 293 458752 0 952 624 1280 800 7618970 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 529 293 458752 0 952 624 1280 800 7619053 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 529 293 458752 0 952 624 1280 800 7619090 
+~ LButtonArm `main_dlg_cur` `proe_win` \
+9 591 334 0 1 952 624 1280 800 7620445 
+~ LButtonDisarm `main_dlg_cur` `proe_win` \
+9 591 334 0 0 952 624 1280 800 7620498 
+@ sel view 0
+ 0.000000 0.000000 2.257928 2.257928 0.000000 0.000000
+ 0.000000 2.257928 0.000000 500.000000 87.973681 -1475.266684 4.672020 0.000000 0
+@ stack idx 0
+@SELECTION 0 0 3 165 -1
+!%CP选取用于距离分析的第二图元。
+~ LButtonArm `main_dlg_cur` `proe_win` \
+9 602 311 0 1 952 624 1280 800 7621591 
+~ LButtonDisarm `main_dlg_cur` `proe_win` \
+9 602 311 0 0 952 624 1280 800 7621690 
+@ sel view 0
+ 0.000000 0.000000 2.257928 2.257928 0.000000 0.000000
+ 0.000000 2.257928 0.000000 500.000000 87.973681 -1475.266684 4.672020 0.000000 0
+@ stack idx 0
+@SELECTION 0 0 3 78 -1
+!%CI距离 = 1.25000
+~ Wheel `main_dlg_cur` `proe_win` \
+9 667 263 393216 1024 952 624 1280 800 7628399 
+!%CP使用(鼠标中键)定向视图。退出定向模式以终止。
+~ Wheel `main_dlg_cur` `proe_win` \
+9 667 263 393216 0 952 624 1280 800 7628535 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 667 263 393216 0 952 624 1280 800 7628813 
+~ LButtonArm `main_dlg_cur` `proe_win` \
+9 161 355 0 1 952 624 1280 800 7632204 
+~ LButtonDisarm `main_dlg_cur` `proe_win` \
+9 161 355 0 0 952 624 1280 800 7632266 
+@ sel view 0
+ 0.000000 0.000000 2.257928 2.257928 0.000000 0.000000
+ 0.000000 2.257928 0.000000 500.000000 87.973681 -1475.266684 2.392074 0.000000 0
+@ stack idx 0
+@SELECTION 0 0 3 76 -1
+!%CI距离 = 116.750
+~ LButtonArm `main_dlg_cur` `proe_win` \
+9 167 353 0 1 952 624 1280 800 7633389 
+~ LButtonDisarm `main_dlg_cur` `proe_win` \
+9 167 353 0 0 952 624 1280 800 7633474 
+@ sel view 0
+ 0.000000 0.000000 2.257928 2.257928 0.000000 0.000000
+ 0.000000 2.257928 0.000000 500.000000 87.973681 -1475.266684 2.392074 0.000000 0
+@ stack idx 0
+@SELECTION 0 0 3 163 -1
+!%CI距离 = 115.500
+~ Activate `na_distance` `cancel_btn`
+!ODUI external UI session stop. 
+~ Command `ProCmdNaMeasureDistance` 
+!ODUI external UI session start for device : na_distance 
+!%CP选取用于距离分析的第一图元。
+~ Wheel `main_dlg_cur` `proe_win` \
+9 164 350 393216 0 952 624 1280 800 7648089 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 164 350 393216 0 952 624 1280 800 7648160 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 164 350 393216 0 952 624 1280 800 7648248 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 164 350 458752 0 952 624 1280 800 7648439 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 164 350 458752 0 952 624 1280 800 7648466 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 164 350 458752 0 952 624 1280 800 7648504 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 164 350 458752 0 952 624 1280 800 7648545 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 164 350 458752 0 952 624 1280 800 7648593 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 164 350 458752 0 952 624 1280 800 7648834 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 164 350 458752 0 952 624 1280 800 7648852 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 164 350 458752 0 952 624 1280 800 7648872 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 164 350 458752 0 952 624 1280 800 7648923 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 164 350 458752 0 952 624 1280 800 7648984 
+~ LButtonArm `main_dlg_cur` `proe_win` \
+9 153 343 0 1 952 624 1280 800 7649865 
+~ LButtonDisarm `main_dlg_cur` `proe_win` \
+9 153 343 0 0 952 624 1280 800 7649882 
+@ sel view 0
+ 0.000000 0.000000 2.257928 2.257928 0.000000 0.000000
+ 0.000000 2.257928 0.000000 500.000000 87.973681 -1475.266684 11.406298 0.000000 0
+@ stack idx 0
+@SELECTION 0 0 3 76 -1
+!%CP选取用于距离分析的第二图元。
+~ LButtonArm `main_dlg_cur` `proe_win` \
+9 176 343 0 1 952 624 1280 800 7650647 
+~ LButtonDisarm `main_dlg_cur` `proe_win` \
+9 176 343 0 0 952 624 1280 800 7650747 
+@ sel view 0
+ 0.000000 0.000000 2.257928 2.257928 0.000000 0.000000
+ 0.000000 2.257928 0.000000 500.000000 87.973681 -1475.266684 11.406298 0.000000 0
+@ stack idx 0
+@SELECTION 0 0 3 163 -1
+!%CI距离 = 1.25000
+~ Wheel `main_dlg_cur` `proe_win` \
+9 257 243 393216 0 952 624 1280 800 7654874 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 257 243 393216 0 952 624 1280 800 7655025 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 257 243 393216 0 952 624 1280 800 7655192 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 257 243 393216 0 952 624 1280 800 7655320 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 257 243 393216 0 952 624 1280 800 7655425 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 257 243 393216 0 952 624 1280 800 7655504 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 257 243 458752 0 952 624 1280 800 7656882 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 434 322 458752 1024 952 624 1280 800 7659481 
+!%CP使用(鼠标中键)定向视图。退出定向模式以终止。
+~ Wheel `main_dlg_cur` `proe_win` \
+9 434 322 393216 0 952 624 1280 800 7660130 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 434 322 393216 0 952 624 1280 800 7660713 
+~ Trigger `na_distance` `from_rep_` \
+ `0`
+~ Trigger `na_distance` `from_rep_` \
+ ``
+~ Close `na_distance` `na_distance`
+!ODUI external UI session stop. 
+~ LButtonArm `main_dlg_cur` `proe_win` \
+9 142 237 0 1 952 624 1280 800 7664151 
+~ LButtonDisarm `main_dlg_cur` `proe_win` \
+9 142 237 0 0 952 624 1280 800 7664264 
+@ sel view 0
+ 0.000000 0.000000 2.257928 2.257928 0.000000 0.000000
+ 0.000000 2.257928 0.000000 500.000000 87.973681 -1475.266684 2.990093 0.000000 0
+~ Wheel `main_dlg_cur` `proe_win` \
+9 161 216 393216 1024 952 624 1280 800 7665770 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 161 216 393216 0 952 624 1280 800 7665954 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 161 216 393216 0 952 624 1280 800 7670362 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 161 216 393216 0 952 624 1280 800 7674914 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 523 135 393216 0 952 624 1280 800 7676628 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 523 135 393216 0 952 624 1280 800 7676748 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 523 135 458752 0 952 624 1280 800 7677585 
+~ Command `ProCmdModelSaveAs` 
+~ Update `file_saveas` `ph_model.ObjName0` \
+ `holder-8inch`
+~ Activate `file_saveas` `ph_model.ObjName0`
+!%CE'holder-8inch' 不在当前会话中。
+~ FocusOut `file_saveas` `ph_model.ObjName0`
+!%CE'holder-8inch' 不在当前会话中。
+~ Activate `file_saveas` `Cancel`
+!%CE没有对象被复制。
+~ Command `ProCmdModelSaveAs` 
+~ Update `file_saveas` `Inputname` \
+ `holder-8inch`
+~ Activate `file_saveas` `Inputname`
+!%CIPRT0001已被复制到HOLDER-8INCH。
+~ Close `main_dlg_cur` `main_dlg_cur`
+!Command ProCmdOSExit was pushed from the software.
+! Message Dialog: Warning
+!               : Pro/ENGINEER 将终止，并且所有未保存的工作将会丢失。
+!               : 您确实要退出吗?
+~ FocusIn `UI Message Dialog` `yes`
+~ Activate `UI Message Dialog` `yes`
+!End of Trail File
